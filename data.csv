@@ -1,0 +1,1098 @@
+ticker,name,industry,country,price,target_avg,target_min,target_max,analysts,market_cap,div_rate,ex_div,earnings,eps_ttm,as_of
+NVDA,NVIDIA Corporation,Semiconductors,United States,224.09,302.82758,180.0,500.0,58,5427683655680,1.0,2026-06-04,2026-08-26,6.52,2026-08-13
+AAPL,Apple Inc.,Consumer Electronics,United States,302.25,322.2844,215.0,400.0,41,4411090796544,1.08,2026-08-10,2026-10-29,8.72,2026-08-13
+GOOGL,Alphabet Inc.,Internet Content & Information,United States,343.54,428.04056,340.0,515.0,55,4201472065536,0.88,2026-09-04,2026-10-28,19.93,2026-08-13
+MSFT,Microsoft Corporation,Software - Infrastructure,United States,492.43,567.1998,400.0,870.0,53,3656561459200,3.64,2026-08-20,2026-10-28,17.94,2026-08-13
+AMZN,"Amazon.com, Inc.",Internet Retail,United States,267.28,325.19492,230.0,400.0,59,2882965864448,,,2026-10-29,12.21,2026-08-13
+TSM,Taiwan Semiconductor Manufactur,Semiconductors,Taiwan,429.15,547.09375,431.5,700.0,18,2225775312896,3.79,2026-09-16,2026-10-15,13.48,2026-08-13
+AVGO,Broadcom Inc.,Semiconductors,United States,416.05,527.88446,215.88,675.0,45,1979391279104,2.6,2026-06-22,2026-09-02,5.99,2026-08-13
+SPCX,Space Exploration Technologies ,Aerospace & Defense,United States,146.15,235.6875,62.0,800.0,16,1925407309824,,,2026-11-03,-1.21,2026-08-13
+META,"Meta Platforms, Inc.",Internet Content & Information,United States,578.85,754.14246,580.0,1000.0,57,1474623832064,2.1,2026-06-15,2026-10-28,25.64,2026-08-13
+TSLA,"Tesla, Inc.",Auto Manufacturers,United States,327.51,396.62274,125.0,600.0,40,1293516406784,,,2026-10-21,1.05,2026-08-13
+BRK.B,Berkshire Hathaway Inc. New,Insurance - Diversified,United States,510.0,531.6667,481.0,604.0,3,1091761995776,,,2026-11-07,39.27,2026-08-13
+BRK.A,Berkshire Hathaway Inc.,Insurance - Diversified,United States,764000.0,781752.75,721000.0,906011.0,4,1090334949376,,,2026-11-07,59675.0,2026-08-13
+LLY,Eli Lilly and Company,Drug Manufacturers - General,United States,1220.28,1299.0067,850.0,1600.0,27,1087705186304,6.92,2026-08-14,2026-10-29,29.9,2026-08-13
+MU,"Micron Technology, Inc.",Semiconductors,United States,911.29,1501.9767,361.0,2200.0,43,1029204672512,0.53,2026-07-06,2026-09-23,46.38,2026-08-13
+JPM,JP Morgan Chase & Co.,Banks - Diversified,United States,365.18,373.85715,305.0,420.0,21,970716413952,6.0,2026-07-06,2026-10-13,23.55,2026-08-13
+WMT,Walmart Inc.,Discount Stores,United States,116.01,137.975,81.0,155.0,40,923216773120,0.99,2026-08-21,2026-08-20,2.84,2026-08-13
+AMD,"Advanced Micro Devices, Inc.",Semiconductors,United States,482.93,613.3348,365.0,1250.0,46,788371144704,,,2026-11-03,4.01,2026-08-13
+ASML,ASML Holding N.V. - New York Re,Semiconductor Equipment & Materials,Netherlands,1810.07,2169.0627,891.59845,2861.9648,15,695247896576,9.08,2026-07-28,2026-10-14,29.5,2026-08-13
+V,Visa Inc.,Credit Services,United States,359.42,416.20026,330.0,450.0,37,671054168064,2.68,2026-08-11,2026-10-27,11.65,2026-08-13
+XOM,ExxonMobil Holdings Corporation,Oil & Gas Integrated,United States,159.75,168.31818,142.0,185.0,22,656877944832,4.12,2026-08-17,2026-10-30,7.76,2026-08-13
+JNJ,Johnson & Johnson,Drug Manufacturers - General,United States,260.86,272.5,190.0,305.0,22,628646084608,5.36,2026-08-25,2026-10-13,8.66,2026-08-13
+INTC,Intel Corporation,Semiconductors,United States,100.95,114.05,74.0,200.0,40,530444419072,,,2026-10-22,-2.16,2026-08-13
+TCEHY,Tencent Holding Ltd.,Internet Content & Information,China,56.33,97.69361,84.594185,106.4292,3,507061764096,0.67,2026-05-18,2026-08-12,3.38,2026-08-13
+MA,Mastercard Incorporated,Credit Services,United States,559.73,665.2632,550.0,735.0,38,490329014272,3.48,2026-07-09,2026-10-29,18.14,2026-08-13
+CSCO,"Cisco Systems, Inc.",Communication Equipment,United States,123.88,132.59091,115.0,150.0,22,488264925184,1.68,2026-07-06,2026-08-12,3.0,2026-08-13
+BAC,Bank of America Corporation,Banks - Diversified,United States,64.81,68.77273,62.0,75.0,22,453200019456,1.28,2026-09-04,2026-10-14,4.39,2026-08-13
+ORCL,Oracle Corporation,Software - Infrastructure,United States,153.28,247.17024,110.0,400.0,41,441518587904,2.0,2026-07-10,2026-09-10,6.15,2026-08-13
+ABBV,AbbVie Inc.,Drug Manufacturers - General,United States,248.76,275.39285,200.0,328.0,28,439588093952,6.92,2026-07-15,2026-10-29,3.53,2026-08-13
+AMAT,"Applied Materials, Inc.",Semiconductor Equipment & Materials,United States,548.15,633.34283,358.0,900.0,35,435208880128,2.12,2026-08-20,2026-08-13,11.07,2026-08-13
+COST,Costco Wholesale Corporation,Discount Stores,United States,949.58,1077.3143,740.0,1315.0,35,421116411904,5.88,2026-07-24,2026-09-24,20.04,2026-08-13
+PLTR,Palantir Technologies Inc.,Software - Infrastructure,United States,171.04,191.68,80.0,255.0,27,411019083776,,,2026-11-02,1.15,2026-08-13
+LRCX,Lam Research Corporation,Semiconductor Equipment & Materials,United States,326.11,368.9355,290.0,500.0,31,408068259840,1.04,2026-06-17,2026-10-21,6.03,2026-08-13
+CAT,"Caterpillar, Inc.",Farm & Heavy Construction Machinery,United States,855.6,970.70734,575.0,1225.0,26,393297821696,6.52,2026-07-20,2026-10-29,23.53,2026-08-13
+CVX,Chevron Corporation,Oil & Gas Integrated,United States,196.6,216.95833,175.0,236.0,24,385651212288,7.12,2026-08-19,2026-10-30,10.38,2026-08-13
+GE,GE Aerospace,Aerospace & Defense,United States,365.33,404.90475,347.0,455.0,21,379052687360,1.88,2026-07-06,2026-10-20,8.4,2026-08-13
+KO,Coca-Cola Company (The),Beverages - Non-Alcoholic,United States,86.71,94.69565,75.0,104.0,23,373074034688,2.12,2026-09-15,2026-10-20,3.34,2026-08-13
+UNH,UnitedHealth Group Incorporated,Healthcare Plans,United States,405.59,475.23077,313.0,529.0,26,364055461888,9.28,2026-09-14,2026-10-27,15.7,2026-08-13
+RHHBY,Roche Holding Ltd,Drug Manufacturers - General,Switzerland,56.51,59.65714,53.0,67.0,7,360201912320,1.55,2026-03-13,2026-01-29,2.37,2026-08-13
+HSBC,"HSBC Holdings, plc.",Banks - Diversified,United Kingdom,104.12,106.08,101.0,115.24,3,357830524928,3.75,2026-08-14,2026-10-27,7.06,2026-08-13
+HD,"Home Depot, Inc. (The)",Home Improvement Retail,United States,343.43,372.78125,310.0,430.0,32,342439755776,9.32,2026-06-04,2026-08-18,13.63,2026-08-13
+MS,Morgan Stanley,Capital Markets,United States,217.64,236.61905,184.0,262.0,21,342130065408,4.6,2026-07-31,2026-10-14,12.39,2026-08-13
+PG,Procter & Gamble Company (The),Household & Personal Products,United States,144.08,160.56522,143.0,186.0,23,335504539648,4.35,2026-07-24,2026-10-22,6.62,2026-08-13
+MRK,"Merck & Company, Inc.",Drug Manufacturers - General,United States,132.92,136.84615,105.0,155.0,26,327936442368,3.4,2026-09-15,2026-10-29,1.25,2026-08-13
+PANW,"Palo Alto Networks, Inc.",Software - Infrastructure,United States,387.01,339.4008,162.34,433.0,50,315413168128,,,2026-09-01,1.15,2026-08-13
+DELL,Dell Technologies Inc.,Computer Hardware,United States,484.5,500.73914,360.0,700.0,23,313056002048,2.52,2026-07-21,2026-09-03,13.81,2026-08-13
+NFLX,"Netflix, Inc.",Entertainment,United States,74.21,94.03667,70.0,135.0,45,309005942784,,,2026-10-20,3.15,2026-08-13
+GS,"Goldman Sachs Group, Inc. (The)",Capital Markets,United States,1037.21,1141.65,730.0,1325.0,20,302005878784,20.0,2026-09-01,2026-10-13,64.93,2026-08-13
+RTX,RTX Corporation,Aerospace & Defense,United States,222.76,232.27182,183.98,265.0,22,300226576384,2.92,2026-08-14,2026-10-20,5.66,2026-08-13
+BABA,Alibaba Group Holding Limited,Internet Retail,China,125.22,189.56746,92.43382,242.58687,39,300136529920,1.05,2026-06-11,2026-08-20,6.39,2026-08-13
+RY,Royal Bank Of Canada,Banks - Diversified,Canada,213.48,194.89212,170.22034,219.56392,2,296665120768,4.98,2026-07-27,2026-08-27,11.19,2026-08-13
+ARM,Arm Holdings plc,Semiconductors,United Kingdom,271.87,287.79474,125.0,500.0,38,290356756480,,,2026-11-04,0.98,2026-08-13
+PM,Philip Morris International Inc,Tobacco,United States,186.19,203.8,175.0,225.0,15,290198224896,5.88,2026-06-25,2026-10-21,7.28,2026-08-13
+NVS,Novartis AG,Drug Manufacturers - General,Switzerland,152.32,155.365,123.0,180.0,10,289516912640,4.74,2026-03-11,2026-10-27,6.62,2026-08-13
+GEV,GE Vernova Inc.,Specialty Industrial Machinery,United States,1039.9,1238.25,940.0,1450.0,33,276960313344,2.0,2026-06-16,2026-10-28,35.88,2026-08-13
+KLAC,KLA Corporation,Semiconductor Equipment & Materials,United States,208.25,231.77779,165.0,325.0,27,272088367104,0.92,2026-08-17,2026-10-28,3.67,2026-08-13
+WFC,Wells Fargo & Company,Banks - Diversified,United States,88.93,100.02174,90.0,115.0,23,268924256256,2.0,2026-08-07,2026-10-13,7.0,2026-08-13
+ANET,"Arista Networks, Inc.",Computer Hardware,United States,210.5,241.81519,185.0,289.0,27,265487794176,,,2026-11-03,3.37,2026-08-13
+LVMUY,LVMH-Moet Hennessy Louis Vuitto,Luxury Goods,France,107.0,125.5,95.5,155.0,3,263736393728,3.04,2026-04-27,2026-07-27,5.07,2026-08-13
+TXN,Texas Instruments Incorporated,Semiconductors,United States,276.59,324.4516,225.0,405.0,31,252595175424,5.68,2026-07-31,2026-10-27,6.47,2026-08-13
+NSRGY,Nestle S.A.,Packaged Foods,Switzerland,97.51,110.8,93.0,128.0,5,250817167360,3.94,2026-04-21,2026-02-19,3.58,2026-08-13
+SHEL,Shell PLC,Oil & Gas Integrated,United Kingdom,90.07,98.03333,81.6,120.6,15,248775245824,3.12,2026-08-14,2026-10-29,9.0,2026-08-13
+AZN,AstraZeneca PLC,Drug Manufacturers - General,United Kingdom,158.5,213.69,184.0,240.0,10,245815410688,3.2,2026-08-07,2026-10-30,6.67,2026-08-13
+SAP,SAP  SE,Software - Application,Germany,204.15,242.91667,177.0,319.0,12,235630804992,2.93,2026-05-06,2026-10-21,7.72,2026-08-13
+AXP,American Express Company,Credit Services,United States,344.08,375.5028,315.0,450.0,25,232360591360,3.8,2026-07-02,2026-10-23,16.65,2026-08-13
+C,"Citigroup, Inc.",Banks - Diversified,United States,137.58,154.5,129.0,176.0,20,230781763584,2.68,2026-08-03,2026-10-13,9.29,2026-08-13
+BHP,BHP Group Limited,Other Industrial Metals & Mining,Australia,90.12,73.64286,60.0,91.0,7,228935909376,2.66,2026-03-06,2026-08-17,4.02,2026-08-13
+CRWD,"CrowdStrike Holdings, Inc.",Software - Infrastructure,United States,221.78,194.66837,103.25,250.0,49,225829535744,,,2026-08-26,-0.02,2026-08-13
+AMGN,Amgen Inc.,Drug Manufacturers - General,United States,416.18,381.5862,230.0,452.0,29,224615792640,10.08,2026-08-21,2026-11-03,16.19,2026-08-13
+TMO,Thermo Fisher Scientific Inc,Diagnostics & Research,United States,603.01,631.4231,520.0,750.0,26,222961319936,1.88,2026-09-15,2026-10-21,18.51,2026-08-13
+TM,Toyota Motor Corporation,Auto Manufacturers,Japan,188.22,231.57802,220.0,239.31209,4,222872289280,6.27,2026-03-31,2026-11-05,22.06,2026-08-13
+IBM,International Business Machines,Information Technology Services,United States,235.98,244.15652,174.0,350.0,23,222324867072,6.76,2026-08-10,2026-10-21,11.14,2026-08-13
+LIN,Linde plc,Specialty Chemicals,United Kingdom,479.43,547.24,400.0,612.0,25,221007708160,6.4,2026-09-03,2026-10-30,15.15,2026-08-13
+SAN,"Banco Santander, S.A. Sponsored",Banks - Diversified,Spain,14.82,13.56,9.3,15.78,3,211430768640,0.28,2026-05-04,2026-10-28,1.02,2026-08-13
+APH,Amphenol Corporation,Electronic Components,United States,169.96,198.05882,170.0,230.0,17,209557864448,1.0,2026-09-22,2026-10-28,4.06,2026-08-13
+TD,Toronto Dominion Bank (The),Banks - Diversified,Canada,123.31,113.827774,97.54577,130.10977,2,203714396160,3.2,2026-07-10,2026-08-27,6.2,2026-08-13
+NVO,Novo Nordisk A/S,Drug Manufacturers - General,Denmark,46.39,47.12982,39.90903,63.59563,12,203241553920,1.8,2026-08-17,2026-11-04,4.06,2026-08-13
+STX,Seagate Technology Holdings PLC,Computer Hardware,Singapore,878.21,1115.8696,700.0,1600.0,23,199353679872,2.96,2026-09-24,2026-10-27,14.84,2026-08-13
+SNDK,Sandisk Corporation,Computer Hardware,United States,1344.29,2053.5,1000.0,3000.0,22,196266344448,,,2026-11-06,77.97,2026-08-13
+VZ,Verizon Communications Inc.,Telecom Services,United States,46.98,51.55652,44.0,71.0,23,195191341056,2.83,2026-07-10,2026-10-20,3.81,2026-08-13
+MCD,McDonald's Corporation,Restaurants,United States,275.7,316.0645,250.0,407.0,31,195096772608,7.44,2026-09-01,2026-11-05,12.38,2026-08-13
+MRVL,"Marvell Technology, Inc.",Semiconductors,United States,217.08,256.9142,126.0,400.0,40,194838953984,0.24,2026-07-10,2026-08-27,2.97,2026-08-13
+TTE,TotalEnergies SE,Oil & Gas Integrated,France,87.7,95.0,81.0,107.0,10,194445475840,4.24,2026-09-30,2026-10-29,7.96,2026-08-13
+EADSY,Airbus SE,Aerospace & Defense,Netherlands,61.4,61.90667,52.0,75.02,3,194387623936,0.94,2026-04-22,2026-10-28,2.18,2026-08-13
+ABT,Abbott Laboratories,Medical Devices,United States,110.91,118.41667,103.0,135.0,24,193184497664,2.52,2026-07-15,2026-10-14,3.13,2026-08-13
+ALIZY,Allianz SE,Insurance - Diversified,Germany,50.43,64.1465,49.393,78.9,2,191274074112,2.0,2026-05-11,2026-08-07,3.55,2026-08-13
+TMUS,"T-Mobile US, Inc.",Telecom Services,United States,177.13,243.08,169.0,300.0,25,190002331648,4.08,2026-08-28,2026-10-22,9.55,2026-08-13
+PEP,"Pepsico, Inc.",Beverages - Non-Alcoholic,United States,138.7,155.0,124.0,183.0,22,189464199168,5.92,2026-09-04,2026-10-08,7.63,2026-08-13
+SCHW,Charles Schwab Corporation (The,Capital Markets,United States,109.34,125.0,91.0,145.0,20,189085564928,1.28,2026-08-14,2026-10-15,5.58,2026-08-13
+BLK,"BlackRock, Inc.",Asset Management,United States,1160.91,1314.4375,1190.0,1488.0,16,188620242944,22.92,2026-09-08,2026-10-14,42.14,2026-08-13
+ADI,"Analog Devices, Inc.",Semiconductors,United States,384.43,457.73334,365.0,550.0,30,187250868224,4.4,2026-06-02,2026-08-19,6.69,2026-08-13
+BA,Boeing Company (The),Aerospace & Defense,United States,231.2,274.69232,246.0,305.0,26,182600024064,,,2026-10-28,2.75,2026-08-13
+NEE,"NextEra Energy, Inc.",Utilities - Regulated Electric,United States,85.78,98.52632,55.0,116.0,19,178903220224,2.49,2026-08-28,2026-10-27,4.45,2026-08-13
+ETN,"Eaton Corporation, PLC",Specialty Industrial Machinery,Ireland,459.96,471.9776,333.0,534.0,25,178602459136,4.4,2026-08-07,2026-11-03,9.83,2026-08-13
+DIS,Walt Disney Company (The),Entertainment,United States,103.22,127.71935,88.0,160.0,31,178228625408,1.5,2026-06-30,2026-11-12,4.83,2026-08-13
+UBS,UBS Group AG Registered,Banks - Diversified,Switzerland,53.93,55.03333,50.0,62.6,3,176772022272,1.1,2026-04-22,2026-10-28,1.59,2026-08-13
+BX,Blackstone Inc.,Asset Management,United States,146.41,142.38095,119.0,184.0,21,175003549696,5.23,2026-08-03,2026-10-22,4.45,2026-08-13
+UNP,Union Pacific Corporation,Railroads,United States,293.73,329.25,245.0,375.0,24,174497808384,5.68,2026-08-31,2026-10-22,12.36,2026-08-13
+RYCEY,Rolls Royce Holdings plc,Aerospace & Defense,United Kingdom,20.87,22.94,20.5,24.62,3,172323586048,0.15,2026-08-10,2026-07-30,0.49,2026-08-13
+QCOM,QUALCOMM Incorporated,Semiconductors,United States,163.07,194.76666,100.0,400.0,30,171223515136,3.68,2026-09-03,2026-10-29,8.77,2026-08-13
+TJX,"TJX Companies, Inc. (The)",Apparel Retail,United States,152.61,177.4,125.0,197.0,20,168588935168,1.92,2026-08-13,2026-08-19,5.04,2026-08-13
+GILD,"Gilead Sciences, Inc.",Drug Manufacturers - General,United States,135.87,157.40741,123.0,180.0,27,168472707072,3.28,2026-09-15,2026-10-29,-2.65,2026-08-13
+DE,Deere & Company,Farm & Heavy Construction Machinery,United States,619.77,647.61523,500.0,812.0,23,167404404736,6.48,2026-06-30,2026-08-20,17.73,2026-08-13
+T,AT&T Inc.,Telecom Services,United States,24.25,28.70652,20.0,36.0,23,166170361856,1.11,2026-07-10,2026-10-21,3.0,2026-08-13
+WELL,Welltower Inc.,Reit - Healthcare Facilities,United States,230.27,255.59091,192.0,292.0,22,165926125568,3.4,2026-08-12,2026-10-26,2.28,2026-08-13
+RIO,Rio Tinto Plc,Other Industrial Metals & Mining,United Kingdom,101.22,105.85375,88.0,125.0,8,164675174400,4.65,2026-08-14,2026-07-28,7.4,2026-08-13
+BKNG,Booking Holdings Inc. Common St,Travel Services,United States,212.26,237.80556,188.0,301.0,36,164475699200,1.68,2026-09-11,2026-10-27,8.98,2026-08-13
+CRM,"Salesforce, Inc.",Software - Application,United States,193.32,241.7198,160.0,475.0,53,158329094144,1.76,2026-06-11,2026-08-26,8.45,2026-08-13
+WDC,Western Digital Corporation,Computer Hardware,United States,454.1,662.125,420.0,1050.0,24,156520169472,0.6,2026-09-08,2026-11-05,25.16,2026-08-13
+IBKR,"Interactive Brokers Group, Inc.",Capital Markets,United States,91.66,106.13333,70.0,121.0,12,156171747328,0.35,2026-09-01,2026-10-20,2.58,2026-08-13
+BUD,Anheuser-Busch Inbev SA Sponsor,Beverages - Brewers,Belgium,79.19,97.033,85.0,111.0,10,155959607296,1.35,2026-05-08,2026-10-29,4.64,2026-08-13
+DTEGY,Deutsche Telekom AG,Telecom Services,Germany,32.38,41.825516,40.004612,44.004837,3,154860929024,1.17,2026-04-07,2026-11-05,2.03,2026-08-13
+UBER,"Uber Technologies, Inc.",Software - Application,United States,75.36,101.50128,70.0,150.0,47,153927335936,,,2026-11-03,4.56,2026-08-13
+COP,ConocoPhillips,Oil & Gas E&P,United States,127.3,143.83333,126.0,189.0,24,152930271232,3.36,2026-08-17,2026-11-05,7.64,2026-08-13
+PFE,"Pfizer, Inc.",Drug Manufacturers - General,United States,26.31,28.64423,25.0,35.75,26,149958410240,1.72,2026-07-24,2026-11-03,0.75,2026-08-13
+DHR,Danaher Corporation,Diagnostics & Research,United States,205.79,227.95651,195.0,310.0,23,144667492352,1.6,2026-06-26,2026-10-20,5.56,2026-08-13
+GLW,Corning Incorporated,Electronic Components,United States,167.44,191.4,129.0,226.0,15,143937765376,1.12,2026-08-31,2026-10-27,2.28,2026-08-13
+ISRG,"Intuitive Surgical, Inc.",Medical Instruments & Supplies,United States,401.27,477.25104,324.0,685.0,29,143766224896,,,2026-10-20,8.71,2026-08-13
+LMT,Lockheed Martin Corporation,Aerospace & Defense,United States,606.72,630.3158,503.0,756.0,19,140025364480,13.8,2026-09-01,2026-10-20,27.14,2026-08-13
+SONY,Sony Group Corporation,Consumer Electronics,Japan,23.54,30.0,23.0,34.0,4,137798598656,0.16,2026-03-30,2026-11-05,1.18,2026-08-13
+PLD,"Prologis, Inc.",Reit - Industrial,United States,140.73,158.3077,140.0,170.0,13,136802418688,4.28,2026-06-16,2026-10-14,4.49,2026-08-13
+COF,Capital One Financial Corporati,Credit Services,United States,222.44,256.5,214.0,300.0,22,136466948096,3.2,2026-08-17,2026-10-20,18.42,2026-08-13
+SYK,Stryker Corporation,Medical Devices,United States,347.21,382.03845,315.0,465.0,26,133180399616,3.52,2026-09-30,2026-10-29,9.62,2026-08-13
+VRTX,Vertex Pharmaceuticals Incorpor,Biotechnology,United States,525.73,563.12,350.0,672.0,25,133167407104,,,2026-11-02,17.03,2026-08-13
+UL,Unilever PLC,Household & Personal Products,United Kingdom,61.72,73.57727,69.68652,76.86758,4,132899479552,2.28,2026-05-15,2026-07-28,2.99,2026-08-13
+CB,Chubb Limited,Insurance - Property & Casualty,Switzerland,343.33,365.26086,306.0,425.0,23,132456660992,4.08,2026-06-12,2026-10-27,27.91,2026-08-13
+MFG,"Mizuho Financial Group, Inc. Sp",Banks - Regional,Japan,10.81,10.47946,8.9,12.05893,2,131689512960,0.18,2026-03-31,2026-11-12,0.66,2026-08-13
+BMY,Bristol-Myers Squibb Company,Drug Manufacturers - General,United States,63.7,66.20833,40.0,80.0,24,130120925184,2.52,2026-07-02,2026-10-29,4.55,2026-08-13
+NOW,"ServiceNow, Inc.",Software - Application,United States,124.94,140.25282,72.0,248.0,46,129170718720,,,2026-10-28,1.56,2026-08-13
+BMO,Bank Of Montreal,Banks - Diversified,Canada,183.57,163.05814,143.02133,179.91469,3,128575488000,4.88,2026-07-30,2026-08-25,9.45,2026-08-13
+PDD,PDD Holdings Inc.,Internet Retail,Ireland,89.03,116.47007,80.357086,170.89302,34,126732107776,,,2026-08-25,9.41,2026-08-13
+NEM,Newmont Corporation,Gold,United States,117.84,130.50476,67.0,168.0,21,124167094272,1.04,2026-09-03,2026-10-22,7.98,2026-08-13
+SBUX,Starbucks Corporation,Restaurants,United States,108.49,112.22581,81.0,143.0,31,123678597120,2.48,2026-08-14,2026-10-28,1.76,2026-08-13
+LOW,"Lowe's Companies, Inc.",Home Improvement Retail,United States,215.97,262.87878,202.0,300.0,33,121159172096,5.0,2026-07-22,2026-08-19,11.55,2026-08-13
+CVS,CVS Health Corporation,Healthcare Plans,United States,94.72,115.8,103.0,148.0,25,121144074240,2.66,2026-07-23,2026-10-28,3.84,2026-08-13
+SPGI,S&P Global Inc.,Financial Data & Stock Exchanges,United States,410.1,516.95,444.0,553.0,20,120897478656,3.88,2026-08-26,2026-10-29,16.49,2026-08-13
+PGR,Progressive Corporation (The),Insurance - Property & Casualty,United States,207.37,229.77856,198.0,308.0,21,120559058944,13.9,2026-10-01,2026-10-14,19.47,2026-08-13
+BTI,British American Tobacco  Indus,Tobacco,United Kingdom,55.84,70.2,63.0,75.0,6,120367955968,3.34,2026-10-02,2026-07-30,3.93,2026-08-13
+FTNT,"Fortinet, Inc.",Software - Infrastructure,United States,160.84,160.86485,86.0,220.0,37,118010503168,,,2026-11-04,2.81,2026-08-13
+MDT,Medtronic plc.,Medical Devices,Ireland,90.76,98.44,78.0,121.0,25,116176904192,2.88,2026-06-26,2026-09-01,3.73,2026-08-13
+SNOW,Snowflake Inc.,Software - Application,United States,332.26,303.95416,110.0,500.0,48,115161317376,,,2026-09-02,-3.49,2026-08-13
+PBR,Petroleo Brasileiro S.A. Petrob,Oil & Gas Integrated,Brazil,17.76,22.18836,17.4,27.0,14,114451947520,1.69,2026-08-25,2026-11-10,3.92,2026-08-13
+ENB,Enbridge Inc,Oil & Gas Midstream,Canada,51.44,52.666725,45.754032,60.22947,4,112349356032,2.75,2026-08-14,2026-11-06,1.85,2026-08-13
+VRT,"Vertiv Holdings, LLC",Electrical Equipment & Parts,United States,288.36,338.15384,236.0,427.0,26,111015182336,0.25,2026-06-15,2026-10-21,4.53,2026-08-13
+NET,"Cloudflare, Inc.",Software - Infrastructure,United States,311.45,330.6487,160.0,400.0,31,110901026816,,,2026-10-29,-0.58,2026-08-13
+BP,BP p.l.c.,Oil & Gas Integrated,United Kingdom,42.93,47.6,37.0,64.0,18,110559444992,2.02,2026-08-14,2026-10-30,2.08,2026-08-13
+CM,Canadian Imperial Bank of Comme,Banks - Diversified,Canada,120.9,111.36413,98.16162,120.9635,3,110357610496,3.03,2026-06-29,2026-08-27,7.22,2026-08-13
+BNS,Bank Nova Scotia Halifax Pfd 3,Banks - Diversified,Canada,90.33,86.99447,74.8756,94.62481,3,110317232128,3.23,2026-07-07,2026-08-25,5.28,2026-08-13
+ACN,Accenture plc,Information Technology Services,Ireland,180.14,178.8908,130.0,275.0,25,110235246592,6.52,2026-07-09,2026-10-01,12.54,2026-08-13
+CVNA,Carvana Co.,Auto & Truck Dealerships,United States,72.48,82.825,60.0,120.0,20,107855486976,,,2026-10-28,1.91,2026-08-13
+ABNB,"Airbnb, Inc.",Travel Services,United States,180.09,173.11539,115.0,210.0,39,107838308352,,,2026-11-05,4.27,2026-08-13
+MO,"Altria Group, Inc.",Tobacco,United States,64.38,70.0,58.0,82.0,11,107498102784,4.24,2026-06-15,2026-10-29,4.75,2026-08-13
+GD,General Dynamics Corporation,Aerospace & Defense,United States,394.21,419.0724,319.0,465.0,21,106656342016,6.36,2026-10-09,2026-10-28,16.48,2026-08-13
+SO,Southern Company (The),Utilities - Regulated Electric,United States,92.52,100.675,79.0,114.0,20,106431578112,3.04,2026-08-17,2026-10-29,4.15,2026-08-13
+EQIX,"Equinix, Inc.",Reit - Specialty,United States,1069.17,1225.7587,1060.0,1350.0,29,105496813568,20.64,2026-08-19,2026-10-28,16.14,2026-08-13
+TT,Trane Technologies plc,Building Products & Equipment,Ireland,478.55,525.27716,422.0,575.0,21,105292095488,4.2,2026-09-04,2026-10-29,13.41,2026-08-13
+SNY,Sanofi,Drug Manufacturers - General,France,43.71,53.72222,45.0,63.0,9,104735170560,2.42,2026-05-04,2026-10-30,1.88,2026-08-13
+BYDDY,"BYD Co., Ltd.",Auto Manufacturers,China,11.33,16.0,16.0,16.0,1,103297843200,0.05,2026-06-12,2026-08-27,0.44,2026-08-13
+ADBE,Adobe Inc.,Software - Application,United States,258.75,269.60825,190.0,380.0,34,102853124096,,,2026-09-10,17.16,2026-08-13
+KKR,KKR & Co. Inc.,Asset Management,United States,110.9,126.526,105.0,147.0,20,102426189824,0.78,2026-08-10,2026-11-05,3.13,2026-08-13
+MPC,Marathon Petroleum Corporation,Oil & Gas Refining & Marketing,United States,348.25,317.72223,186.0,376.0,18,101666938880,4.0,2026-08-19,2026-11-03,28.83,2026-08-13
+APP,Applovin Corporation,Advertising Agencies,United States,303.76,559.0,357.0,860.0,30,101653446656,,,2026-11-04,12.39,2026-08-13
+USB,U.S. Bancorp,Banks - Regional,United States,65.02,70.31818,65.0,77.0,22,101304500224,2.08,2026-06-30,2026-10-15,5.07,2026-08-13
+GSK,GSK plc,Drug Manufacturers - General,United Kingdom,50.3,58.0775,47.0,70.0,8,100741120000,1.82,2026-08-14,2026-10-28,3.14,2026-08-13
+SPOT,Spotify Technology S.A.,Internet Content & Information,Sweden,489.6,607.40656,420.33884,720.5809,39,100671586304,,,2026-11-03,17.97,2026-08-13
+BN,Brookfield Corporation,Asset Management,Canada,44.69,54.2,31.0,61.0,10,99819388928,0.28,2026-06-15,2026-08-13,0.51,2026-08-13
+CEG,Constellation Energy Corporatio,Utilities - Independent Power Producers,United States,278.68,349.95618,290.0,441.0,21,98738380800,1.71,2026-08-18,2026-11-09,10.26,2026-08-13
+CNQ,Canadian Natural Resources Limi,Oil & Gas E&P,Canada,47.57,48.439686,44.268867,55.563366,4,98065555456,1.78,2026-09-11,2026-11-05,4.02,2026-08-13
+EQNR,Equinor ASA,Oil & Gas Integrated,Norway,40.99,34.74167,31.25,38.0,6,97336786944,1.56,2026-08-14,2026-10-28,3.7,2026-08-13
+FCX,"Freeport-McMoRan, Inc.",Copper,United States,69.22,71.72727,30.0,82.0,22,96908001280,0.6,2026-07-15,2026-10-22,2.05,2026-08-13
+DUK,Duke Energy Corporation (Holdin,Utilities - Regulated Electric,United States,123.49,137.72221,129.0,147.0,18,96285425664,4.34,2026-08-14,2026-11-05,6.66,2026-08-13
+VLO,Valero Energy Corporation,Oil & Gas Refining & Marketing,United States,330.21,309.78946,190.0,365.0,19,95076524032,4.8,2026-07-31,2026-10-22,23.97,2026-08-13
+IFNNY,Infineon Technologies AG,Semiconductors,Germany,72.95,106.0,71.0,125.0,4,94798495744,0.41,2026-02-23,2026-08-05,0.96,2026-08-13
+MMM,3M Company,Conglomerates,United States,183.78,183.25824,120.0,219.0,17,94779465728,3.12,2026-05-22,2026-10-20,5.64,2026-08-13
+CME,CME Group Inc.,Financial Data & Stock Exchanges,United States,262.17,284.13333,230.0,330.0,15,94270898176,5.2,2026-09-09,2026-10-21,11.93,2026-08-13
+AEM,Agnico Eagle Mines Limited,Gold,Canada,185.18,214.97571,87.0,300.0,14,93768638464,1.8,2026-09-01,2026-10-28,11.91,2026-08-13
+CSX,CSX Corporation,Railroads,United States,50.08,53.14088,32.0,60.0,23,92771942400,0.56,2026-08-31,2026-10-22,1.72,2026-08-13
+MELI,"MercadoLibre, Inc.",Internet Retail,Uruguay,1828.29,2252.375,1750.0,2800.0,24,92688457728,,,2026-11-04,34.55,2026-08-13
+JCI,Johnson Controls International ,Building Products & Equipment,Ireland,152.79,162.21053,129.0,189.0,19,92551233536,1.6,2026-06-15,2026-07-29,3.54,2026-08-13
+MAR,Marriott International,Lodging,United States,354.58,380.125,280.0,425.0,24,92462505984,2.92,2026-08-20,2026-11-03,9.65,2026-08-13
+DASH,"DoorDash, Inc.",Internet Retail,United States,212.49,251.86584,172.0,350.0,41,92070993920,,,2026-11-04,1.91,2026-08-13
+HCA,"HCA Healthcare, Inc.",Medical Care Facilities,United States,414.59,454.57144,380.0,579.0,21,91972567040,3.12,2026-09-16,2026-10-23,30.06,2026-08-13
+EMR,Emerson Electric Company,Specialty Industrial Machinery,United States,163.8,170.0737,104.0,205.0,27,91744378880,2.22,2026-08-14,2026-11-04,4.57,2026-08-13
+INTU,Intuit Inc.,Software - Application,United States,334.71,455.3818,250.0,921.0,33,91555561472,4.8,2026-07-09,2026-08-25,16.38,2026-08-13
+WM,"Waste Management, Inc.",Waste Management,United States,226.32,260.84,220.0,285.0,25,90463543296,3.54,2026-06-05,2026-10-26,3.78,2026-08-13
+CMCSA,Comcast Corporation,Telecom Services,United States,25.47,30.08136,21.0,44.0,22,90383769600,1.32,2026-10-07,2026-10-29,3.1,2026-08-13
+WMB,"Williams Companies, Inc. (The)",Oil & Gas Midstream,United States,73.7,84.7,69.0,99.0,20,90147438592,2.1,2026-09-11,2026-11-02,2.56,2026-08-13
+MNST,Monster Beverage Corporation,Beverages - Non-Alcoholic,United States,45.98,48.69565,17.5,56.5,23,90077200384,,,2026-11-05,1.09,2026-08-13
+PSX,Phillips 66,Oil & Gas Refining & Marketing,United States,225.58,217.10526,160.0,255.0,19,90011140096,5.08,2026-08-18,2026-10-29,17.62,2026-08-13
+BAESY,BAE Systems PLC,Aerospace & Defense,United Kingdom,122.81,136.4,132.8,140.0,2,89949945856,1.94,2026-04-24,2026-07-30,3.83,2026-08-13
+LYG,Lloyds Banking Group Plc,Banks - Regional,United Kingdom,6.19,6.455,5.95,7.02,4,89809551360,0.22,2026-08-10,2026-10-29,0.44,2026-08-13
+CDNS,"Cadence Design Systems, Inc.",Software - Application,United States,323.13,403.6727,300.0,470.0,26,89124421632,,,2026-10-26,4.98,2026-08-13
+UPS,"United Parcel Service, Inc.",Integrated Freight & Logistics,United States,103.91,115.96154,76.0,135.0,26,88404713472,6.56,2026-08-17,2026-10-27,5.38,2026-08-13
+CMI,Cummins Inc.,Specialty Industrial Machinery,United States,637.85,756.5195,530.0,894.0,18,88016322560,8.8,2026-08-21,2026-11-05,19.71,2026-08-13
+ELV,"Elevance Health, Inc.",Healthcare Plans,United States,399.14,449.09525,393.0,492.0,21,86561210368,6.88,2026-09-10,2026-10-21,23.11,2026-08-13
+DDOG,"Datadog, Inc.",Software - Application,United States,240.91,283.51755,158.0,330.0,45,86504759296,,,2026-11-05,0.48,2026-08-13
+XIACY,Xiaomi Corp.,Consumer Electronics,China,16.72,30.032475,30.032475,30.032475,1,86081290240,,,2026-08-18,1.16,2026-08-13
+HOOD,"Robinhood Markets, Inc.",Capital Markets,United States,94.91,119.81538,57.0,163.6,26,85331902464,,,2026-11-04,2.27,2026-08-13
+ICE,Intercontinental Exchange Inc.,Financial Data & Stock Exchanges,United States,151.33,185.92857,163.0,232.0,14,84955832320,2.08,2026-09-16,2026-10-29,7.1,2026-08-13
+SPG,"Simon Property Group, Inc.",Reit - Retail,United States,220.56,231.3158,199.0,285.0,19,83729752064,8.9,2026-09-09,2026-11-02,14.23,2026-08-13
+ITW,Illinois Tool Works Inc.,Specialty Industrial Machinery,United States,292.51,301.7857,249.0,350.0,14,83306848256,6.88,2026-09-30,2026-10-23,11.03,2026-08-13
+MCO,Moody's Corporation,Financial Data & Stock Exchanges,United States,477.84,560.4762,505.0,610.0,21,82752806912,4.12,2026-08-14,2026-10-21,15.82,2026-08-13
+LITE,Lumentum Holdings Inc.,Communication Equipment,United States,932.47,1125.9277,800.0,1400.0,24,82616836096,,,2026-11-05,6.43,2026-08-13
+RCL,Royal Caribbean Cruises Ltd.,Travel Services,United States,308.0,346.92307,262.0,415.0,26,82375237632,5.0,2026-06-03,2026-10-27,16.19,2026-08-13
+REGN,"Regeneron Pharmaceuticals, Inc.",Biotechnology,United States,797.99,833.5396,641.0,1030.0,27,82157051904,3.76,2026-08-18,2026-10-28,40.46,2026-08-13
+NOC,Northrop Grumman Corporation,Aerospace & Defense,United States,577.32,643.2848,538.0,815.0,21,82015830016,9.4,2026-06-01,2026-10-20,31.52,2026-08-13
+EPD,Enterprise Products Partners L.,Oil & Gas Midstream,United States,37.92,41.2,37.0,46.0,20,81887371264,2.21,2026-07-31,2026-10-27,2.89,2026-08-13
+APO,"Apollo Global Management, Inc. ",Asset Management,United States,138.61,152.89474,130.0,173.0,19,81855184896,2.25,2026-08-19,2026-11-03,2.77,2026-08-13
+ITUB,Itau Unibanco Banco Holding SA,Banks - Regional,Brazil,7.4,8.8375,6.1,10.0,8,81561853952,0.17,2026-09-02,2026-11-03,0.83,2026-08-13
+CP,Canadian Pacific Kansas City Li,Railroads,Canada,92.69,100.441826,75.436455,110.11866,13,81481859072,0.71,2026-09-25,2026-10-28,3.11,2026-08-13
+CTAS,Cintas Corporation,Specialty Business Services,United States,203.51,216.3125,175.0,250.0,16,81438507008,2.08,2026-08-14,2026-09-23,4.86,2026-08-13
+NGG,"National Grid Transco, PLC Nati",Utilities - Regulated Electric,United Kingdom,80.68,90.89,71.0,99.5,5,81112449024,3.24,2026-05-29,2026-05-14,4.44,2026-08-13
+MDLZ,"Mondelez International, Inc.",Confectioners,United States,62.18,69.13043,55.0,77.0,23,79817342976,2.0,2026-06-30,2026-10-27,1.65,2026-08-13
+ROST,"Ross Stores, Inc.",Apparel Retail,United States,248.25,254.61111,176.0,290.0,18,79633907712,1.78,2026-06-09,2026-08-20,7.05,2026-08-13
+NTES,"NetEase, Inc.",Electronic Gaming & Multimedia,China,124.11,161.70776,132.97478,200.79779,32,79461449728,3.02,2026-06-05,2026-08-20,7.84,2026-08-13
+AMT,American Tower Corporation (REI,Reit - Specialty,United States,170.43,215.47826,188.0,260.0,23,79413567488,6.98,2026-06-12,2026-10-27,6.24,2026-08-13
+SNPS,"Synopsys, Inc.",Software - Infrastructure,United States,412.32,564.4308,414.77,650.0,25,78950760448,,,2026-08-26,4.37,2026-08-13
+GM,General Motors Company,Auto Manufacturers,United States,86.76,100.03704,61.0,132.0,27,78470217728,0.72,2026-09-04,2026-10-20,2.24,2026-08-13
+ECL,Ecolab Inc.,Specialty Chemicals,United States,278.43,324.66666,295.0,360.0,21,78051893248,2.92,2026-09-15,2026-10-27,7.29,2026-08-13
+HPE,Hewlett Packard Enterprise Comp,Communication Equipment,United States,58.79,65.45211,28.0,80.0,19,77849927680,0.57,2026-06-16,2026-09-02,1.16,2026-08-13
+MSI,"Motorola Solutions, Inc.",Communication Equipment,United States,469.74,522.7273,476.0,550.0,11,77739048960,4.84,2026-06-17,2026-11-05,12.78,2026-08-13
+FDX,FedEx Corporation,Integrated Freight & Logistics,United States,326.77,352.2261,160.0,479.0,25,77307633664,4.88,2026-06-22,2026-10-28,18.79,2026-08-13
+TRV,"The Travelers Companies, Inc.",Insurance - Property & Casualty,United States,370.16,360.33334,262.0,430.0,24,77206134784,5.0,2026-09-10,2026-10-15,36.68,2026-08-13
+NWG,NatWest Group plc,Banks - Regional,United Kingdom,19.26,21.535,20.1,23.6,4,76652511232,0.94,2026-08-14,2026-10-30,2.04,2026-08-13
+CNI,Canadian National Railway Compa,Railroads,Canada,126.32,139.57085,114.10042,152.4704,13,76410961920,2.6,2026-09-08,2026-10-30,5.58,2026-08-13
+EOG,"EOG Resources, Inc.",Oil & Gas E&P,United States,143.14,158.85185,127.0,196.0,27,76240445440,4.08,2026-10-16,2026-08-04,12.83,2026-08-13
+AON,Aon plc,Insurance Brokers,Ireland,352.36,402.4737,339.0,445.0,19,74744520704,3.28,2026-08-03,2026-10-30,17.94,2026-08-13
+HON,Honeywell International Inc.,Conglomerates,United States,235.34,263.10526,186.0,298.0,19,74588659712,2.8,2026-08-14,2026-10-22,26.59,2026-08-13
+BSX,Boston Scientific Corporation,Medical Devices,United States,51.42,62.68966,44.0,94.0,29,74519379968,,,2026-10-28,2.47,2026-08-13
+ORLY,"O'Reilly Automotive, Inc.",Auto Parts,United States,92.05,108.16667,89.0,120.0,24,74464837632,,,2026-10-28,3.13,2026-08-13
+MURGY,Muenchener Rueckver Ges,Insurance - Reinsurance,Germany,11.82,13.18967,12.87934,13.5,2,74356350976,0.56,2026-05-04,2025-08-08,1.24,2026-08-13
+DLR,"Digital Realty Trust, Inc.",Reit - Specialty,United States,197.06,222.03226,190.0,250.0,31,74232733696,4.88,2026-09-15,2026-10-22,0.81,2026-08-13
+CL,Colgate-Palmolive Company,Household & Personal Products,United States,92.32,98.95,87.0,110.0,20,73594994688,2.12,2026-07-20,2026-10-30,2.54,2026-08-13
+CI,The Cigna Group,Healthcare Plans,United States,277.41,341.41666,290.0,400.0,24,73302949888,6.24,2026-09-08,2026-07-30,24.5,2026-08-13
+MFC,Manulife Financial Corporation,Insurance - Life,Canada,43.78,34.274265,34.274265,34.274265,1,72641937408,1.36,2026-08-21,2026-11-04,2.65,2026-08-13
+HLT,Hilton Worldwide Holdings Inc.,Lodging,United States,322.53,352.4,270.0,394.0,25,72590188544,0.6,2026-08-21,2026-10-28,6.97,2026-08-13
+ET,Energy Transfer LP,Oil & Gas Midstream,United States,20.95,24.29048,22.0,27.0,21,72137129984,1.36,2026-08-07,2026-11-04,1.47,2026-08-13
+RACE,Ferrari N.V.,Auto Manufacturers,Italy,407.21,457.32938,397.923,530.19824,14,71573192704,4.23,2026-04-21,2026-07-30,10.63,2026-08-13
+KMI,"Kinder Morgan, Inc.",Oil & Gas Midstream,United States,31.73,35.61905,31.0,43.0,21,70593724416,1.18,2026-08-03,2026-10-28,1.55,2026-08-13
+NBIS,Nebius Group N.V.,Internet Content & Information,Netherlands,259.2,250.75,120.0,410.0,16,70464880640,,,2026-08-12,3.47,2026-08-13
+MKKGY,Merck KGaA,Drug Manufacturers - Specialty & Generic,Germany,32.38,36.025,35.65,36.4,2,70390538240,0.51,2026-04-28,2025-08-07,1.35,2026-08-13
+MPWR,"Monolithic Power Systems, Inc.",Semiconductors,United States,1425.01,1829.5385,1575.0,2100.0,13,70029262848,8.0,2026-06-30,2026-10-29,16.67,2026-08-13
+TGT,Target Corporation,Discount Stores,United States,154.0,139.51912,92.0,170.0,34,69945425920,4.64,2026-08-12,2026-08-19,7.65,2026-08-13
+BE,Bloom Energy Corporation,Electrical Equipment & Parts,United States,237.16,273.5077,97.0,390.0,26,69850112000,,,2026-10-27,0.85,2026-08-13
+AMX,"America Movil, S.A.B. de C.V.",Telecom Services,Mexico,23.22,29.43773,20.8,35.0,15,69651873792,0.59,2026-07-14,2026-10-13,1.72,2026-08-13
+COHR,Coherent Corp.,Scientific & Technical Instruments,United States,355.64,394.61707,230.0,465.0,21,69577170944,,,2026-08-12,2.28,2026-08-13
+WBD,"Warner Bros. Discovery, Inc. - ",Entertainment,United States,27.65,29.81818,26.0,31.25,11,69322334208,,,2026-11-05,-1.28,2026-08-13
+PCAR,PACCAR Inc.,Farm & Heavy Construction Machinery,United States,131.06,141.02937,110.47,164.0,16,68985389056,1.4,2026-08-12,2026-10-27,4.74,2026-08-13
+B,Barrick Mining Corporation,Gold,Canada,41.23,52.61875,29.0,64.0,16,67859812352,0.7,2026-08-31,2026-11-09,3.97,2026-08-13
+AEP,American Electric Power Company,Utilities - Regulated Electric,United States,124.65,144.4762,129.0,173.0,21,67859132416,3.8,2026-08-10,2026-10-29,5.82,2026-08-13
+APD,"Air Products and Chemicals, Inc",Specialty Chemicals,United States,304.07,343.3684,314.0,365.0,19,67711991808,7.24,2026-10-01,2026-07-30,-0.21,2026-08-13
+TRP,TC Energy Corporation,Oil & Gas Midstream,Canada,63.61,66.93218,58.26839,73.12747,3,66266791936,2.5,2026-09-29,2026-07-30,2.51,2026-08-13
+KDDIY,KDDI Corp.,Telecom Services,Japan,17.75,18.54516,17.8,19.29032,2,65622626304,0.51,2026-03-31,2026-08-07,1.16,2026-08-13
+RSG,"Republic Services, Inc.",Waste Management,United States,214.26,246.58333,208.0,272.0,24,65609195520,2.68,2026-10-02,2026-10-29,7.05,2026-08-13
+NU,Nu Holdings Ltd.,Banks - Regional,Brazil,13.56,17.98182,10.0,22.0,22,65501372416,,,2026-08-13,0.64,2026-08-13
+AJG,Arthur J. Gallagher & Co.,Insurance Brokers,United States,255.46,290.44443,250.0,388.0,18,65484869632,2.8,2026-09-08,2026-10-29,6.08,2026-08-13
+CRH,CRH PLC,Building Materials,Ireland,97.99,138.65227,105.0,165.0,22,65191223296,1.56,2026-08-14,2026-10-29,5.48,2026-08-13
+ALL,Allstate Corporation (The),Insurance - Property & Casualty,United States,255.84,270.31818,176.0,334.0,22,64691179520,4.32,2026-08-31,2026-11-04,48.71,2026-08-13
+BKR,Baker Hughes Company,Oil & Gas Equipment & Services,United States,64.28,71.3913,51.0,85.0,23,63809085440,0.92,2026-08-07,2026-10-22,3.09,2026-08-13
+TER,"Teradyne, Inc.",Semiconductor Equipment & Materials,United States,402.74,449.8,350.0,550.0,15,62964674560,0.52,2026-05-21,2026-10-21,7.73,2026-08-13
+TEL,TE Connectivity plc,Electronic Components,Ireland,214.2,246.78947,209.0,306.0,19,62105292800,2.98,2026-08-21,2026-10-28,10.21,2026-08-13
+NUE,Nucor Corporation,Steel,United States,271.81,283.5625,231.0,305.0,16,61667078144,2.24,2026-06-30,2026-10-26,12.53,2026-08-13
+MET,"MetLife, Inc.",Insurance - Life,United States,96.66,103.6875,84.0,119.0,16,61425201152,2.37,2026-08-04,2026-08-05,5.21,2026-08-13
+VALE,VALE S.A.,Other Industrial Metals & Mining,Brazil,14.42,16.796,12.0,21.0,25,61368098816,1.2,2026-08-13,2026-10-29,0.5,2026-08-13
+WPM,Wheaton Precious Metals Corp,Gold,Canada,134.88,172.952,145.0,215.0,10,61257097216,0.78,2026-08-20,2026-11-05,4.5,2026-08-13
+FIX,"Comfort Systems USA, Inc.",Engineering & Construction,United States,1738.82,2210.8572,1910.0,2500.0,7,61196599296,3.6,2026-08-13,2026-10-22,41.91,2026-08-13
+CIEN,Ciena Corporation,Communication Equipment,United States,432.05,565.7067,270.0,720.0,19,61157941248,,,2026-09-03,3.33,2026-08-13
+MPLX,MPLX LP,Oil & Gas Midstream,United States,59.94,61.46154,54.0,73.0,13,60823138304,4.31,2026-08-07,2026-11-03,4.7,2026-08-13
+KEYS,Keysight Technologies Inc.,Scientific & Technical Instruments,United States,354.5,388.33334,250.0,426.0,12,60582404096,,,2026-08-18,6.22,2026-08-13
+AFL,AFLAC Incorporated,Insurance - Life,United States,120.73,118.85714,99.0,138.0,14,60527177728,2.44,2026-08-19,2026-11-04,9.25,2026-08-13
+PSA,Public Storage,Reit - Industrial,United States,323.58,336.41177,285.0,379.0,17,60427186176,12.0,2026-09-15,2026-10-28,10.42,2026-08-13
+RELX,RELX PLC PLC,Specialty Business Services,United Kingdom,34.55,53.05,49.1,57.0,2,60239622144,0.91,2026-08-07,2026-07-23,1.64,2026-08-13
+NKE,"Nike, Inc.",Footwear & Accessories,United States,40.51,50.66471,23.0,94.0,34,60096532480,1.64,2026-09-01,2026-09-29,2.06,2026-08-13
+COR,"Cencora, Inc.",Medical Distribution,United States,314.17,372.58334,330.0,430.0,12,59952173056,2.4,2026-08-14,2026-11-04,13.45,2026-08-13
+D,"Dominion Energy, Inc.",Utilities - Regulated Electric,United States,68.04,70.75,67.0,79.0,12,59842945024,2.67,2026-09-04,2026-10-30,2.89,2026-08-13
+GRMN,Garmin Ltd.,Scientific & Technical Instruments,Switzerland,309.98,290.2857,220.0,370.0,7,59781570560,4.2,2026-09-11,2026-10-28,9.7,2026-08-13
+CRWV,"CoreWeave, Inc.",Software - Infrastructure,United States,107.73,141.82857,36.0,303.0,35,59417038848,,,2026-11-11,-4.23,2026-08-13
+AME,"AMETEK, Inc.",Specialty Industrial Machinery,United States,258.52,277.22223,217.0,316.0,18,59253559296,1.36,2026-09-15,2026-10-29,6.9,2026-08-13
+O,Realty Income Corporation,Reit - Retail,United States,62.59,68.2125,61.5,72.0,20,59222781952,3.25,2026-07-31,2026-11-02,1.38,2026-08-13
+DAL,"Delta Air Lines, Inc.",Airlines,United States,89.93,105.52083,50.0,125.0,24,59140038656,0.78,2026-07-09,2026-10-08,6.0,2026-08-13
+NXPI,NXP Semiconductors N.V.,Semiconductors,Netherlands,233.41,311.10345,190.0,400.0,29,58857639936,4.06,2026-06-24,2026-10-26,4.97,2026-08-13
+OXY,Occidental Petroleum Corporatio,Oil & Gas E&P,United States,58.55,66.08696,55.0,79.0,23,58528768000,1.12,2026-09-10,2026-08-05,3.36,2026-08-13
+CBRS,Cerebras Systems Inc.,Semiconductors,United States,262.06,292.0,209.0,340.0,11,58400219136,,,2026-08-12,0.5,2026-08-13
+OKE,"ONEOK, Inc.",Oil & Gas Midstream,United States,92.47,96.28571,88.0,108.0,21,58259136512,4.28,2026-08-03,2026-10-27,5.85,2026-08-13
+NOK,Nokia Corporation Sponsored,Communication Equipment,Finland,10.32,15.02222,8.5,21.0,9,57611751424,0.16,2026-07-28,2026-10-22,0.15,2026-08-13
+TRGP,"Targa Resources, Inc.",Oil & Gas Midstream,United States,268.67,299.0,257.0,335.0,21,57611186176,5.0,2026-07-31,2026-11-05,10.59,2026-08-13
+FANG,"Diamondback Energy, Inc.",Oil & Gas E&P,United States,200.84,232.2143,205.0,272.0,28,56498966528,4.4,2026-08-13,2026-11-02,5.24,2026-08-13
+CMPGY,Compass Group Plc,Restaurants,United Kingdom,33.12,38.66667,34.0,42.0,3,56314372096,0.69,2026-06-18,2025-05-14,1.19,2026-08-13
+CVE,Cenovus Energy Inc,Oil & Gas Integrated,Canada,30.17,36.765,33.53,40.0,2,55640870912,0.62,2026-09-15,2026-10-29,2.58,2026-08-13
+TAK,Takeda Pharmaceutical Company L,Drug Manufacturers - Specialty & Generic,Japan,17.41,,,,,55598886912,0.62,2026-03-31,2026-10-29,-0.33,2026-08-13
+ALAB,"Astera Labs, Inc.",Semiconductors,United States,318.8,391.77274,190.0,500.0,22,55307051008,,,2026-11-03,2.03,2026-08-13
+F,Ford Motor Company,Auto Manufacturers,United States,13.83,15.776,11.0,20.0,20,55148449792,0.6,2026-08-11,2026-10-22,-1.85,2026-08-13
+ARGX,argenx SE,Biotechnology,Netherlands,876.0,1085.7826,770.0,1350.0,23,54803427328,,,2026-10-22,26.63,2026-08-13
+BAYRY,Bayer A.G.,Drug Manufacturers - General,Germany,13.9,15.97,15.3,16.68,4,54622777344,0.03,2026-04-28,2026-11-03,-0.5,2026-08-13
+CAH,"Cardinal Health, Inc.",Medical Distribution,United States,234.16,252.4,215.0,275.0,15,54459932672,2.06,2026-10-01,2026-11-05,7.05,2026-08-13
+LHX,"L3Harris Technologies, Inc.",Aerospace & Defense,United States,290.74,343.27274,285.0,393.0,11,54140039168,5.0,2026-09-04,2026-10-29,10.06,2026-08-13
+EW,Edwards Lifesciences Corporatio,Medical Devices,United States,93.05,100.96154,84.0,110.0,26,53578190848,,,2026-10-29,1.67,2026-08-13
+NDAQ,"Nasdaq, Inc.",Financial Data & Stock Exchanges,United States,95.66,110.06667,84.0,135.0,15,53471776768,1.16,2026-09-11,2026-10-22,3.45,2026-08-13
+EA,Electronic Arts Inc.,Electronic Gaming & Multimedia,United States,209.7,205.46153,168.0,210.0,13,52925640704,0.76,2026-05-27,2026-11-03,3.51,2026-08-13
+ADSK,"Autodesk, Inc.",Software - Application,United States,249.51,312.16177,220.5,456.0,34,52682850304,,,2026-08-27,6.79,2026-08-13
+CARR,Carrier Global Corporation,Building Products & Equipment,United States,63.08,77.81524,60.0,90.0,21,52393013248,0.96,2026-07-21,2026-10-27,1.39,2026-08-13
+DEO,Diageo plc,Beverages - Wineries & Distilleries,United Kingdom,93.96,106.42857,76.0,136.0,7,52232359936,3.32,2026-04-17,2026-08-06,3.08,2026-08-13
+STT,State Street Corporation,Asset Management,United States,190.11,199.5,150.0,215.0,14,52223553536,3.68,2026-10-01,2026-10-14,11.33,2026-08-13
+BASFY,BASF SE,Chemicals,Germany,14.73,13.8375,12.0,17.0,4,52104441856,0.66,2026-05-05,2026-10-28,0.68,2026-08-13
+RKLB,Rocket Lab Corporation,Aerospace & Defense,United States,81.17,112.76471,64.0,150.0,17,51892121600,,,2026-11-09,-0.27,2026-08-13
+PYPL,"PayPal Holdings, Inc.",Credit Services,United States,59.2,58.83,36.0,147.39,33,51030401024,0.56,2026-09-04,2026-10-27,5.31,2026-08-13
+CTVA,"Corteva, Inc.",Agricultural Inputs,United States,75.53,92.4,78.0,103.0,20,50393317376,0.72,2026-09-01,2026-07-30,1.63,2026-08-13
+ETR,Entergy Corporation,Utilities - Regulated Electric,United States,107.85,123.88095,91.0,139.0,21,50326204416,2.56,2026-08-13,2026-10-29,3.91,2026-08-13
+ROK,"Rockwell Automation, Inc.",Specialty Industrial Machinery,United States,451.39,477.66666,282.0,550.0,24,50126262272,5.52,2026-08-17,2026-11-05,10.79,2026-08-13
+CRDO,Credo Technology Group Holding ,Semiconductors,Cayman Islands,268.16,279.28708,184.0,350.0,19,50005913600,,,2026-09-01,2.5,2026-08-13
+BDX,"Becton, Dickinson and Company",Medical Instruments & Supplies,United States,183.58,192.0,170.0,225.0,12,50004770816,4.2,2026-09-09,2026-11-05,5.86,2026-08-13
+AMP,"Ameriprise Financial, Inc.",Asset Management,United States,565.07,574.36365,489.0,645.0,11,49952190464,6.8,2026-08-03,2026-10-29,41.53,2026-08-13
+WAB,Westinghouse Air Brake Technolo,Railroads,United States,295.54,324.16666,280.0,355.0,12,49919913984,1.24,2026-08-18,2026-10-21,7.36,2026-08-13
+INFY,Infosys Limited,Information Technology Services,India,12.28,11.85224,9.0,14.1,12,49735516160,0.52,2026-06-10,2026-10-23,0.79,2026-08-13
+AZO,"AutoZone, Inc.",Auto Parts,United States,3045.87,3950.5217,3200.0,4800.0,23,49724911616,,,2026-09-22,145.59,2026-08-13
+AU,AngloGold Ashanti PLC,Gold,United States,97.92,113.125,76.0,134.0,8,49524924416,4.52,2026-08-21,2026-07-31,7.5,2026-08-13
+DVN,Devon Energy Corporation,Oil & Gas E&P,United States,44.86,59.69231,44.0,68.0,26,49345998848,1.28,2026-09-15,2026-11-04,4.54,2026-08-13
+VST,Vistra Corp.,Utilities - Independent Power Producers,United States,146.68,221.73685,106.0,313.0,19,49230966784,0.92,2026-09-21,2026-11-05,6.0,2026-08-13
+AXON,"Axon Enterprise, Inc.",Aerospace & Defense,United States,599.78,693.40424,409.68,830.0,19,48724578304,,,2026-11-03,2.28,2026-08-13
+MDLN,Medline Inc.,Medical Instruments & Supplies,United States,35.5,45.26923,34.0,62.0,26,47762878464,,,2026-11-04,0.8,2026-08-13
+HEINY,Heineken N.V.,Beverages - Brewers,Netherlands,42.79,50.5,46.0,55.0,2,47512862720,1.11,2026-08-10,2025-07-28,2.33,2026-08-13
+FERG,Ferguson Enterprises Inc.,Industrial Distribution,United States,245.18,284.3158,235.0,325.0,19,47430737920,3.56,2026-08-21,2026-11-09,10.16,2026-08-13
+CCEP,Coca-Cola Europacific Partners ,Beverages - Non-Alcoholic,United Kingdom,107.08,112.13197,100.069145,120.08298,11,47317946368,2.41,2026-05-15,2026-08-04,5.16,2026-08-13
+XYZ,"Block, Inc.",Software - Infrastructure,United States,78.28,97.025,75.0,125.0,40,47030231040,,,2026-08-05,0.56,2026-08-13
+HUM,Humana Inc.,Healthcare Plans,United States,388.83,416.43478,280.0,513.0,23,46690824192,3.54,2026-06-26,2026-07-29,11.04,2026-08-13
+EXC,Exelon Corporation,Utilities - Regulated Electric,United States,45.22,49.33333,41.0,58.0,18,46588084224,1.68,2026-09-04,2026-07-30,2.74,2026-08-13
+FLEX,Flex Ltd.,Electronic Components,United States,124.53,160.5,142.0,180.0,10,46001754112,,,2026-10-28,2.6,2026-08-13
+NTRA,"Natera, Inc.",Diagnostics & Research,United States,315.96,316.95,193.0,375.0,20,45543792640,,,2026-11-05,-1.34,2026-08-13
+EBAY,eBay Inc.,Internet Retail,United States,102.31,115.65385,67.0,145.0,26,45527949312,1.24,2026-08-28,2026-11-04,4.76,2026-08-13
+FNV,Franco-Nevada Corporation,Gold,Canada,235.94,277.16556,230.0,324.49,9,45506646016,1.76,2026-06-11,2026-11-03,6.96,2026-08-13
+TTWO,"Take-Two Interactive Software, ",Electronic Gaming & Multimedia,United States,243.0,287.10516,170.0,368.0,29,45436248064,,,2026-08-07,-1.68,2026-08-13
+IDXX,"IDEXX Laboratories, Inc.",Diagnostics & Research,United States,570.58,698.9231,470.0,805.0,13,45009063936,,,2026-11-02,13.87,2026-08-13
+RBGLY,Reckitt Benckiser Group Plc.,Household & Personal Products,United Kingdom,14.05,16.805159,14.447203,18.859602,4,44609257472,0.58,2026-08-10,2026-03-05,1.17,2026-08-13
+TRI,Thomson Reuters Corp,Specialty Business Services,Canada,102.61,122.54167,100.0,146.0,12,44453175296,2.62,2026-08-19,2026-11-03,3.79,2026-08-13
+ODFL,"Old Dominion Freight Line, Inc.",Trucking,United States,212.55,231.68182,156.0,280.0,22,44073652224,1.16,2026-09-02,2026-10-28,5.27,2026-08-13
+RVMD,"Revolution Medicines, Inc.",Biotechnology,United States,205.26,221.80714,151.0,291.0,21,43994689536,,,2026-11-04,-8.87,2026-08-13
+ABEV,Ambev S.A.,Beverages - Brewers,Brazil,2.82,3.3344,2.6,4.0,10,43484393472,0.17,2026-06-24,2026-10-29,0.2,2026-08-13
+WDAY,"Workday, Inc.",Software - Application,United States,175.29,169.97102,92.0,275.0,39,43291979776,,,2026-08-27,3.1,2026-08-13
+LYV,"Live Nation Entertainment, Inc.",Entertainment,United States,185.33,201.95833,145.0,222.0,24,43174383616,,,2026-07-30,-1.13,2026-08-13
+HLN,Haleon plc,Drug Manufacturers - Specialty & Generic,United Kingdom,9.8,11.994,10.0,13.77,5,43157864448,0.2,2026-08-14,2026-07-30,0.48,2026-08-13
+MCHP,Microchip Technology Incorporat,Semiconductors,United States,79.44,109.20833,80.0,135.0,24,43136614400,1.82,2026-08-24,2026-11-05,0.68,2026-08-13
+CCJ,Cameco Corporation,Uranium,Canada,99.03,129.48447,84.92579,176.02495,11,43130830848,0.17,2025-12-01,2026-10-30,0.58,2026-08-13
+VWAGY,Volkswagen AG,Auto Manufacturers,Germany,8.6,11.09437,10.68874,11.5,2,43111395328,0.59,2026-06-22,2026-10-29,1.21,2026-08-13
+PAYX,"Paychex, Inc.",Software - Application,United States,120.37,109.57143,95.0,150.0,14,42813546496,4.76,2026-07-28,2026-09-29,4.85,2026-08-13
+TEVA,Teva Pharmaceutical Industries ,Drug Manufacturers - Specialty & Generic,Israel,36.74,41.2,33.0,50.0,10,42812981248,,,2026-11-04,0.6,2026-08-13
+CLS,"Celestica, Inc.",Electronic Components,Canada,339.46,473.2353,410.0,550.0,17,42809679872,,,2026-10-26,8.54,2026-08-13
+JD,"JD.com, Inc.",Internet Retail,China,31.61,39.67274,27.149023,54.497353,35,42689306624,1.0,2026-04-09,2026-08-13,1.36,2026-08-13
+CBRE,CBRE Group Inc,Real Estate Services,United States,147.4,181.25,144.0,200.0,12,42683396096,,,2026-10-22,4.36,2026-08-13
+PRU,"Prudential Financial, Inc.",Insurance - Life,United States,122.74,109.26667,90.0,130.0,15,42345299968,5.6,2026-08-25,2026-10-28,11.07,2026-08-13
+A,"Agilent Technologies, Inc.",Diagnostics & Research,United States,148.24,159.3158,135.0,185.0,19,41867710464,1.02,2026-06-30,2026-08-26,4.94,2026-08-13
+WCN,"Waste Connections, Inc.",Waste Management,Canada,165.34,201.0,162.0,230.0,25,41594458112,1.4,2026-08-06,2026-10-20,4.14,2026-08-13
+CMG,"Chipotle Mexican Grill, Inc.",Restaurants,United States,32.64,44.04839,36.0,52.0,31,41303240704,,,2026-07-29,1.1,2026-08-13
+YUM,"Yum! Brands, Inc.",Restaurants,United States,150.34,173.38095,147.0,200.0,21,41027948544,3.0,2026-05-27,2026-07-30,8.25,2026-08-13
+MSCI,MSCI Inc.,Financial Data & Stock Exchanges,United States,563.01,692.05884,570.0,760.0,17,40930828288,8.2,2026-08-14,2026-10-20,18.31,2026-08-13
+WAT,Waters Corporation,Diagnostics & Research,United States,416.15,436.0,349.0,475.0,23,40860045312,,,2026-10-30,3.95,2026-08-13
+DHI,"D.R. Horton, Inc.",Residential Construction,United States,145.82,162.91667,125.0,206.0,12,40786042880,1.8,2026-08-06,2026-10-29,10.15,2026-08-13
+HMC,"Honda Motor Company, Ltd.",Auto Manufacturers,Japan,31.31,32.89956,32.0,33.79912,2,40625561600,1.33,2026-03-30,2026-11-05,-0.7,2026-08-13
+ONC,BeOne Medicines Ltd.,Biotechnology,Switzerland,359.05,432.3627,370.0,528.0,26,40616509440,,,2026-11-05,5.6,2026-08-13
+UAL,"United Airlines Holdings, Inc.",Airlines,United States,125.12,162.15218,102.0,205.0,23,40610164736,,,2026-10-21,10.59,2026-08-13
+SYY,Sysco Corporation,Food Distribution,United States,84.69,89.30769,78.0,100.0,13,40544518144,2.2,2026-07-02,2026-11-03,3.68,2026-08-13
+KDP,Keurig Dr Pepper Inc.,Beverages - Non-Alcoholic,United States,29.56,35.70588,29.0,42.0,17,40226017280,0.92,2026-06-26,2026-10-26,1.0,2026-08-13
+ED,"Consolidated Edison, Inc.",Utilities - Regulated Electric,United States,107.78,111.20588,94.0,130.0,17,39860129792,3.51,2026-08-19,2026-11-05,6.1,2026-08-13
+AIG,"American International Group, I",Insurance - Diversified,United States,76.14,88.65,80.0,101.0,20,39813087232,2.0,2026-09-16,2026-11-04,5.4,2026-08-13
+RKT,"Rocket Companies, Inc.",Mortgage Finance,United States,14.05,17.65714,14.0,21.0,14,39784574976,,,2026-11-05,-0.03,2026-08-13
+NTAP,"NetApp, Inc.",Software - Infrastructure,United States,202.05,179.5,150.0,200.0,16,39585619968,2.08,2026-07-10,2026-09-02,6.35,2026-08-13
+TEAM,Atlassian Corporation,Software - Application,Australia,155.24,188.2062,107.98,480.0,29,39394922496,,,2026-10-29,-0.22,2026-08-13
+COIN,"Coinbase Global, Inc.",Financial Data & Stock Exchanges,United States,149.04,195.51965,95.0,330.0,29,39322255360,,,2026-10-29,-3.88,2026-08-13
+VEEV,Veeva Systems Inc.,Health Information Services,United States,241.51,244.14285,165.0,350.0,28,39231680512,,,2026-08-26,5.75,2026-08-13
+ROP,"Roper Technologies, Inc.",Software - Application,United States,395.23,440.252,335.0,550.0,15,39088590848,3.64,2026-10-02,2026-10-22,23.75,2026-08-13
+EXPE,"Expedia Group, Inc.",Travel Services,United States,325.57,327.97144,245.0,417.0,35,39074697216,1.92,2026-08-27,2026-11-05,16.12,2026-08-13
+ADM,Archer-Daniels-Midland Company,Farm Products,United States,79.73,78.7,60.0,95.0,10,38426394624,2.08,2026-08-19,2026-11-03,3.63,2026-08-13
+JBL,Jabil Inc.,Electronic Components,United States,366.16,441.44443,365.0,482.0,9,38368841728,0.32,2026-08-14,2026-09-24,8.2,2026-08-13
+PCG,Pacific Gas & Electric Co.,Utilities - Regulated Electric,United States,17.38,22.78125,19.0,28.0,16,38277136384,0.2,2026-06-30,2026-10-22,1.4,2026-08-13
+CCL,Carnival Corporation Ltd.,Travel Services,United States,27.67,35.548,28.7,43.0,25,37898190848,0.45,2026-08-07,2026-09-28,2.22,2026-08-13
+TWLO,Twilio Inc.,Software - Infrastructure,United States,246.62,246.91806,135.5,330.0,31,37874720768,,,2026-10-29,6.98,2026-08-13
+STLD,"Steel Dynamics, Inc.",Steel,United States,263.18,272.64285,221.0,310.0,14,37721088000,2.12,2026-06-30,2026-10-19,11.02,2026-08-13
+HIG,"The Hartford Insurance Group, I",Insurance - Diversified,United States,137.44,149.85,135.0,164.0,20,37676539904,2.4,2026-09-01,2026-10-29,14.31,2026-08-13
+MSTR,Strategy Inc,Software - Application,United States,94.83,229.07143,125.0,450.0,14,37346213888,,,2026-10-29,-97.86,2026-08-13
+VOD,Vodafone Group Plc,Telecom Services,United Kingdom,16.09,13.684741,11.433675,17.20756,4,37184528384,0.54,2026-06-05,2026-05-12,-0.14,2026-08-13
+IRM,Iron Mountain Incorporated (Del,Reit - Specialty,United States,124.36,144.5,140.0,153.0,10,37022322688,3.46,2026-09-15,2026-11-04,1.43,2026-08-13
+HSY,The Hershey Company,Confectioners,United States,184.23,205.80952,170.0,250.0,21,37016535040,5.81,2026-08-14,2026-11-05,7.41,2026-08-13
+TKO,"TKO Group Holdings, Inc.",Entertainment,United States,195.14,232.47368,185.0,275.0,19,36934090752,3.11,2026-06-15,2026-08-03,2.85,2026-08-13
+EME,"EMCOR Group, Inc.",Engineering & Construction,United States,833.4,1033.2858,885.0,1200.0,7,36761190400,1.6,2026-07-15,2026-10-29,32.75,2026-08-13
+KVUE,Kenvue Inc.,Household & Personal Products,United States,18.98,19.5,18.0,23.0,12,36456280064,0.84,2026-08-12,2026-11-05,0.85,2026-08-13
+GFI,Gold Fields Limited,Gold,South Africa,40.73,48.3375,40.0,57.0,8,36429668352,2.32,2026-03-13,2026-08-25,3.98,2026-08-13
+KMB,Kimberly-Clark Corporation,Household & Personal Products,United States,108.93,118.6,90.0,162.0,15,36158263296,5.12,2026-09-04,2026-11-03,5.08,2026-08-13
+HBAN,Huntington Bancshares Incorpora,Banks - Regional,United States,17.86,20.15,18.0,22.5,18,36084609024,0.62,2026-09-17,2026-10-22,1.31,2026-08-13
+ALC,Alcon Inc.,Medical Instruments & Supplies,Switzerland,73.58,87.322,62.0,107.4,15,35568574464,0.36,2026-05-06,2026-11-10,1.28,2026-08-13
+BIDU,"Baidu, Inc.",Internet Content & Information,China,104.84,165.8301,92.1092,217.05649,31,35560312832,,,2026-08-18,-0.16,2026-08-13
+MDB,"MongoDB, Inc.",Software - Infrastructure,United States,437.83,396.21222,272.64,545.0,36,35215511552,,,2026-09-01,-0.35,2026-08-13
+UI,Ubiquiti Inc.,Communication Equipment,United States,577.76,826.0,672.0,980.0,2,34967240704,3.2,2026-05-18,2026-08-21,15.66,2026-08-13
+EC,Ecopetrol S.A.,Oil & Gas Integrated,Colombia,16.96,13.47273,9.0,18.0,11,34866954240,0.65,2026-04-29,2026-08-03,1.53,2026-08-13
+HVRRY,Hannover Re,Insurance - Reinsurance,Germany,47.99,45.126785,45.126785,45.126785,1,34724044800,2.45,2026-05-08,2025-08-12,4.58,2026-08-13
+KR,Kroger Company (The),Grocery Stores,United States,56.06,70.63636,58.0,86.0,22,34345009152,1.44,2026-08-14,2026-09-10,1.7,2026-08-13
+QSR,Restaurant Brands International,Restaurants,United States,74.9,85.73913,78.0,104.0,23,34312513536,2.6,2026-09-18,2026-10-29,4.07,2026-08-13
+VG,"Venture Global, Inc.",Oil & Gas Midstream,United States,13.72,16.36842,13.0,22.0,19,34301276160,0.16,2026-09-15,2026-11-09,1.37,2026-08-13
+DXCM,"DexCom, Inc.",Medical Devices,United States,90.8,93.44,79.0,115.0,25,34264358912,,,2026-10-29,2.57,2026-08-13
+RPRX,Royalty Pharma plc,Biotechnology,United States,59.22,63.75,58.0,70.0,8,34219415552,0.94,2026-08-14,2026-11-04,1.91,2026-08-13
+EQT,EQT Corporation,Oil & Gas E&P,United States,54.06,67.68,52.0,81.0,25,33815398400,0.66,2026-08-05,2026-10-20,4.29,2026-08-13
+EXPGY,Experian plc,Consulting Services,Ireland,38.25,43.66667,42.0,46.0,3,33808123904,0.69,2026-06-26,2025-05-14,1.63,2026-08-13
+ERIC,Ericsson,Communication Equipment,Sweden,10.18,9.66667,8.0,11.4,6,33351538688,0.31,2026-04-02,2026-10-15,0.79,2026-08-13
+CQP,"Cheniere Energy Partners, LP",Oil & Gas Midstream,United States,68.87,60.08333,51.0,67.0,12,33337055232,3.27,2026-08-07,2026-10-29,5.7,2026-08-13
+ACGL,Arch Capital Group Ltd.,Insurance - Diversified,Bermuda,97.29,111.86842,95.0,134.0,19,33175889920,,,2026-10-26,12.78,2026-08-13
+CNC,Centene Corporation,Healthcare Plans,United States,67.07,71.66667,56.0,85.0,18,33132244992,,,2026-10-27,-10.36,2026-08-13
+GEHC,GE HealthCare Technologies Inc.,Medical Devices,United States,72.28,82.5,70.0,96.0,18,32879577088,0.14,2026-07-24,2026-10-28,4.34,2026-08-13
+KGC,Kinross Gold Corporation,Gold,Canada,27.48,35.93,9.3,54.0,10,32597895168,0.16,2026-08-20,2026-07-29,2.63,2026-08-13
+ON,ON Semiconductor Corporation,Semiconductors,United States,83.32,108.88,85.0,150.0,25,32437450752,,,2026-11-02,1.57,2026-08-13
+EXR,Extra Space Storage Inc,Reit - Industrial,United States,146.76,157.6,140.0,178.0,20,32390303744,6.48,2026-06-15,2026-10-28,4.53,2026-08-13
+TECK,Teck Resources Ltd,Copper,Canada,65.95,53.887676,36.374786,68.707214,4,32355067904,0.35,2026-09-15,2026-10-22,3.65,2026-08-13
+ADRNY,Koninklijke Ahold Delhaize N.V.,Grocery Stores,Netherlands,36.87,48.4,45.1,51.7,2,32215603200,1.45,2026-08-17,2026-11-04,2.9,2026-08-13
+NTR,Nutrien Ltd.,Agricultural Inputs,Canada,67.18,76.66524,59.0,90.0,21,32058974208,2.2,2026-09-29,2026-11-04,4.94,2026-08-13
+ADDYY,adidas AG,Footwear & Accessories,Germany,91.3,114.9,106.0,132.5,5,31966482432,1.64,2026-05-11,2026-10-29,4.4,2026-08-13
+TDY,Teledyne Technologies Incorpora,Scientific & Technical Instruments,United States,686.49,754.3333,640.0,877.0,12,31804487680,,,2026-10-21,20.66,2026-08-13
+EL,"Estee Lauder Companies, Inc. (T",Household & Personal Products,United States,87.68,95.84615,70.0,125.0,26,31722178560,1.4,2026-05-29,2026-08-19,-0.7,2026-08-13
+WTW,Willis Towers Watson Public Lim,Insurance Brokers,United Kingdom,340.29,374.73685,303.0,406.0,19,31603392512,3.84,2026-06-30,2026-10-29,16.06,2026-08-13
+CCI,Crown Castle Inc.,Reit - Specialty,United States,73.97,95.47,81.0,120.0,20,31470938112,4.25,2026-09-15,2026-10-21,2.45,2026-08-13
+ATI,ATI Inc.,Metal Fabrication,United States,230.43,243.22221,191.0,275.0,9,31377739776,,,2026-10-27,3.41,2026-08-13
+CFG,"Citizens Financial Group, Inc.",Banks - Regional,United States,73.91,80.58824,70.0,90.0,17,31129178112,1.84,2026-07-30,2026-10-16,4.65,2026-08-13
+TPR,"Tapestry, Inc.",Luxury Goods,United States,153.74,168.2,88.0,230.0,20,31062355968,1.6,2026-06-05,2026-08-13,3.14,2026-08-13
+CASY,"Caseys General Stores, Inc.",Specialty Retail,United States,839.03,957.3889,795.0,1069.0,18,31048232960,2.6,2026-07-31,2026-09-09,19.18,2026-08-13
+BIIB,Biogen Inc.,Drug Manufacturers - General,United States,208.87,235.57484,165.0,300.0,31,30861377536,,,2026-10-29,5.76,2026-08-13
+ZM,"Zoom Communications, Inc.",Software - Application,United States,105.13,115.0,79.0,135.0,26,30827503616,,,2026-08-25,6.79,2026-08-13
+RYAAY,Ryanair Holdings plc,Airlines,Ireland,59.36,74.44,67.5,78.0,5,30802665472,0.9,2026-08-07,2026-07-20,4.13,2026-08-13
+CBOE,"Cboe Global Markets, Inc.",Financial Data & Stock Exchanges,United States,290.98,317.7143,258.0,380.0,14,30387337216,2.88,2026-05-29,2026-10-30,12.84,2026-08-13
+KYOCY,Kyocera Corp.,Conglomerates,Japan,22.89,14.89678,14.19355,15.6,2,30155417600,0.33,2025-09-30,,0.64,2026-08-13
+AEE,Ameren Corporation,Utilities - Regulated Electric,United States,108.82,121.5,108.0,137.0,16,30126084096,3.0,2026-06-09,2026-07-30,5.68,2026-08-13
+SATS,EchoStar Corporation,Telecom Services,United States,103.92,137.6,120.0,161.0,5,30115971072,,,,-50.21,2026-08-13
+ALNY,"Alnylam Pharmaceuticals, Inc.",Biotechnology,United States,223.95,375.75833,230.0,536.0,24,29966551040,,,2026-10-29,5.8,2026-08-13
+LPLA,LPL Financial Holdings Inc.,Capital Markets,United States,376.68,430.85715,372.0,557.0,14,29660250112,1.2,2026-08-14,2026-10-29,12.47,2026-08-13
+LVS,Las Vegas Sands Corp.,Resorts & Casinos,United States,45.68,59.06842,47.0,71.5,19,29586991104,1.2,2026-08-04,2026-10-21,2.58,2026-08-13
+BAP,Credicorp Ltd.,Banks - Regional,Peru,372.22,403.47656,219.0,480.0,14,29572253696,14.41,2026-05-18,2026-08-13,25.98,2026-08-13
+RDDT,"Reddit, Inc.",Internet Content & Information,United States,153.45,215.625,120.0,300.0,32,29523245056,,,2026-10-29,4.22,2026-08-13
+FTI,TechnipFMC plc,Oil & Gas Equipment & Services,United Kingdom,75.27,75.66667,45.0,87.0,21,29518211072,0.2,2026-08-18,2026-10-22,2.86,2026-08-13
+TSEM,Tower Semiconductor Ltd.,Semiconductors,Israel,260.31,321.32144,278.0,355.0,7,29423161344,,,2026-08-04,2.63,2026-08-13
+CPNG,"Coupang, Inc.",Internet Retail,United States,16.32,23.82222,12.0,30.0,18,29295448064,,,2026-11-03,-0.43,2026-08-13
+GFS,GlobalFoundries Inc.,Semiconductors,United States,53.18,76.7619,55.0,140.0,21,29182584832,0.48,2026-09-23,2026-11-10,1.34,2026-08-13
+ILMN,"Illumina, Inc.",Diagnostics & Research,United States,192.91,198.11111,113.0,230.0,18,29129410560,,,2026-10-29,5.36,2026-08-13
+KHC,The Kraft Heinz Company,Packaged Foods,United States,24.53,25.02941,19.0,40.0,17,29088258048,1.6,2026-09-04,2026-10-28,-2.87,2026-08-13
+ASTS,"AST SpaceMobile, Inc.",Communication Equipment,United States,74.31,79.66364,42.5,108.0,11,28919035904,,,2026-11-09,-2.23,2026-08-13
+INSM,Insmed Incorporated,Biotechnology,United States,132.28,200.04546,169.0,243.0,22,28887504896,,,2026-10-29,-4.11,2026-08-13
+WSM,"Williams-Sonoma, Inc.",Specialty Retail,United States,245.15,219.45,138.0,280.0,20,28865581056,3.04,2026-07-17,2026-08-26,8.73,2026-08-13
+DTE,DTE Energy Company,Utilities - Regulated Electric,United States,138.68,160.03333,149.0,168.0,15,28857651200,4.66,2026-09-21,2026-10-29,6.37,2026-08-13
+MTD,"Mettler-Toledo International, I",Diagnostics & Research,Switzerland,1438.53,1468.909,1200.0,1600.0,11,28823193600,,,2026-07-30,44.41,2026-08-13
+FTS,Fortis Inc.,Utilities - Regulated Electric,Canada,56.22,55.0,50.0,60.0,2,28722798592,1.84,2026-08-19,2026-07-31,2.45,2026-08-13
+VICI,VICI Properties Inc.,Reit - Diversified,United States,26.07,32.70833,27.0,38.0,24,28705089536,1.8,2026-06-18,2026-10-29,2.59,2026-08-13
+TCOM,Trip.com Group Limited,Travel Services,Singapore,45.58,60.33215,42.3064,72.271255,29,28701964288,,,2026-08-24,6.7,2026-08-13
+ZS,"Zscaler, Inc.",Software - Infrastructure,United States,177.32,192.5534,145.0,250.0,44,28674332672,,,2026-09-03,-0.48,2026-08-13
+ATO,Atmos Energy Corporation,Utilities - Regulated Gas,United States,169.59,188.91667,170.0,206.0,12,28658769920,4.0,2026-08-24,2026-11-04,8.39,2026-08-13
+PBA,Pembina Pipeline Corp.,Oil & Gas Midstream,Canada,48.88,47.2754,47.2754,47.2754,1,28426409984,2.09,2026-09-15,2026-07-30,2.04,2026-08-13
+DOV,Dover Corporation,Specialty Industrial Machinery,United States,208.07,246.72221,168.0,288.0,18,28022915072,2.1,2026-08-31,2026-10-22,8.28,2026-08-13
+CPRT,"Copart, Inc.",Specialty Business Services,United States,28.99,40.3,26.0,55.0,10,27926310912,,,2026-09-03,1.59,2026-08-13
+HAL,Halliburton Company,Oil & Gas Equipment & Services,United States,33.29,43.52,29.0,53.0,25,27810392064,0.68,2026-06-03,2026-10-20,1.88,2026-08-13
+CTSH,Cognizant Technology Solutions ,Information Technology Services,United States,58.2,63.942,42.0,84.0,25,27528599552,1.32,2026-08-18,2026-10-28,4.63,2026-08-13
+HUBB,Hubbell Inc,Electrical Equipment & Parts,United States,512.9,566.3,502.0,630.0,10,27102547968,5.68,2026-08-31,2026-10-27,16.67,2026-08-13
+ES,Eversource Energy (D/B/A),Utilities - Regulated Electric,United States,71.55,73.76923,52.0,85.0,13,26908526592,3.15,2026-05-18,2026-11-04,4.7,2026-08-13
+CPAY,"Corpay, Inc.",Software - Infrastructure,United States,409.68,450.64285,390.0,480.0,14,26899425280,,,2026-11-04,16.45,2026-08-13
+TS,Tenaris S.A.,Oil & Gas Equipment & Services,Luxembourg,53.15,64.325,42.0,80.0,12,26831177728,2.38,2026-11-24,2026-11-04,3.72,2026-08-13
+AWK,"American Water Works Company, I",Utilities - Regulated Water,United States,134.92,140.36365,128.0,155.0,11,26812514304,3.58,2026-08-11,2026-10-28,5.77,2026-08-13
+HPQ,HP Inc.,Computer Hardware,United States,29.28,22.975,18.0,29.6,16,26777225216,1.2,2026-09-09,2026-08-26,2.7,2026-08-13
+IMBBY,Imperial Brands PLC,Tobacco,United Kingdom,35.17,44.0,43.0,45.0,2,26773499904,2.18,2026-08-21,2025-05-14,2.87,2026-08-13
+EIX,Edison International,Utilities - Regulated Electric,United States,69.4,76.03571,62.0,86.0,14,26706092032,3.51,2026-07-07,2026-10-27,9.69,2026-08-13
+CNP,"CenterPoint Energy, Inc (Holdin",Utilities - Regulated Electric,United States,40.53,46.1875,40.0,50.0,16,26697930752,0.96,2026-08-20,2026-10-22,1.69,2026-08-13
+CINF,Cincinnati Financial Corporatio,Insurance - Property & Casualty,United States,172.47,191.66667,177.0,200.0,6,26470359040,3.76,2026-06-23,2026-10-26,21.18,2026-08-13
+FOXA,Fox Corporation,Entertainment,United States,63.05,71.56471,52.6,112.0,17,26458941440,0.58,2026-09-02,2026-10-29,3.84,2026-08-13
+DG,Dollar General Corporation,Discount Stores,United States,119.6,131.75862,90.0,175.0,29,26382161920,2.36,2026-07-07,2026-08-27,7.04,2026-08-13
+CRS,Carpenter Technology Corporatio,Metal Fabrication,United States,528.64,625.875,540.0,700.0,8,26265802752,0.8,2026-04-28,2026-10-22,10.36,2026-08-13
+DGX,Quest Diagnostics Incorporated,Diagnostics & Research,United States,237.77,245.86667,204.0,265.0,15,26243473408,3.44,2026-07-08,2026-10-20,9.44,2026-08-13
+LH,Labcorp Holdings Inc.,Diagnostics & Research,United States,323.48,337.75,270.0,385.0,16,26234228736,2.88,2026-08-28,2026-11-03,12.09,2026-08-13
+SN,"SharkNinja, Inc.","Furnishings, Fixtures & Appliances",United States,186.13,203.41,137.51,240.0,11,26220423168,,,2026-11-05,4.86,2026-08-13
+ROIV,Roivant Sciences Ltd.,Biotechnology,United Kingdom,36.16,41.81818,37.0,50.0,11,26119200768,,,2026-08-06,-0.47,2026-08-13
+FWONK,Liberty Media Corporation - Ser,Entertainment,United States,103.61,119.4,105.0,135.0,15,25975906304,,,2026-11-05,0.82,2026-08-13
+WRB,W.R. Berkley Corporation,Insurance - Property & Casualty,United States,69.73,69.29412,51.0,83.0,17,25885696000,0.4,2026-06-23,2026-10-19,4.86,2026-08-13
+DRI,"Darden Restaurants, Inc.",Restaurants,United States,227.68,228.54167,156.0,276.0,24,25851187200,6.12,2026-07-10,2026-09-24,10.86,2026-08-13
+SW,Smurfit WestRock plc,Packaging & Containers,Ireland,49.25,56.36667,46.0,68.0,15,25832753152,1.81,2026-08-14,2026-10-28,0.94,2026-08-13
+OKTA,"Okta, Inc.",Software - Infrastructure,United States,147.3,130.82643,75.0,175.0,42,25828532224,,,2026-08-26,1.36,2026-08-13
+AVB,"AvalonBay Communities, Inc.",Reit - Residential,United States,179.79,201.33333,189.0,221.0,18,25673646080,7.12,2026-06-30,2026-10-28,7.21,2026-08-13
+VRSN,"VeriSign, Inc.",Software - Infrastructure,United States,282.94,318.0,270.0,355.0,5,25577777152,3.24,2026-08-19,2026-10-22,9.05,2026-08-13
+MRNA,"Moderna, Inc.",Biotechnology,United States,63.67,50.84211,25.0,79.0,19,25419350016,,,2026-07-31,-8.39,2026-08-13
+RBLX,Roblox Corporation,Electronic Gaming & Multimedia,United States,35.54,51.02943,30.0,105.0,35,25388920832,,,2026-10-29,-1.41,2026-08-13
+EQR,Equity Residential,Reit - Residential,United States,64.42,73.05,66.0,80.0,18,24903776256,2.81,2026-06-29,2026-10-21,2.27,2026-08-13
+WST,"West Pharmaceutical Services, I",Medical Instruments & Supplies,United States,352.29,404.73334,340.0,459.0,15,24792676352,0.88,2026-07-29,2026-10-22,7.82,2026-08-13
+DLTR,"Dollar Tree, Inc.",Discount Stores,United States,128.61,127.32,85.0,170.0,25,24715575296,,,2026-08-27,6.22,2026-08-13
+AFRM,"Affirm Holdings, Inc.",Credit Services,United States,73.4,90.77,55.1,117.0,30,24581554176,,,2026-08-27,1.05,2026-08-13
+KEY,KeyCorp,Banks - Regional,United States,22.89,26.02105,22.0,43.0,19,24538880000,0.82,2026-09-01,2026-10-20,1.73,2026-08-13
+ENTG,"Entegris, Inc.",Semiconductor Equipment & Materials,United States,161.08,169.0,120.0,215.0,11,24532484096,0.4,2026-07-29,2026-11-04,2.14,2026-08-13
+INCY,Incyte Corporation,Biotechnology,United States,120.77,124.95652,86.0,155.0,23,24479805440,,,2026-10-27,7.83,2026-08-13
+XPO,"XPO, Inc.",Trucking,United States,208.94,231.8261,115.0,275.0,23,24464046080,,,2026-10-29,3.49,2026-08-13
+FSLR,"First Solar, Inc.",Solar,United States,226.77,271.8669,150.0,402.0,29,24370925568,,,2026-10-29,9.23,2026-08-13
+PFG,Principal Financial Group Inc,Asset Management,United States,113.77,107.66667,92.0,125.0,12,24358684672,3.36,2026-09-03,2026-10-26,7.07,2026-08-13
+CHD,"Church & Dwight Company, Inc.",Household & Personal Products,United States,101.24,105.36842,78.0,115.0,19,24014522368,1.23,2026-08-14,2026-10-30,3.08,2026-08-13
+FFIV,"F5, Inc.",Software - Infrastructure,United States,422.95,436.1,300.0,515.0,10,23950469120,,,2026-10-26,12.82,2026-08-13
+HSAI,Hesai Group,Auto Parts,China,19.02,29.654766,25.019648,36.363056,17,23910758400,,,2026-08-18,0.48,2026-08-13
+IHG,Intercontinental Hotels Group,Lodging,United Kingdom,161.82,145.8,108.0,188.0,5,23872448512,1.9,2026-08-21,2026-08-11,4.89,2026-08-13
+BRO,"Brown & Brown, Inc.",Insurance Brokers,United States,71.06,76.4375,56.0,90.0,16,23777411072,0.66,2026-08-12,2026-10-26,3.13,2026-08-13
+TROW,"T. Rowe Price Group, Inc.",Asset Management,United States,111.42,109.91667,90.0,124.0,12,23767652352,5.2,2026-09-15,2026-10-30,9.76,2026-08-13
+MTSI,MACOM Technology Solutions Hold,Semiconductors,United States,310.75,401.53845,300.0,475.0,13,23732264960,,,2026-11-05,3.15,2026-08-13
+AER,AerCap Holdings N.V.,Rental & Leasing Services,Ireland,150.25,179.3,165.0,190.0,10,23616905216,1.6,2026-08-12,2026-10-28,20.48,2026-08-13
+RL,Ralph Lauren Corporation,Apparel Manufacturing,United States,396.35,446.70587,250.0,520.0,17,23615420416,3.74,2026-06-26,2026-11-05,15.87,2026-08-13
+GPN,Global Payments Inc.,Specialty Business Services,United States,88.53,101.5,60.0,194.0,28,23426664448,1.0,2026-09-11,2026-11-03,2.18,2026-08-13
+BNTX,BioNTech SE,Biotechnology,Germany,92.74,120.155235,76.05278,144.01636,20,23296692224,,,2026-11-03,-7.75,2026-08-13
+SOFI,"SoFi Technologies, Inc.",Credit Services,United States,17.94,19.86842,12.0,30.0,19,23170770944,,,2026-10-27,0.49,2026-08-13
+KOF,Coca Cola Femsa S.A.B. de C.V.,Beverages - Non-Alcoholic,Mexico,109.87,120.04823,106.0,133.0,13,23081844736,4.24,2026-07-13,2026-10-23,-1.71,2026-08-13
+RIVN,"Rivian Automotive, Inc.",Auto Manufacturers,United States,15.93,19.23077,13.0,25.0,26,23064420352,,,2026-07-30,-2.52,2026-08-13
+EXE,Expand Energy Corporation,Oil & Gas E&P,United States,96.28,126.04,93.0,160.0,25,23032952832,2.3,2026-08-13,2026-10-27,11.6,2026-08-13
+IOT,Samsara Inc.,Software - Infrastructure,United States,39.34,44.31429,30.0,57.6,21,22923814912,,,2026-09-03,0.1,2026-08-13
+STZ,"Constellation Brands, Inc.",Beverages - Brewers,United States,133.96,170.8261,115.0,209.0,23,22880952320,4.12,2026-07-30,2026-10-05,10.5,2026-08-13
+ULTA,"Ulta Beauty, Inc.",Specialty Retail,United States,531.89,623.4167,450.0,735.0,24,22865586176,,,2026-08-27,26.22,2026-08-13
+MKL,Markel Group Inc.,Insurance - Property & Casualty,United States,1842.46,1956.3334,1671.0,2107.0,6,22828001280,,,2026-10-28,181.3,2026-08-13
+MTZ,"MasTec, Inc.",Engineering & Construction,United States,281.11,427.21054,340.0,518.0,19,22574522368,,,2026-10-29,6.47,2026-08-13
+FICO,Fair Isaac Corporation,Software - Application,United States,1044.21,1476.3184,707.0,1750.0,19,22552467456,,,2026-07-29,34.57,2026-08-13
+ROKU,"Roku, Inc.",Entertainment,United States,151.79,162.55421,150.0,205.0,19,22528516096,,,2026-11-05,2.37,2026-08-13
+BURL,"Burlington Stores, Inc.",Apparel Retail,United States,353.63,375.875,300.0,438.0,16,22218670080,,,2026-08-27,9.72,2026-08-13
+VNOM,"Viper Energy, Inc.",Oil & Gas Midstream,United States,42.23,56.10526,46.0,65.0,19,22127876096,2.45,2026-08-13,2026-11-02,-0.1,2026-08-13
+DOW,Dow Inc.,Chemicals,United States,30.57,35.6875,29.0,48.0,16,22081955840,1.4,2026-05-29,2026-10-22,-1.79,2026-08-13
+LUV,Southwest Airlines Company,Airlines,United States,44.98,51.78696,35.0,67.0,23,22004584448,0.72,2026-09-03,2026-10-21,1.58,2026-08-13
+UTHR,United Therapeutics Corporation,Drug Manufacturers - Specialty & Generic,United States,511.72,653.2308,515.0,725.0,13,21948024832,,,2026-10-28,27.74,2026-08-13
+RS,"Reliance, Inc.",Steel,United States,427.11,409.5,398.0,425.0,8,21805246464,5.0,2026-08-14,2026-10-21,17.19,2026-08-13
+IP,International Paper Company,Packaging & Containers,United States,41.14,47.81818,39.0,61.0,11,21786505216,1.85,2026-08-14,2026-10-28,-5.3,2026-08-13
+FIS,Fidelity National Information S,Information Technology Services,United States,41.92,51.04348,37.0,77.0,23,21667571712,1.76,2026-09-11,2026-11-04,6.38,2026-08-13
+CMS,CMS Energy Corporation,Utilities - Regulated Electric,United States,70.02,80.30769,68.0,87.0,13,21630550016,2.28,2026-08-07,2026-10-29,3.35,2026-08-13
+BCE,"BCE, Inc.",Telecom Services,Canada,23.13,28.455263,25.162817,33.214745,3,21569320960,1.25,2026-09-15,2026-11-05,4.78,2026-08-13
+AMCR,Amcor plc,Packaging & Containers,Switzerland,46.56,48.99333,42.0,60.0,12,21526816768,2.6,2026-05-28,2026-08-12,1.22,2026-08-13
+BG,Bunge Limited,Farm Products,United States,111.75,141.22221,116.0,150.0,9,21469310976,2.88,2026-08-18,2026-07-29,4.65,2026-08-13
+WWD,"Woodward, Inc.",Aerospace & Defense,United States,362.7,450.36365,420.0,502.0,11,21415919616,1.28,2026-08-20,2026-07-29,8.99,2026-08-13
+IFF,International Flavors & Fragran,Specialty Chemicals,United States,83.85,95.37778,71.0,105.0,18,21407195136,1.6,2026-09-18,2026-11-03,-3.05,2026-08-13
+EFX,"Equifax, Inc.",Consulting Services,United States,180.46,210.5238,179.0,245.0,21,21201326080,2.24,2026-05-22,2026-10-20,5.65,2026-08-13
+MKSI,MKS Inc.,Scientific & Technical Instruments,United States,306.83,413.6154,270.0,600.0,13,20747094016,1.0,2026-08-25,2026-11-04,6.54,2026-08-13
+LEN,Lennar Corporation,Residential Construction,United States,85.2,86.23077,67.0,120.0,13,20524265472,2.0,2026-07-10,2026-09-17,6.21,2026-08-13
+FN,Fabrinet,Electronic Components,Cayman Islands,571.88,732.44446,635.0,850.0,9,20490311680,,,2026-08-17,12.64,2026-08-13
+SNX,TD SYNNEX Corporation,Electronics & Computer Distribution,United States,255.21,333.54544,278.0,374.0,11,20406274048,1.92,2026-07-17,2026-09-24,14.01,2026-08-13
+GIS,"General Mills, Inc.",Packaged Foods,United States,38.18,37.55556,31.0,47.0,18,20376985600,2.44,2026-07-10,2026-09-23,-0.16,2026-08-13
+SQM,Sociedad Quimica y Minera S.A.,Specialty Chemicals,Chile,71.25,84.78056,44.35,110.0,18,20351694848,1.03,2026-05-08,2026-08-18,2.82,2026-08-13
+LYB,LyondellBasell Industries NV,Specialty Chemicals,Netherlands,62.8,69.52941,56.0,95.0,17,20286783488,4.12,2026-06-01,2026-10-30,-0.82,2026-08-13
+CHTR,"Charter Communications, Inc.",Telecom Services,United States,150.22,184.41176,101.0,380.0,17,20246274048,,,2026-10-30,36.61,2026-08-13
+STLA,Stellantis N.V.,Auto Manufacturers,Netherlands,5.35,7.079,4.0,11.06,10,20155183104,,,2026-10-28,-7.68,2026-08-13
+RBRK,"Rubrik, Inc.",Software - Infrastructure,United States,96.73,96.07407,85.0,115.0,27,19909797888,,,2026-08-27,-1.46,2026-08-13
+WES,"Western Midstream Partners, LP",Oil & Gas Midstream,United States,48.17,46.5,38.0,55.0,12,19902619648,3.72,2026-07-31,2026-11-03,3.16,2026-08-13
+RGLD,"Royal Gold, Inc.",Gold,United States,232.87,302.66666,218.0,350.0,12,19730575360,1.9,2026-07-02,2026-11-04,9.04,2026-08-13
+TOST,"Toast, Inc.",Software - Infrastructure,United States,34.06,38.38462,25.0,45.0,26,19686680576,,,2026-11-03,0.77,2026-08-13
+TSN,"Tyson Foods, Inc.",Farm Products,United States,55.81,68.75,56.0,78.0,12,19634042880,2.04,2026-09-01,2026-08-03,1.6,2026-08-13
+U,Unity Software Inc.,Software - Application,United States,44.53,47.97217,28.0,55.0,23,19597160448,,,2026-11-04,-1.38,2026-08-13
+BR,"Broadridge Financial Solutions,",Information Technology Services,United States,169.27,211.375,165.0,250.0,8,19577481216,4.36,2026-09-03,2026-11-03,9.51,2026-08-13
+DD,"DuPont de Nemours, Inc.",Specialty Chemicals,United States,144.37,169.8751,156.0,186.0,16,19492751360,2.4,2026-08-31,2026-11-05,2.33,2026-08-13
+ITT,ITT Inc.,Specialty Industrial Machinery,United States,216.53,254.0,175.0,273.0,13,19453016064,1.54,2026-09-08,2026-10-27,5.09,2026-08-13
+CRCL,"Circle Internet Group, Inc.",Capital Markets,United States,71.28,102.81087,37.0,243.0,23,19430508544,,,2026-08-05,5.0,2026-08-13
+SBAC,SBA Communications Corporation,Reit - Specialty,United States,183.08,228.25,167.0,280.0,20,19422611456,5.0,2026-08-20,2026-11-02,9.32,2026-08-13
+ESS,"Essex Property Trust, Inc.",Reit - Residential,United States,281.27,302.91,239.0,352.0,25,19386869760,10.36,2026-06-30,2026-10-27,6.38,2026-08-13
+RCI,"Rogers Communication, Inc.",Telecom Services,Canada,35.84,42.389694,36.253414,51.531143,3,19361673216,1.42,2026-09-08,2026-10-22,8.29,2026-08-13
+CDE,"Coeur Mining, Inc.",Gold,United States,18.8,23.31818,18.0,35.0,11,19325175808,0.04,2026-05-22,2026-10-28,1.2,2026-08-13
+GMAB,Genmab A/S,Biotechnology,Denmark,31.42,38.72,32.0,43.2,10,19311435776,,,2026-11-05,1.29,2026-08-13
+WIT,Wipro Limited,Information Technology Services,India,1.95,1.74899,1.56,1.99294,7,19290355712,0.09,2026-07-27,2026-10-15,0.13,2026-08-13
+BEKE,KE Holdings Inc,Real Estate Services,China,17.42,22.830164,18.181454,27.126926,20,19222943744,0.28,2026-04-08,2026-08-21,0.45,2026-08-13
+AS,"Amer Sports, Inc.",Leisure,Finland,33.03,49.90136,40.5,64.0,22,19217580032,,,2026-08-18,0.78,2026-08-13
+EVRG,"Evergy, Inc.",Utilities - Regulated Electric,United States,83.32,91.70833,80.0,103.0,12,19210856448,2.78,2026-08-18,2026-11-05,3.99,2026-08-13
+YPF,YPF Sociedad Anonima,Oil & Gas Integrated,Argentina,48.9,58.6,48.0,78.0,13,19172470784,,,2026-10-29,38.6,2026-08-13
+TSCO,Tractor Supply Company,Specialty Retail,United States,36.43,35.51852,28.0,46.0,27,18981492736,0.96,2026-08-24,2026-10-22,1.98,2026-08-13
+TELNY,Telenor ASA,Telecom Services,Norway,13.92,15.05,12.0,18.1,2,18942867456,1.04,2026-10-16,2026-10-28,1.23,2026-08-13
+SSNC,"SS&C Technologies Holdings, Inc",Software - Application,United States,80.14,92.33333,82.0,112.0,9,18805250048,1.08,2026-06-01,2026-10-22,3.49,2026-08-13
+FTV,Fortive Corporation,Scientific & Technical Instruments,United States,61.54,64.30769,51.0,72.0,13,18761148416,0.24,2026-06-22,2026-10-28,1.88,2026-08-13
+ZBH,"Zimmer Biomet Holdings, Inc.",Medical Devices,United States,97.89,107.57143,93.0,130.0,21,18671312896,0.96,2026-06-25,2026-11-05,4.15,2026-08-13
+EWBC,"East West Bancorp, Inc.",Banks - Regional,United States,135.05,148.125,131.0,160.0,16,18503450624,3.2,2026-08-03,2026-10-20,10.41,2026-08-13
+VIV,Telefonica Brasil S.A.,Telecom Services,Brazil,11.58,14.957131,12.617524,19.05961,8,18502559744,0.98,2026-07-28,2026-07-27,0.81,2026-08-13
+VTRS,Viatris Inc.,Drug Manufacturers - Specialty & Generic,United States,16.1,18.5,12.0,23.0,8,18492313600,0.48,2026-08-21,2026-11-05,-0.37,2026-08-13
+GPC,Genuine Parts Company,Auto Parts,United States,134.01,140.375,122.0,170.0,8,18474586112,4.25,2026-09-04,2026-10-20,0.25,2026-08-13
+LSCC,Lattice Semiconductor Corporati,Semiconductors,United States,129.27,164.91667,125.0,180.0,12,18323920896,,,2026-11-02,0.26,2026-08-13
+IONQ,"IonQ, Inc.",Computer Hardware,United States,45.2,67.67538,44.78,100.0,13,18312132608,,,2026-11-04,-4.03,2026-08-13
+CF,"CF Industries Holdings, Inc.",Agricultural Inputs,United States,120.01,125.61684,100.0,195.72,19,18162089984,2.4,2026-08-14,2026-11-04,13.73,2026-08-13
+DKS,Dick's Sporting Goods Inc,Specialty Retail,United States,202.66,251.04546,169.0,300.0,22,18138585088,5.0,2026-06-12,2026-08-25,10.15,2026-08-13
+ZBRA,Zebra Technologies Corporation,Communication Equipment,United States,378.37,399.00125,292.02,455.0,16,18023047168,,,2026-11-03,10.78,2026-08-13
+PR,Permian Resources Corporation,Oil & Gas E&P,United States,21.45,25.36842,22.0,30.0,19,17965598720,0.63,2026-09-16,2026-11-04,1.55,2026-08-13
+NWS,News Corporation,Entertainment,United States,32.68,,,,,17664071680,0.2,2026-09-09,2026-11-05,1.03,2026-08-13
+AKAM,"Akamai Technologies, Inc.",Software - Infrastructure,United States,122.78,156.30043,93.0,195.0,23,17645524992,,,2026-11-05,2.77,2026-08-13
+BBY,"Best Buy Co., Inc.",Specialty Retail,United States,83.0,80.9,62.0,95.0,20,17493671936,3.84,2026-06-18,2026-08-27,5.4,2026-08-13
+TLN,Talen Energy Corporation,Utilities - Independent Power Producers,United States,365.07,467.6875,307.0,595.0,16,17492060160,,,2026-11-04,-4.13,2026-08-13
+KKPNY,Royal KPN NV,Telecom Services,Netherlands,4.56,4.75,3.6,5.9,2,17486356480,0.22,2026-08-03,2025-07-23,0.25,2026-08-13
+OVV,Ovintiv Inc. (DE),Oil & Gas E&P,United States,63.2,72.86364,55.0,85.0,22,17481119744,1.2,2026-09-15,2026-07-23,3.56,2026-08-13
+NTNX,"Nutanix, Inc.",Software - Infrastructure,United States,64.65,58.97867,47.0,65.0,15,17476220928,,,2026-08-26,0.96,2026-08-13
+NDSN,Nordson Corporation,Specialty Industrial Machinery,United States,311.26,316.85715,260.0,345.0,7,17342769152,3.28,2026-06-18,2026-08-19,9.37,2026-08-13
+PKX,POSCO Holdings Inc.,Steel,South Korea,57.09,68.0386,68.0386,68.0386,1,17268760576,1.62,2026-05-27,2026-10-26,2.0,2026-08-13
+CNH,CNH Industrial N.V.,Farm & Heavy Construction Machinery,United Kingdom,10.73,13.33684,10.0,21.0,19,17255542784,0.1,2026-05-21,2026-08-03,0.25,2026-08-13
+J,Jacobs Solutions Inc.,Engineering & Construction,United States,145.37,162.53333,144.0,181.0,15,17165416448,1.44,2026-08-21,2026-08-04,2.97,2026-08-13
+GEN,Gen Digital Inc.,Software - Infrastructure,United States,28.64,32.107,24.07,46.0,10,17143531520,0.5,2026-08-17,2026-11-05,1.71,2026-08-13
+CHRW,"C.H. Robinson Worldwide, Inc.",Integrated Freight & Logistics,United States,146.7,199.92,91.0,237.0,25,17142078464,2.52,2026-09-04,2026-10-28,5.3,2026-08-13
+CDW,CDW Corporation,Information Technology Services,United States,136.67,155.88889,123.0,171.0,9,17086131200,2.52,2026-08-25,2026-11-03,8.41,2026-08-13
+BEN,"Franklin Resources, Inc.",Asset Management,United States,33.59,35.09091,26.0,41.0,11,17066303488,1.32,2026-06-29,2026-07-31,1.48,2026-08-13
+FLUT,Flutter Entertainment plc,Gambling,United States,98.08,141.52258,80.0,360.0,31,17020716032,,,2026-08-05,-4.22,2026-08-13
+ASND,Ascendis Pharma A/S,Biotechnology,Denmark,255.46,308.07025,260.24893,357.619,18,16756344832,,,2026-04-30,8.76,2026-08-13
+CLH,"Clean Harbors, Inc.",Waste Management,United States,316.65,359.6,325.0,390.0,15,16715081728,,,2026-07-29,8.39,2026-08-13
+JLL,Jones Lang LaSalle Incorporated,Real Estate Services,United States,362.74,409.4,315.0,500.0,10,16688834560,,,2026-07-30,20.82,2026-08-13
+BALL,Ball Corporation,Packaging & Containers,United States,62.14,72.57143,63.0,79.0,14,16544558080,0.8,2026-09-01,2026-11-03,3.45,2026-08-13
+PAA,"Plains All American Pipeline, L",Oil & Gas Midstream,United States,23.24,24.47059,20.0,27.0,17,16397364224,1.63,2026-07-31,2026-11-04,1.17,2026-08-13
+BBIO,"BridgeBio Pharma, Inc.",Biotechnology,United States,83.84,107.61905,80.0,157.0,21,16389668864,,,2026-10-28,-3.56,2026-08-13
+YUMC,"Yum China Holdings, Inc.",Restaurants,China,47.9,62.05238,52.0,77.0,21,16381472768,1.16,2026-08-27,2026-07-30,2.75,2026-08-13
+KIM,Kimco Realty Corporation (HC),Reit - Retail,United States,24.18,26.875,24.0,31.0,22,16219686912,1.12,2026-09-04,2026-10-29,0.87,2026-08-13
+CX,"Cemex, S.A.B. de C.V. Sponsored",Building Materials,Mexico,11.24,14.74667,11.0,20.0,15,16218784768,0.1,2026-06-17,2026-10-26,-3.04,2026-08-13
+TIGO,Millicom International Cellular,Telecom Services,Luxembourg,96.47,96.0125,60.1,132.0,8,16178983936,3.0,2026-10-08,2026-11-05,4.06,2026-08-13
+JAZZ,Jazz Pharmaceuticals plc,Biotechnology,Ireland,248.94,281.1,196.0,315.0,20,16160159744,,,2026-08-03,14.6,2026-08-13
+RBA,"RB Global, Inc.",Specialty Business Services,United States,86.46,128.90909,104.0,152.0,11,16107497472,1.32,2026-08-25,2026-08-04,2.24,2026-08-13
+RGA,"Reinsurance Group of America, I",Insurance - Reinsurance,United States,246.08,266.8889,223.0,302.0,9,16069433344,3.92,2026-08-18,2026-10-29,22.84,2026-08-13
+PTC,PTC Inc.,Software - Application,United States,147.99,173.35,140.0,230.0,20,16057842688,,,2026-07-29,10.14,2026-08-13
+ARMK,Aramark,Specialty Business Services,United States,60.35,61.5625,47.0,70.5,16,15909771264,0.48,2026-08-19,2026-08-11,1.43,2026-08-13
+NBIX,"Neurocrine Biosciences, Inc.",Drug Manufacturers - Specialty & Generic,United States,156.49,213.12741,190.0,249.0,27,15907081216,,,2026-10-28,6.6,2026-08-13
+HST,"Host Hotels & Resorts, Inc.",Reit - Hotel & Motel,United States,22.8,25.06533,21.0,29.0,20,15839762432,0.8,2026-06-30,2026-11-04,1.52,2026-08-13
+BWXT,"BWX Technologies, Inc.",Aerospace & Defense,United States,172.56,235.16214,190.0,290.0,14,15810289664,1.06,2026-08-18,2026-11-02,3.92,2026-08-13
+DINO,HF Sinclair Corporation,Oil & Gas Refining & Marketing,United States,87.93,89.33333,67.0,114.0,15,15632534528,2.1,2026-08-11,2026-10-29,10.49,2026-08-13
+IREN,IREN LIMITED,Capital Markets,Australia,43.67,81.73333,41.0,131.0,15,15606726656,,,2026-08-27,0.85,2026-08-13
+QXO,"QXO, Inc.",Industrial Distribution,United States,15.03,29.82353,18.0,50.0,17,15598214144,,,2026-08-13,-0.92,2026-08-13
+DOCN,"DigitalOcean Holdings, Inc.",Software - Infrastructure,United States,133.37,175.2143,140.0,200.0,14,15592032256,,,2026-11-04,2.43,2026-08-13
+NWSA,News Corporation,Entertainment,United States,28.67,35.5375,30.3,43.0,8,15496601600,0.2,2026-09-09,2026-11-05,1.03,2026-08-13
+LTM,LATAM Airlines Group S.A.,Airlines,Chile,52.44,72.94444,69.0,80.0,9,15351491584,1.53,2026-05-08,2026-08-04,5.35,2026-08-13
+GIB,CGI Inc.,Information Technology Services,Canada,73.96,81.102165,75.35043,90.420235,3,15315297280,0.48,2026-08-14,2026-07-29,5.7,2026-08-13
+IESC,"IES Holdings, Inc.",Engineering & Construction,United States,766.33,850.0,850.0,850.0,1,15268632576,,,2026-07-31,22.15,2026-08-13
+ALB,Albemarle Corporation,Specialty Chemicals,United States,128.34,173.564,83.28,225.0,20,15144768512,1.64,2026-09-11,2026-11-04,0.27,2026-08-13
+CLPBY,Coloplast AS,Medical Instruments & Supplies,Denmark,6.71,8.3,6.5,12.2,4,15122111488,0.36,2026-05-22,2025-08-19,0.14,2026-08-13
+CRBG,Corebridge Financial Inc.,Asset Management,United States,33.78,38.25,32.0,46.0,12,15058194432,1.0,2026-09-16,2026-11-02,1.58,2026-08-13
+TU,Telus Corporation,Telecom Services,Canada,9.52,11.66667,9.5,14.5,3,14994000896,0.54,2026-09-10,2026-07-31,-0.42,2026-08-13
+COO,"The Cooper Companies, Inc.",Medical Instruments & Supplies,United States,76.73,81.21429,66.0,92.0,14,14964700160,,,2026-09-09,1.18,2026-08-13
+LOGI,Logitech International S.A. - R,Computer Hardware,Switzerland,103.28,108.6,84.0,141.0,10,14788491264,1.7,2026-09-21,2026-11-03,5.45,2026-08-13
+GFL,GFL Environmental Inc. Subordin,Waste Management,United States,40.87,51.327816,40.918186,65.55198,12,14749587456,0.07,2026-07-13,2026-07-29,-0.41,2026-08-13
+FUTU,Futu Holdings Limited,Capital Markets,Hong Kong,105.16,155.61955,111.835976,236.6158,18,14742853632,2.6,2026-04-16,2026-08-20,9.04,2026-08-13
+GRAB,Grab Holdings Limited,Software - Application,Singapore,3.61,5.8592,4.6,8.0,25,14725189632,,,2026-11-03,0.11,2026-08-13
+UNM,Unum Group,Insurance - Life,United States,91.79,101.46154,87.0,122.0,13,14665861120,2.02,2026-07-24,2026-07-28,4.41,2026-08-13
+DOC,"Healthpeak Properties, Inc.",Reit - Healthcare Facilities,United States,20.66,22.86842,17.0,29.0,19,14646850560,1.22,2026-08-17,2026-10-22,0.35,2026-08-13
+TTMI,"TTM Technologies, Inc.",Electronic Components,United States,138.1,214.25,205.0,224.0,4,14548678656,,,2026-11-04,2.35,2026-08-13
+SOLV,Solventum Corporation,Medical Instruments & Supplies,United States,85.29,93.92308,70.0,113.0,13,14518381568,,,2026-11-05,8.18,2026-08-13
+EVVTY,Evolution AB,Gambling,Sweden,76.95,57.0,57.0,57.0,1,14498022400,,,2025-07-17,6.14,2026-08-13
+OHI,"Omega Healthcare Investors, Inc",Reit - Healthcare Facilities,United States,45.87,52.0,45.0,61.0,18,14467180544,2.72,2026-08-03,2026-10-29,2.83,2026-08-13
+GWRE,"Guidewire Software, Inc.",Software - Application,United States,173.08,201.0,137.0,258.0,14,14410012672,,,2026-09-03,1.82,2026-08-13
+DT,"Dynatrace, Inc.",Software - Application,United States,49.56,58.18182,42.0,65.0,33,14322945024,,,2026-11-04,0.5,2026-08-13
+MKC,"McCormick & Company, Incorporat",Packaged Foods,United States,52.97,60.61538,52.0,75.0,13,14241067008,1.92,2026-07-06,2026-10-06,6.02,2026-08-13
+SUN,Sunoco LP,Oil & Gas Refining & Marketing,United States,75.55,82.57143,78.0,90.0,7,14234667008,4.01,2026-08-07,2026-11-04,4.67,2026-08-13
+EQH,"Equitable Holdings, Inc.",Asset Management,United States,51.87,61.54545,52.0,68.0,11,14148361216,1.14,2026-08-03,2026-11-03,-3.32,2026-08-13
+ALLE,Allegion plc,Security & Protection Services,Ireland,166.11,174.63635,160.0,200.0,11,14125460480,2.12,2026-06-15,2026-10-22,7.51,2026-08-13
+TXRH,"Texas Roadhouse, Inc.",Restaurants,United States,214.28,217.73914,125.0,276.0,23,14065538048,3.0,2026-09-01,2026-11-05,6.39,2026-08-13
+APA,APA Corporation,Oil & Gas E&P,United States,39.97,42.04348,31.0,62.0,23,14003550208,1.0,2026-07-22,2026-11-04,4.66,2026-08-13
+BAX,Baxter International Inc.,Medical Instruments & Supplies,United States,26.95,28.72727,23.0,40.0,11,13933042688,0.04,2026-08-28,2026-10-29,-1.88,2026-08-13
+IVZ,Invesco Ltd,Asset Management,United States,31.54,32.95833,28.0,38.0,12,13924910080,0.86,2026-08-14,2026-10-27,-0.68,2026-08-13
+AEG,Aegon Ltd. New York Registry Sh,Insurance - Diversified,Netherlands,9.4,9.875,9.15,10.6,2,13898989568,0.46,2026-06-15,2026-08-20,0.69,2026-08-13
+DTM,"DT Midstream, Inc.",Oil & Gas Midstream,United States,136.12,155.0,130.0,176.0,14,13886321664,3.52,2026-09-21,2026-10-29,4.6,2026-08-13
+AIZ,"Assurant, Inc.",Insurance - Property & Casualty,United States,281.12,309.5,274.0,355.0,6,13865896960,3.52,2026-06-08,2026-11-03,20.86,2026-08-13
+TME,Tencent Music Entertainment Gro,Internet Content & Information,China,8.46,14.98268,10.00771,28.404512,28,13851336704,0.24,2026-04-02,2026-11-11,0.82,2026-08-13
+AVY,Avery Dennison Corporation,Packaging & Containers,United States,181.03,201.8,181.0,225.0,10,13847054336,4.0,2026-09-02,2026-10-21,9.21,2026-08-13
+GL,Globe Life Inc.,Insurance - Life,United States,177.91,193.90909,166.0,225.0,11,13813779456,1.32,2026-10-05,2026-10-21,14.78,2026-08-13
+LULU,lululemon athletica inc.,Apparel Retail,Canada,120.87,127.92308,88.0,280.0,26,13725262848,,,2026-09-03,11.88,2026-08-13
+BMRN,BioMarin Pharmaceutical Inc.,Biotechnology,United States,70.24,90.32,60.0,124.0,25,13596620800,,,2026-10-26,0.37,2026-08-13
+W,Wayfair Inc.,Internet Retail,United States,102.94,120.89286,80.0,156.0,28,13587719168,,,2026-10-27,-2.47,2026-08-13
+CRL,Charles River Laboratories Inte,Diagnostics & Research,United States,284.37,281.0,145.0,318.0,14,13575502848,,,2026-11-04,-4.86,2026-08-13
+AA,Alcoa Corporation,Aluminum,United States,51.22,62.975,49.7,80.0,12,13517442048,0.4,2026-08-11,2026-10-15,4.55,2026-08-13
+AUR,"Aurora Innovation, Inc.",Auto Parts,United States,6.87,11.21583,3.59,18.0,12,13473465344,,,2026-10-28,-0.43,2026-08-13
+ALLY,Ally Financial Inc.,Credit Services,United States,44.25,53.7,45.0,58.0,17,13460836352,1.2,2026-07-31,2026-10-16,4.28,2026-08-13
+HRL,Hormel Foods Corporation,Packaged Foods,United States,24.39,26.875,25.0,30.0,8,13421431808,1.17,2026-07-13,2026-08-27,0.85,2026-08-13
+CHKP,Check Point Software Technologi,Software - Infrastructure,Israel,129.29,146.32259,105.0,201.0,31,13200589824,,,2026-11-04,9.76,2026-08-13
+RNR,RenaissanceRe Holdings Ltd.,Insurance - Reinsurance,Bermuda,317.45,346.4,304.0,438.0,15,13190648832,1.64,2026-09-15,2026-07-22,57.84,2026-08-13
+TRMB,Trimble Inc.,Scientific & Technical Instruments,United States,56.35,81.27273,61.0,94.0,11,13135834112,,,2026-08-12,1.91,2026-08-13
+CCK,"Crown Holdings, Inc.",Packaging & Containers,United States,120.71,136.57143,121.0,155.0,14,13128481792,1.31,2026-08-06,2026-10-19,6.99,2026-08-13
+TYL,"Tyler Technologies, Inc.",Software - Application,United States,317.64,426.63635,335.0,525.0,22,13008079872,,,2026-10-28,7.5,2026-08-13
+WMG,Warner Music Group Corp.,Entertainment,United States,24.79,36.88235,23.0,46.0,17,12967890944,0.8,2026-08-20,2026-08-05,1.24,2026-08-13
+NVMI,Nova Ltd.,Semiconductor Equipment & Materials,Israel,405.9,532.0,461.0,600.0,8,12910119936,,,2026-11-05,8.23,2026-08-13
+GLPI,"Gaming and Leisure Properties, ",Reit - Specialty,United States,43.1,53.69565,45.0,63.0,23,12908470272,3.28,2026-06-12,2026-10-29,3.46,2026-08-13
+HII,"Huntington Ingalls Industries, ",Aerospace & Defense,United States,326.8,366.66666,304.0,439.0,12,12877422592,5.52,2026-08-28,2026-10-29,16.79,2026-08-13
+PINS,"Pinterest, Inc.",Internet Content & Information,United States,22.9,28.96556,22.0,42.36,36,12827601920,,,2026-08-04,0.33,2026-08-13
+BF.B,Brown Forman Inc,Beverages - Wineries & Distilleries,United States,27.92,27.78824,20.0,35.0,17,12811490304,0.92,2026-09-03,2026-09-02,1.52,2026-08-13
+CLX,Clorox Company (The),Household & Personal Products,United States,105.76,101.70588,77.0,155.0,17,12789663744,5.0,2026-08-12,2026-11-03,4.7,2026-08-13
+FNF,"Fidelity National Financial, In",Insurance - Specialty,United States,47.67,61.4,54.0,70.0,5,12784751616,2.08,2026-09-16,2026-11-05,2.87,2026-08-13
+DKNG,DraftKings Inc.,Gambling,United States,25.51,34.78571,18.0,76.0,35,12664543232,,,2026-11-05,-0.35,2026-08-13
+FIG,"Figma, Inc.",Software - Application,United States,23.75,30.5,25.0,37.0,10,12658983936,,,2026-11-04,-4.15,2026-08-13
+FMS,Fresenius Medical Care AG,Medical Care Facilities,Germany,23.72,25.674606,17.304056,38.06593,7,12624242688,0.87,2026-05-22,2026-11-03,1.92,2026-08-13
+SNN,"Smith & Nephew SNATS, Inc.",Medical Devices,United Kingdom,29.84,33.824,30.0,38.0,5,12503566336,0.79,2026-10-02,2026-08-04,1.47,2026-08-13
+EXEL,"Exelixis, Inc.",Biotechnology,United States,50.38,52.9375,41.0,66.0,16,12483241984,,,2026-10-27,3.18,2026-08-13
+DECK,Deckers Outdoor Corporation,Footwear & Accessories,United States,91.2,122.80952,85.0,184.0,21,12419784704,,,2026-10-22,7.03,2026-08-13
+MDGL,"Madrigal Pharmaceuticals, Inc.",Biotechnology,United States,536.2,678.0625,543.0,962.0,16,12388432896,,,2026-07-30,-14.05,2026-08-13
+ALGN,"Align Technology, Inc.",Medical Instruments & Supplies,United States,174.01,208.6,170.0,240.0,15,12362000384,,,2026-10-28,5.79,2026-08-13
+CSGP,"CoStar Group, Inc.",Real Estate Services,United States,30.5,37.1,25.0,53.0,20,12358526976,,,2026-10-27,0.18,2026-08-13
+BXP,"BXP, Inc.",Reit - Office,United States,67.95,74.55,60.0,91.0,20,12290620416,2.8,2026-06-30,2026-10-27,1.88,2026-08-13
+LI,Li Auto Inc.,Auto Manufacturers,China,12.47,18.166544,10.054569,27.00995,25,12239760384,,,2026-08-26,-0.26,2026-08-13
+HL,Hecla Mining Company,Other Precious Metals & Mining,United States,18.1,23.52778,17.0,32.0,9,12139894784,0.02,2026-08-26,2026-08-04,0.85,2026-08-13
+CORT,Corcept Therapeutics Incorporat,Biotechnology,United States,112.18,135.25,50.0,165.0,4,12126478336,,,2026-07-29,0.45,2026-08-13
+SMMT,Summit Therapeutics Inc.,Biotechnology,United States,15.1,28.405247,9.795643,41.55932,13,12046019584,,,2026-10-19,-1.11,2026-08-13
+AFG,"American Financial Group, Inc.",Insurance - Property & Casualty,United States,144.77,153.16667,136.0,175.0,6,12004540416,3.52,2026-07-15,2026-11-03,11.48,2026-08-13
+TFII,TFI International Inc.,Trucking,Canada,145.94,174.07692,158.0,205.0,13,11995251712,1.88,2026-09-30,2026-10-29,4.19,2026-08-13
+KTOS,Kratos Defense & Security Solut,Aerospace & Defense,United States,63.82,107.14286,60.0,150.0,21,11967524864,,,2026-11-03,0.17,2026-08-13
+CHYM,"Chime Financial, Inc.",Software - Application,United States,31.6,33.9,22.0,45.0,20,11963289600,,,2026-11-04,5.37,2026-08-13
+BJ,"BJ's Wholesale Club Holdings, I",Discount Stores,United States,92.71,102.6,79.0,120.0,20,11838365696,,,2026-08-21,4.29,2026-08-13
+DPZ,Domino's Pizza Inc,Restaurants,United States,353.72,380.48148,270.0,450.0,27,11701671936,7.96,2026-09-15,2026-10-13,17.47,2026-08-13
+LFUS,"Littelfuse, Inc.",Electronic Components,United States,459.01,488.75,415.0,520.0,4,11658279936,3.2,2026-08-20,2026-10-28,-0.5,2026-08-13
+DVA,DaVita Inc.,Medical Care Facilities,United States,181.5,218.42857,165.0,270.0,7,11649577984,,,2026-10-28,12.02,2026-08-13
+GDDY,GoDaddy Inc.,Software - Infrastructure,United States,91.82,104.8,80.0,170.0,15,11628791808,,,2026-10-29,6.81,2026-08-13
+KNX,Knight-Swift Transportation Hol,Trucking,United States,71.31,88.63158,57.0,100.0,19,11606129664,0.8,2026-09-04,2026-10-21,0.27,2026-08-13
+HALO,"Halozyme Therapeutics, Inc.",Biotechnology,United States,101.79,99.55556,70.0,115.0,9,11552961536,,,2026-11-02,3.38,2026-08-13
+AR,Antero Resources Corporation,Oil & Gas E&P,United States,37.48,49.1,37.0,60.0,20,11522813952,,,2026-10-28,3.46,2026-08-13
+RRX,Regal Rexnord Corporation,Specialty Industrial Machinery,United States,172.9,249.0,220.0,275.0,10,11513733120,1.4,2026-09-30,2026-10-28,4.88,2026-08-13
+NIO,NIO Inc.,Auto Manufacturers,China,4.54,7.343731,4.0350256,10.045079,24,11375728640,,,2026-09-01,-0.56,2026-08-13
+IT,"Gartner, Inc.",Information Technology Services,United States,179.46,185.76923,150.0,229.0,13,11332715520,,,2026-11-03,10.66,2026-08-13
+XPEV,XPeng Inc.,Auto Manufacturers,China,11.75,22.06452,15.065693,28.149004,25,11239974912,,,2026-08-24,-0.35,2026-08-13
+MANH,"Manhattan Associates, Inc.",Software - Application,United States,192.63,207.0,180.0,240.0,11,11231287296,,,2026-10-27,3.45,2026-08-13
+CART,Maplebear Inc.,Internet Retail,United States,48.45,57.0,40.0,77.0,27,11216178176,,,2026-11-09,1.8,2026-08-13
+HUT,Hut 8 Corp.,Capital Markets,United States,90.77,163.5294,120.0,273.0,17,11188261888,,,2026-11-04,-5.52,2026-08-13
+DOCU,"DocuSign, Inc.",Software - Application,United States,58.1,59.32722,46.89,90.0,18,11093881856,,,2026-09-03,1.51,2026-08-13
+MGM,MGM Resorts International,Resorts & Casinos,United States,43.98,50.57222,43.0,60.0,18,11065049088,,,2026-10-28,1.64,2026-08-13
+RMBS,"Rambus, Inc.",Semiconductors,United States,101.01,147.5,100.0,180.0,8,10922915840,,,2026-10-26,2.18,2026-08-13
+CPT,Camden Property Trust,Reit - Residential,United States,108.38,117.72619,105.0,134.0,21,10896454656,4.24,2026-06-30,2026-07-30,3.03,2026-08-13
+JKHY,"Jack Henry & Associates, Inc.",Information Technology Services,United States,152.31,186.66667,158.0,208.0,15,10821744640,2.38,2026-06-01,2026-08-18,7.1,2026-08-13
+BSY,"Bentley Systems, Incorporated",Software - Application,United States,35.73,44.46667,40.0,59.0,15,10793779200,0.28,2026-06-02,2026-11-04,0.89,2026-08-13
+MOH,Molina Healthcare Inc,Healthcare Plans,United States,206.06,209.11765,147.0,266.0,17,10756331520,,,2026-10-21,0.16,2026-08-13
+ARW,"Arrow Electronics, Inc.",Electronics & Computer Distribution,United States,210.3,235.0,200.0,250.0,4,10705411072,,,2026-10-29,15.94,2026-08-13
+PSKY,Paramount Skydance Corporation,Entertainment,United States,9.5,9.80769,2.0,16.0,13,10632144896,0.2,2026-09-15,2026-08-04,0.03,2026-08-13
+SAIL,"SailPoint, Inc.",Software - Infrastructure,United States,18.73,18.94,10.0,25.0,25,10623336448,,,2026-09-09,-0.25,2026-08-13
+GIL,"Gildan Activewear, Inc.",Apparel Manufacturing,Canada,57.26,85.25,67.0,111.0,8,10604084224,1.0,2026-08-20,2026-10-29,1.26,2026-08-13
+WYNN,"Wynn Resorts, Limited",Resorts & Casinos,United States,102.97,132.58421,116.0,145.0,19,10603220992,1.0,2026-08-14,2026-11-05,4.1,2026-08-13
+AM,Antero Midstream Corporation,Oil & Gas Midstream,United States,22.24,24.28571,23.0,26.0,7,10556748800,0.9,2026-07-29,2026-10-28,0.84,2026-08-13
+EAT,"Brinker International, Inc.",Restaurants,United States,245.89,202.0,139.0,260.0,21,10545679360,,,2026-08-12,11.38,2026-08-13
+SWKS,"Skyworks Solutions, Inc.",Semiconductors,United States,69.68,68.25,52.0,85.0,16,10480287744,2.84,2026-05-26,2026-07-28,1.96,2026-08-13
+HUBS,"HubSpot, Inc.",Software - Application,United States,210.12,243.361,190.0,320.0,30,10477885440,,,2026-11-04,2.67,2026-08-13
+VICR,Vicor Corporation,Electronic Components,United States,226.12,386.25,320.0,450.0,4,10425654272,,,2026-10-20,3.12,2026-08-13
+ONON,On Holding AG,Footwear & Accessories,Switzerland,31.01,52.284473,23.863064,82.98006,27,10363997184,,,2026-11-11,1.46,2026-08-13
+FLS,Flowserve Corporation,Specialty Industrial Machinery,United States,80.95,89.1,70.0,100.0,10,10345977856,0.88,2026-06-26,2026-10-27,2.87,2026-08-13
+RDY,Dr. Reddy's Laboratories Ltd,Drug Manufacturers - Specialty & Generic,India,12.39,13.494803,11.406411,15.792278,5,10320871424,0.08,2026-07-09,2026-10-22,0.42,2026-08-13
+NYT,New York Times Company (The),Publishing,United States,63.95,79.88889,63.0,95.0,9,10314085376,0.92,2026-07-08,2026-11-04,2.41,2026-08-13
+APTV,Aptiv PLC,Auto Parts,Switzerland,48.48,66.61111,55.0,78.0,18,10259362816,,,2026-10-29,2.16,2026-08-13
+ORI,Old Republic International Corp,Insurance - Property & Casualty,United States,42.47,43.5,39.0,48.0,2,10253657088,1.26,2026-06-05,2026-10-22,4.56,2026-08-13
+MUSA,Murphy USA Inc.,Specialty Retail,United States,546.93,622.7,550.0,710.0,10,10052763648,2.43,2026-05-18,2026-11-04,32.87,2026-08-13
+GTLS,"Chart Industries, Inc.",Specialty Industrial Machinery,United States,209.9,204.42857,169.0,212.0,7,10047718400,,,,-1.03,2026-08-13
+MSGS,Madison Square Garden Sports Co,Entertainment,United States,414.12,441.16666,360.0,522.0,6,9970398208,,,2026-08-13,-0.95,2026-08-13
+DDS,"Dillard's, Inc.",Department Stores,United States,636.02,537.0,465.0,650.0,3,9932756992,1.2,2026-06-30,2026-08-13,41.4,2026-08-13
+FDS,FactSet Research Systems Inc.,Financial Data & Stock Exchanges,United States,277.99,255.0625,210.0,340.0,16,9886865408,4.64,2026-05-29,2026-09-17,14.9,2026-08-13
+AAL,"American Airlines Group, Inc.",Airlines,United States,14.93,19.03478,10.3,25.0,23,9883210752,,,2026-10-22,-0.49,2026-08-13
+TEM,"Tempus AI, Inc.",Health Information Services,United States,54.61,62.64286,35.0,100.0,14,9853542400,,,2026-11-03,-1.41,2026-08-13
+AVAV,"AeroVironment, Inc.",Aerospace & Defense,United States,193.81,225.76685,148.57,326.0,19,9808343040,,,2026-09-02,-5.33,2026-08-13
+NUVL,"Nuvalent, Inc.",Biotechnology,United States,123.96,124.0,124.0,124.0,9,9792580608,,,,-6.06,2026-08-13
+SAIA,"Saia, Inc.",Trucking,United States,364.66,435.42856,285.0,510.0,21,9727177728,,,2026-10-29,10.58,2026-08-13
+BIO,"Bio-Rad Laboratories, Inc.",Medical Devices,United States,362.08,329.0,280.0,390.0,5,9689838592,,,2026-10-29,8.19,2026-08-13
+LKNCY,Luckin Coffee Inc.,Restaurants,China,33.8,48.20615,40.0,54.68,13,9676557312,,,2026-08-03,1.73,2026-08-13
+MP,MP Materials Corp.,Other Industrial Metals & Mining,United States,54.11,75.28125,58.0,100.0,16,9637076992,,,2026-11-05,-0.32,2026-08-13
+PRI,"Primerica, Inc.",Insurance - Life,United States,310.84,319.16666,276.0,370.0,6,9566831616,4.8,2026-08-21,2026-11-04,24.71,2026-08-13
+PAYC,"Paycom Software, Inc.",Software - Application,United States,211.28,203.8125,140.0,270.0,16,9522732032,1.5,2026-08-24,2026-11-04,9.4,2026-08-13
+IONS,"Ionis Pharmaceuticals, Inc.",Biotechnology,United States,56.53,89.33333,66.0,115.0,21,9394399232,,,2026-07-29,-3.48,2026-08-13
+RRC,Range Resources Corporation,Oil & Gas E&P,United States,40.18,45.81818,37.0,57.0,22,9389243392,0.4,2026-06-12,2026-10-27,3.58,2026-08-13
+ADC,Agree Realty Corporation,Reit - Retail,United States,74.36,84.86111,80.0,93.0,18,9274835968,3.2,2026-08-31,2026-10-20,1.86,2026-08-13
+CTRE,"CareTrust REIT, Inc.",Reit - Healthcare Facilities,United States,39.16,45.38462,43.0,49.0,13,9253241856,1.56,2026-06-30,2026-08-06,1.62,2026-08-13
+BRKR,Bruker Corporation,Medical Devices,United States,59.27,58.75,40.0,70.0,12,9030336512,0.2,2026-06-22,2026-11-03,-0.73,2026-08-13
+APLD,Applied Digital Corporation,Information Technology Services,United States,31.15,74.22727,37.5,109.0,11,8967574528,,,2026-10-08,-0.96,2026-08-13
+KT,KT Corporation,Telecom Services,South Korea,18.53,22.44458,20.1,26.0,4,8825164800,0.82,2026-05-27,2026-11-05,2.25,2026-08-13
+PCOR,"Procore Technologies, Inc.",Software - Application,United States,57.98,68.55,55.0,88.0,20,8810371072,,,2026-07-29,-0.26,2026-08-13
+FRO,Frontline Plc,Oil & Gas Midstream,Cyprus,39.57,44.25,37.0,55.0,4,8809188352,3.13,2026-06-12,2026-08-31,4.21,2026-08-13
+SNAP,Snap Inc.,Internet Content & Information,United States,5.2,7.28,5.0,16.0,35,8794227712,,,2026-08-03,-0.17,2026-08-13
+TTAN,"ServiceTitan, Inc.",Software - Application,United States,92.0,109.93333,83.0,125.0,15,8776577024,,,2026-09-08,-1.52,2026-08-13
+TIMB,TIM S.A.,Telecom Services,Brazil,18.19,24.49125,21.4,28.5,8,8689978368,1.6,2026-06-29,2026-07-27,1.77,2026-08-13
+NCLH,Norwegian Cruise Line Holdings ,Travel Services,United States,18.92,20.76,15.0,32.0,25,8687834112,,,2026-07-30,1.67,2026-08-13
+KNTK,Kinetik Holdings Inc.,Oil & Gas Midstream,United States,51.25,55.125,48.0,64.0,16,8671493120,3.21,2026-07-24,2026-11-04,2.87,2026-08-13
+QRVO,"Qorvo, Inc.",Semiconductors,United States,98.24,90.76923,66.0,105.0,13,8666536960,,,2026-07-28,4.38,2026-08-13
+PRMB,Primo Brands Corporation,Beverages - Non-Alcoholic,United States,23.91,30.36364,25.0,35.0,11,8654073856,0.48,2026-08-24,2026-08-05,0.3,2026-08-13
+LEVI,Levi Strauss & Co,Apparel Manufacturing,United States,22.44,28.26667,25.0,34.0,15,8636046336,0.64,2026-07-22,2026-09-30,1.38,2026-08-13
+WULF,TeraWulf Inc.,Capital Markets,United States,17.19,37.44444,25.0,72.0,18,8577271808,,,2026-08-05,-4.46,2026-08-13
+AOS,A.O. Smith Corporation,Specialty Industrial Machinery,United States,62.59,69.90909,59.0,84.0,11,8506518016,1.44,2026-07-31,2026-10-27,3.53,2026-08-13
+ATR,"AptarGroup, Inc.",Medical Instruments & Supplies,United States,133.15,170.14285,155.0,220.0,7,8465826816,1.92,2026-07-30,2026-10-29,5.47,2026-08-13
+MTCH,"Match Group, Inc.",Internet Content & Information,United States,36.58,41.8125,35.0,51.0,16,8396975616,0.8,2026-10-05,2026-11-03,2.8,2026-08-13
+OKLO,Oklo Inc.,Utilities - Independent Power Producers,United States,45.13,79.875,14.0,130.0,20,8394976768,,,2026-08-07,-0.9,2026-08-13
+PBF,PBF Energy Inc.,Oil & Gas Refining & Marketing,United States,70.34,64.84615,38.0,84.0,13,8337881600,1.1,2026-08-14,2026-10-29,11.57,2026-08-13
+KMX,CarMax Inc,Auto & Truck Dealerships,United States,58.71,54.84615,33.0,96.0,13,8331600896,,,2026-09-29,1.63,2026-08-13
+LAD,"Lithia Motors, Inc.",Auto & Truck Dealerships,United States,378.55,443.875,340.0,525.0,16,8321708544,2.8,2026-08-07,2026-10-21,30.21,2026-08-13
+GME,GameStop Corporation,Specialty Retail,United States,18.54,,,,,8318736384,,,2026-09-08,1.32,2026-08-13
+EMN,Eastman Chemical Company,Specialty Chemicals,United States,72.54,81.6,74.0,100.0,15,8293253632,3.36,2026-09-15,2026-07-30,3.73,2026-08-13
+ARE,Alexandria Real Estate Equities,Reit - Office,United States,48.06,52.35714,46.0,60.0,14,8270899200,2.88,2026-06-30,2026-10-26,-6.05,2026-08-13
+HESM,Hess Midstream LP,Oil & Gas Midstream,United States,40.08,37.33333,32.0,40.0,6,8263629312,3.09,2026-08-06,2026-11-02,2.87,2026-08-13
+CAVA,"CAVA Group, Inc.",Restaurants,United States,69.47,90.375,55.0,110.0,24,8114526720,,,2026-11-10,0.64,2026-08-13
+ESTC,Elastic N.V.,Software - Application,Netherlands,77.16,74.0,53.0,120.0,27,8082624000,,,2026-08-27,3.46,2026-08-13
+LEA,Lear Corporation,Auto Parts,United States,121.23,150.5,130.0,179.0,14,8070858752,3.08,2026-06-03,2026-10-22,10.68,2026-08-13
+RYTM,"Rhythm Pharmaceuticals, Inc.",Biotechnology,United States,117.6,141.53333,105.0,160.0,15,8066604544,,,2026-11-03,-3.26,2026-08-13
+JHG,Janus Henderson Group plc,Asset Management,United Kingdom,51.95,52.95,51.8,55.0,4,8004228608,1.6,2025-11-10,,5.05,2026-08-13
+ALGM,"Allegro MicroSystems, Inc.",Semiconductors,United States,42.47,54.36364,48.0,62.0,11,7916495360,,,2026-10-29,0.07,2026-08-13
+PATH,"UiPath, Inc.",Software - Infrastructure,United States,15.26,13.24875,10.98,17.0,16,7906515456,,,2026-09-03,0.58,2026-08-13
+JOBY,"Joby Aviation, Inc.",Airports & Air Services,United States,7.96,10.67556,6.0,18.0,9,7873428992,,,2026-11-04,-0.93,2026-08-13
+BLDR,"Builders FirstSource, Inc.",Building Products & Equipment,United States,72.41,80.71429,61.0,100.0,21,7791059968,,,2026-10-29,0.92,2026-08-13
+NFG,National Fuel Gas Company,Oil & Gas Integrated,United States,81.72,92.0,89.0,95.0,2,7767085568,2.22,2026-06-30,2026-07-29,7.13,2026-08-13
+TAP,Molson Coors Beverage Company,Beverages - Brewers,United States,41.57,45.47619,34.0,61.0,21,7750889984,1.92,2026-08-28,2026-11-03,-11.33,2026-08-13
+THG,Hanover Insurance Group Inc,Insurance - Property & Casualty,United States,222.18,235.875,222.0,260.0,8,7736356352,3.8,2026-06-12,2026-10-28,20.88,2026-08-13
+PCTY,Paylocity Holding Corporation,Software - Application,United States,145.67,171.52632,128.0,250.0,19,7728807936,,,2026-11-03,4.92,2026-08-13
+SM,SM Energy Company,Oil & Gas E&P,United States,32.42,39.13333,32.0,52.0,15,7711228416,0.88,2026-06-08,2026-11-02,5.62,2026-08-13
+FSS,Federal Signal Corporation,Farm & Heavy Construction Machinery,United States,126.31,145.0,132.0,155.0,7,7710166016,0.6,2026-08-14,2026-10-29,4.63,2026-08-13
+SOBO,South Bow Corporation,Oil & Gas Midstream,Canada,36.63,35.08875,31.0,39.0,8,7640583168,2.0,2026-09-29,2026-11-04,2.22,2026-08-13
+RIOT,"Riot Platforms, Inc.",Capital Markets,United States,20.32,30.87905,20.0,45.0,21,7625261568,,,2026-10-29,-3.86,2026-08-13
+S,"SentinelOne, Inc.",Software - Infrastructure,United States,22.3,19.67742,15.0,26.0,31,7615050752,,,2026-08-27,-0.97,2026-08-13
+TGTX,"TG Therapeutics, Inc.",Biotechnology,United States,49.5,69.71429,21.0,86.0,7,7576918016,,,2026-11-02,2.72,2026-08-13
+ZG,"Zillow Group, Inc.",Internet Content & Information,United States,33.49,47.22727,32.0,80.0,22,7531062784,,,2026-10-29,0.22,2026-08-13
+UGI,UGI Corporation,Utilities - Regulated Gas,United States,35.1,41.33333,40.0,42.0,3,7528772608,1.5,2026-09-15,2026-08-05,3.01,2026-08-13
+CHRD,Chord Energy Corporation,Oil & Gas E&P,United States,137.58,162.7143,129.0,187.0,14,7525333504,5.2,2026-08-20,2026-11-03,14.62,2026-08-13
+MBLY,Mobileye Global Inc.,Auto Parts,Israel,8.8,12.10185,6.95,27.0,27,7481650688,,,2026-10-29,-4.93,2026-08-13
+Z,"Zillow Group, Inc.",Internet Content & Information,United States,33.26,48.33333,34.0,62.0,6,7479340544,,,2026-10-29,0.22,2026-08-13
+NOV,NOV Inc.,Oil & Gas Equipment & Services,United States,20.91,22.075,17.0,26.0,20,7453957120,0.35,2026-06-12,2026-10-26,0.27,2026-08-13
+OMF,"OneMain Holdings, Inc.",Credit Services,United States,64.65,69.57143,60.0,85.0,14,7437431296,4.2,2026-08-10,2026-10-30,6.73,2026-08-13
+CIFR,Cipher Digital Inc.,Information Technology Services,United States,17.87,32.17647,22.0,69.0,17,7416599552,,,2026-11-02,-2.97,2026-08-13
+MORN,"Morningstar, Inc.",Financial Data & Stock Exchanges,United States,197.51,236.66667,220.0,260.0,3,7409305600,2.0,2026-10-02,2026-10-28,10.62,2026-08-13
+MSA,MSA Safety Incorporated,Security & Protection Services,United States,192.04,209.14285,190.0,223.0,7,7408573952,2.16,2026-08-14,2026-10-27,8.01,2026-08-13
+NSANY,"Nissan Motor Co., Ltd.",Auto Manufacturers,Japan,4.23,5.90854,4.32562,8.0,3,7394848768,,,2026-08-03,-1.86,2026-08-13
+BILI,Bilibili Inc.,Internet Content & Information,China,17.61,29.62637,21.181618,36.061424,30,7369886720,,,2026-08-27,0.5,2026-08-13
+CWAN,"Clearwater Analytics Holdings, ",Software - Application,United States,24.56,24.44,24.0,24.55,5,7330872320,,,,-0.18,2026-08-13
+NAVN,"Navan, Inc.",Software - Application,United States,28.78,29.6,25.0,38.0,15,7319653888,,,2026-09-10,-1.41,2026-08-13
+DBX,"Dropbox, Inc.",Software - Infrastructure,United States,33.63,30.66667,21.0,42.0,6,7312595456,,,2026-11-05,1.79,2026-08-13
+VIST,Vista Energy S.A.B. de C.V.,Oil & Gas E&P,Mexico,66.01,98.6836,81.603195,122.68763,12,7311756800,,,2026-10-28,7.58,2026-08-13
+ETSY,"Etsy, Inc.",Internet Retail,United States,79.63,85.91667,58.0,100.0,24,7308579840,,,2026-11-04,3.17,2026-08-13
+LW,"Lamb Weston Holdings, Inc.",Packaged Foods,United States,53.11,55.25,52.0,65.0,12,7301730304,1.52,2026-08-07,2026-09-30,2.1,2026-08-13
+GAP,"Gap, Inc. (The)",Apparel Retail,United States,20.25,26.24444,20.0,40.0,18,7289573376,0.7,2026-07-08,2026-08-27,2.52,2026-08-13
+STAG,"Stag Industrial, Inc.",Reit - Industrial,United States,36.94,42.08333,40.0,46.0,12,7269888512,1.55,2026-09-30,2026-10-28,1.31,2026-08-13
+POOL,Pool Corporation,Industrial Distribution,United States,199.41,220.36365,185.0,260.0,11,7246708736,5.2,2026-08-13,2026-10-22,10.77,2026-08-13
+KLAR,Klarna Group plc,Credit Services,United Kingdom,19.12,24.4,18.0,45.0,20,7229530112,,,2026-08-18,-0.53,2026-08-13
+BZ,KANZHUN LIMITED - American Depo,Internet Content & Information,China,16.09,20.83433,15.70863,26.228996,21,7190408704,0.17,2025-10-08,2026-08-19,1.02,2026-08-13
+MOS,Mosaic Company (The),Agricultural Inputs,United States,22.6,27.55789,19.0,35.0,19,7184441856,0.88,2026-05-21,2026-11-03,-1.98,2026-08-13
+CAG,"ConAgra Brands, Inc.",Packaged Foods,United States,14.96,14.38125,12.0,23.0,16,7181811712,1.23,2026-07-30,2026-09-30,-4.01,2026-08-13
+ZETA,Zeta Global Holdings Corp.,Software - Infrastructure,United States,28.55,31.0,25.0,44.0,14,7166437888,,,2026-11-03,0.0,2026-08-13
+NE,Noble Corporation plc A,Oil & Gas Drilling,United States,44.08,48.09091,35.0,60.0,11,7037029376,2.0,2026-09-03,2026-10-27,0.93,2026-08-13
+HIMS,"Hims & Hers Health, Inc.",Drug Manufacturers - Specialty & Generic,United States,29.97,31.15385,23.0,42.0,13,6992402432,,,2026-11-09,-0.64,2026-08-13
+CLF,Cleveland-Cliffs Inc.,Steel,United States,12.25,11.8,10.0,15.0,10,6989115392,,,2026-10-19,-1.55,2026-08-13
+CELH,"Celsius Holdings, Inc.",Beverages - Non-Alcoholic,United States,27.62,41.55,26.0,56.0,20,6988828160,,,2026-08-06,0.23,2026-08-13
+FLR,Fluor Corporation,Engineering & Construction,United States,52.03,60.6875,47.5,71.0,8,6958547456,,,2026-11-06,-11.49,2026-08-13
+ROAD,"Construction Partners, Inc.",Engineering & Construction,United States,121.53,142.57143,130.0,165.0,7,6897502720,,,2026-08-07,2.56,2026-08-13
+GTLB,GitLab Inc.,Software - Infrastructure,United States,40.81,34.13043,25.0,60.0,23,6892809216,,,2026-09-02,-0.15,2026-08-13
+BTG,B2Gold Corp,Gold,Canada,5.21,5.95,4.0,7.5,5,6882778624,0.08,2026-09-10,2026-11-04,0.58,2026-08-13
+HRB,"H&R Block, Inc.",Personal Services,United States,54.18,43.33333,33.0,50.0,3,6867868160,1.68,2026-06-03,2026-11-05,6.6,2026-08-13
+GLBE,Global-E Online Ltd.,Internet Retail,Israel,40.55,47.23077,40.0,64.0,13,6811077632,,,2026-08-12,0.66,2026-08-13
+FIGR,"Figure Technology Solutions, In",Capital Markets,United States,30.68,51.14286,31.0,70.0,7,6783374336,,,2026-08-13,0.9,2026-08-13
+BIRK,Birkenstock Holding plc,Footwear & Accessories,United Kingdom,36.74,52.85725,40.352654,75.94791,21,6756708352,,,2026-08-13,2.18,2026-08-13
+CPB,The Campbell's Company,Packaged Foods,United States,22.6,21.58824,14.0,56.0,17,6739461120,1.56,2026-07-02,2026-09-09,2.03,2026-08-13
+ST,Sensata Technologies Holding pl,Scientific & Technical Instruments,United States,46.15,52.90909,45.0,63.0,11,6716480000,0.48,2026-08-12,2026-10-27,0.62,2026-08-13
+CORZ,"Core Scientific, Inc.",Software - Infrastructure,United States,20.87,37.125,28.0,55.0,16,6706375168,,,2026-10-23,-5.32,2026-08-13
+DSGX,The Descartes Systems Group Inc,Software - Application,Canada,77.62,99.78571,82.0,126.0,14,6651321856,,,2026-09-10,1.97,2026-08-13
+WFRD,Weatherford International plc,Oil & Gas Equipment & Services,United States,92.7,116.75,93.0,151.0,12,6645240320,1.1,2026-08-06,2026-10-20,4.98,2026-08-13
+TFPM,Triple Flag Precious Metals Cor,Other Precious Metals & Mining,Canada,32.25,39.0,37.0,40.0,4,6643597312,0.24,2026-08-31,2026-11-03,2.02,2026-08-13
+EPRT,Essential Properties Realty Tru,Reit - Retail,United States,30.63,37.0625,33.0,40.0,20,6641157632,1.28,2026-06-30,2026-10-21,1.31,2026-08-13
+URBN,"Urban Outfitters, Inc.",Apparel Retail,United States,77.47,86.15385,72.0,100.0,13,6634149888,,,2026-08-26,5.2,2026-08-13
+GDS,GDS Holdings Limited,Information Technology Services,China,32.74,51.008476,36.186287,64.635414,16,6560363520,,,2026-08-13,1.71,2026-08-13
+INGR,Ingredion Incorporated,Packaged Foods,United States,103.75,121.5,108.0,150.0,6,6542887936,3.28,2026-07-01,2026-11-03,9.12,2026-08-13
+MTDR,Matador Resources Company,Oil & Gas E&P,United States,52.51,68.26316,56.0,93.0,19,6498333696,1.5,2026-08-10,2026-10-27,5.82,2026-08-13
+BEPC,Brookfield Renewable Corporatio,Utilities - Renewable,United States,35.0,39.16667,33.0,43.0,6,6495974400,1.57,2026-08-31,2026-07-31,-21.39,2026-08-13
+ENVA,"Enova International, Inc.",Credit Services,United States,260.4,277.14285,257.0,300.0,7,6483535872,,,2026-10-22,13.62,2026-08-13
+MGY,Magnolia Oil & Gas Corporation,Oil & Gas E&P,United States,26.36,32.47059,26.0,38.0,17,6392091136,0.66,2026-08-10,2026-11-04,2.32,2026-08-13
+RIG,Transocean Ltd (Switzerland),Oil & Gas Drilling,Switzerland,5.7,6.60909,4.0,10.0,11,6366216704,,,2026-10-28,-1.68,2026-08-13
+TTD,"The Trade Desk, Inc.",Advertising Agencies,United States,13.49,13.62,9.0,20.0,30,6338683904,,,2026-11-05,0.84,2026-08-13
+DUOL,"Duolingo, Inc.",Software - Application,United States,134.63,120.12444,80.0,163.0,18,6298835456,,,2026-11-04,8.41,2026-08-13
+SPHR,Sphere Entertainment Co.,Entertainment,United States,175.09,178.25,158.0,200.0,12,6288113664,,,2026-07-30,-2.29,2026-08-13
+LYFT,"Lyft, Inc.",Software - Application,United States,16.58,19.58333,14.0,30.0,36,6276197376,,,2026-11-04,6.49,2026-08-13
+YOU,"Clear Secure, Inc.",Software - Application,United States,46.16,62.6,45.0,75.0,5,6267977728,0.58,2026-09-10,2026-11-05,1.42,2026-08-13
+SNDR,"Schneider National, Inc.",Trucking,United States,35.74,37.5,32.0,45.0,14,6265254400,0.4,2026-09-11,2026-10-29,0.65,2026-08-13
+KGS,"Kodiak Gas Services, Inc.",Oil & Gas Equipment & Services,United States,62.06,82.46667,69.0,93.0,15,6263027712,1.96,2026-08-17,2026-11-03,0.89,2026-08-13
+CROX,"Crocs, Inc.",Footwear & Accessories,United States,130.61,138.25,95.0,163.0,12,6262106624,,,2026-10-29,11.18,2026-08-13
+M,Macy's Inc,Department Stores,United States,23.79,22.77273,9.0,30.0,11,6257673216,0.77,2026-06-15,2026-09-02,2.35,2026-08-13
+HOMB,"Home BancShares, Inc.",Banks - Regional,United States,31.12,33.0,30.0,36.0,7,6225544704,0.86,2026-08-12,2026-10-14,2.43,2026-08-13
+CHDN,"Churchill Downs, Incorporated",Gambling,United States,88.53,131.63635,100.0,157.0,11,6170562048,0.44,2025-12-05,2026-10-28,5.89,2026-08-13
+RGTI,"Rigetti Computing, Inc.",Computer Hardware,United States,18.42,28.8125,18.0,40.0,12,6148020224,,,2026-08-06,-0.85,2026-08-13
+CPA,"Copa Holdings, S.A.",Airlines,Panama,135.86,179.06667,152.0,205.0,15,6144428544,6.84,2026-08-31,2026-08-05,15.38,2026-08-13
+PTCT,"PTC Therapeutics, Inc.",Biotechnology,United States,72.64,97.85714,70.0,130.0,14,6062592512,,,2026-07-30,-0.67,2026-08-13
+QBTS,D-Wave Quantum Inc.,Computer Hardware,United States,16.21,35.252,22.0,43.0,15,6037251072,,,2026-11-05,-0.72,2026-08-13
+CZR,"Caesars Entertainment, Inc.",Resorts & Casinos,United States,29.63,31.26667,31.0,35.0,15,6036234240,,,2026-10-27,-2.26,2026-08-13
+BYD,Boyd Gaming Corporation,Resorts & Casinos,United States,82.98,95.8125,87.0,111.0,16,6028946432,0.76,2026-06-15,2026-10-22,22.7,2026-08-13
+VAL,Valaris Limited,Oil & Gas Drilling,Bermuda,85.21,69.05,45.0,99.0,8,5916624896,,,2026-10-28,13.02,2026-08-13
+ACI,"Albertsons Companies, Inc.",Grocery Stores,United States,12.01,14.1875,10.0,24.0,16,5882238976,0.68,2026-07-24,2026-10-13,0.16,2026-08-13
+CVLT,"Commvault Systems, Inc.",Software - Application,United States,141.74,161.15062,130.0,200.0,16,5874352640,,,2026-10-27,1.59,2026-08-13
+PAGP,"Plains GP Holdings, L.P.",Oil & Gas Midstream,United States,25.15,24.64286,20.0,29.0,14,5859960832,1.63,2026-07-31,2026-11-04,0.35,2026-08-13
+AROC,"Archrock, Inc.",Oil & Gas Equipment & Services,United States,33.28,42.5,40.0,46.0,8,5835254784,0.92,2026-08-04,2026-10-27,1.88,2026-08-13
+WHD,"Cactus, Inc. Class A Common Sto",Oil & Gas Equipment & Services,United States,72.4,66.66667,57.0,75.0,9,5804989952,0.6,2026-08-31,2026-07-29,1.19,2026-08-13
+OTEX,Open Text Corporation,Software - Application,Canada,23.95,27.95455,25.0,33.0,11,5798935552,1.12,2026-09-04,2026-11-05,2.58,2026-08-13
+CWST,"Casella Waste Systems, Inc.",Waste Management,United States,90.56,111.8,91.0,130.0,10,5763242496,,,2026-11-05,0.08,2026-08-13
+NICE,NICE Ltd,Software - Application,Israel,98.56,125.84615,100.0,170.0,13,5760140800,,,2026-08-05,6.66,2026-08-13
+DLB,Dolby Laboratories,Specialty Business Services,United States,61.39,79.0,62.0,90.0,3,5750327296,1.44,2026-08-11,2026-07-30,2.35,2026-08-13
+POR,Portland General Electric Co,Utilities - Regulated Electric,United States,48.8,52.54545,43.0,62.0,11,5739257856,2.15,2026-09-25,2026-10-30,2.28,2026-08-13
+BCPC,Balchem Corporation,Specialty Chemicals,United States,179.76,209.25,165.0,242.0,4,5730392576,0.96,2025-12-23,2026-10-20,5.11,2026-08-13
+VFC,V.F. Corporation,Apparel Manufacturing,United States,14.57,18.77143,13.0,40.0,21,5727970304,0.36,2026-09-10,2026-10-26,0.69,2026-08-13
+MKTX,"MarketAxess Holdings, Inc.",Capital Markets,United States,162.6,158.0,124.0,167.0,9,5722364416,3.12,2026-08-19,2026-07-30,8.47,2026-08-13
+G,Genpact Limited,Information Technology Services,Bermuda,33.95,42.18182,31.0,58.0,11,5704768000,0.75,2026-09-10,2026-11-05,3.36,2026-08-13
+NXST,"Nexstar Media Group, Inc.",Broadcasting,United States,185.14,247.375,205.0,290.0,8,5703848448,7.44,2026-08-14,2026-11-05,5.28,2026-08-13
+MMYT,MakeMyTrip Limited,Travel Services,India,60.31,75.4,65.0,85.0,10,5672678400,,,2026-10-27,0.22,2026-08-13
+NJR,NewJersey Resources Corporation,Utilities - Regulated Gas,United States,55.36,60.0,53.0,64.0,7,5587018752,1.9,2026-06-10,2026-08-03,3.65,2026-08-13
+ONDS,Ondas Inc,Communication Equipment,United States,9.77,19.05556,13.0,25.0,9,5574296576,,,2026-08-13,0.09,2026-08-13
+UEC,Uranium Energy Corp.,Uranium,United States,11.36,18.02778,12.0,26.75,9,5568907776,,,2026-09-24,-0.22,2026-08-13
+SXT,Sensient Technologies Corporati,Specialty Chemicals,United States,130.33,142.8,133.0,155.0,5,5548012544,1.64,2026-08-03,2026-10-30,3.66,2026-08-13
+GVA,Granite Construction Incorporat,Engineering & Construction,United States,126.19,171.66667,119.0,200.0,6,5522643968,0.52,2026-06-30,2026-07-30,-4.34,2026-08-13
+GTX,Garrett Motion Inc.,Auto Parts,United States,29.34,37.16667,34.0,42.0,6,5492110336,0.32,2026-09-01,2026-10-22,1.83,2026-08-13
+ELF,"e.l.f. Beauty, Inc.",Household & Personal Products,United States,92.62,97.25,65.0,121.0,16,5465320960,,,2026-11-04,0.95,2026-08-13
+ENPH,"Enphase Energy, Inc.",Solar,United States,40.77,47.01111,27.0,85.0,27,5373413888,,,2026-10-27,0.97,2026-08-13
+ADT,ADT Inc.,Security & Protection Services,United States,7.31,8.23,7.0,9.0,5,5340387840,0.22,2026-09-10,2026-07-30,0.71,2026-08-13
+ACIW,"ACI Worldwide, Inc.",Software - Infrastructure,United States,52.75,67.33333,66.0,70.0,3,5325388800,,,2026-11-05,2.2,2026-08-13
+CNX,CNX Resources Corporation,Oil & Gas E&P,United States,35.74,37.90909,32.0,48.0,11,5287505408,,,2026-10-29,6.1,2026-08-13
+ALK,"Alaska Air Group, Inc.",Airlines,United States,47.37,62.90625,37.0,92.0,16,5284926976,,,2026-10-22,-1.58,2026-08-13
+OMAB,Grupo Aeroportuario del Centro ,Airports & Air Services,Mexico,109.31,123.9,100.0,150.0,8,5276521984,5.77,2026-05-26,2026-10-22,6.6,2026-08-13
+IRDM,Iridium Communications Inc,Telecom Services,United States,49.65,42.0,36.0,54.0,5,5260933120,0.6,2026-06-15,2026-10-22,0.87,2026-08-13
+SLM,SLM Corporation,Credit Services,United States,27.97,28.54545,23.0,35.0,11,5258359808,0.52,2026-09-04,2026-10-22,3.7,2026-08-13
+RNG,"Ringcentral, Inc.",Software - Application,United States,62.88,46.42857,38.0,60.0,14,5250867200,0.28,2026-08-21,2026-07-23,1.24,2026-08-13
+CRSP,CRISPR Therapeutics AG,Biotechnology,Switzerland,53.99,87.55556,44.0,291.0,18,5220436480,,,2026-08-03,-4.71,2026-08-13
+EQPT,EquipmentShare.com Inc,Rental & Leasing Services,United States,20.68,33.8,19.0,55.0,10,5219117056,,,2026-08-12,0.09,2026-08-13
+GOLF,Acushnet Holdings Corp.,Leisure,United States,89.1,102.0,95.0,118.0,5,5203889152,1.02,2026-09-04,2026-11-04,3.63,2026-08-13
+GLNG,Golar LNG Limited,Oil & Gas Midstream,Bermuda,51.07,60.27778,44.5,70.0,9,5197892608,1.0,2026-06-01,2026-08-13,1.3,2026-08-13
+EPAM,"EPAM Systems, Inc.",Information Technology Services,United States,100.29,122.82353,94.0,200.0,17,5173658112,,,2026-11-05,7.4,2026-08-13
+PSN,Parsons Corporation,Information Technology Services,United States,48.28,58.54545,48.0,72.0,11,5156563968,,,2026-07-29,1.45,2026-08-13
+PEGA,Pegasystems Inc.,Software - Application,United States,31.35,43.0,25.0,60.0,9,5154095104,0.12,2026-07-01,2026-10-20,1.67,2026-08-13
+LPX,Louisiana-Pacific Corporation,Building Products & Equipment,United States,73.66,92.23077,74.0,107.0,13,5150558720,1.2,2026-08-14,2026-11-04,0.77,2026-08-13
+XMTR,"Xometry, Inc.",Industrial Distribution,United States,93.09,109.125,95.0,126.0,8,5142836736,,,2026-11-03,-0.61,2026-08-13
+BB,BlackBerry Limited,Software - Infrastructure,Canada,8.77,9.71429,5.2,13.0,7,5140101120,,,2026-09-24,0.1,2026-08-13
+HCC,"Warrior Met Coal, Inc.",Coking Coal,United States,96.72,102.66667,90.0,123.0,6,5107018240,0.32,2026-08-10,2026-11-04,4.11,2026-08-13
+PAY,"Paymentus Holdings, Inc.",Software - Infrastructure,United States,40.36,40.0,36.0,45.0,7,5082924032,,,2026-11-02,0.66,2026-08-13
+OII,"Oceaneering International, Inc.",Oil & Gas Equipment & Services,United States,51.02,43.25,36.0,52.0,4,5078002688,,,2026-10-21,3.48,2026-08-13
+MUR,Murphy Oil Corporation,Oil & Gas E&P,United States,35.26,42.28571,34.0,70.0,14,5055618048,1.4,2026-08-17,2026-11-04,2.0,2026-08-13
+ANF,Abercrombie & Fitch Company,Apparel Retail,United States,112.23,112.36364,87.0,136.0,11,4986571264,,,2026-08-26,9.83,2026-08-13
+KVYO,"Klaviyo, Inc. Series A",Software - Application,United States,17.25,26.65,19.0,36.0,20,4911547904,,,2026-11-04,0.03,2026-08-13
+BOOT,"Boot Barn Holdings, Inc.",Apparel Retail,United States,160.74,221.5,190.0,282.0,14,4867985920,,,2026-10-28,7.65,2026-08-13
+FRMI,Fermi Inc.,Reit - Specialty,United States,7.6,17.0,6.0,35.0,8,4849433088,,,2026-08-13,-1.22,2026-08-13
+ACHR,Archer Aviation Inc.,Aerospace & Defense,United States,6.29,10.61111,4.5,18.0,9,4843468800,,,2026-11-05,-1.0,2026-08-13
+VRNS,"Varonis Systems, Inc.",Software - Infrastructure,United States,41.93,50.68182,28.0,60.0,22,4816100352,,,2026-10-27,-1.22,2026-08-13
+KBR,"KBR, Inc.",Engineering & Construction,United States,38.1,45.71429,35.0,60.0,7,4803181056,0.66,2026-06-15,2026-10-22,3.37,2026-08-13
+CE,Celanese Corporation,Chemicals,United States,43.31,63.625,45.0,86.0,16,4753226240,0.12,2026-07-28,2026-08-04,-10.59,2026-08-13
+CRC,California Resources Corporatio,Oil & Gas E&P,United States,53.47,77.18182,58.0,87.0,11,4749199872,1.62,2026-09-04,2026-11-03,-1.24,2026-08-13
+OLLI,Ollie's Bargain Outlet Holdings,Discount Stores,United States,78.25,107.06667,70.0,135.0,15,4730469888,,,2026-08-27,4.02,2026-08-13
+CNR,"Core Natural Resources, Inc.",Thermal Coal,United States,94.95,106.0,100.0,118.0,4,4712962560,0.4,2026-08-31,2026-11-05,2.01,2026-08-13
+ATAT,Atour Lifestyle Holdings Limite,Lodging,China,33.84,49.35485,40.225754,58.54612,16,4676212736,0.54,2026-06-05,2026-08-20,1.94,2026-08-13
+LFST,"LifeStance Health Group, Inc.",Medical Care Facilities,United States,12.23,12.9,9.0,16.0,10,4672540160,,,2026-11-05,0.14,2026-08-13
+INDV,"Indivior Pharmaceuticals, Inc.",Drug Manufacturers - Specialty & Generic,United States,38.73,49.0,43.0,53.0,4,4570668544,,,2026-08-03,2.81,2026-08-13
+TDW,Tidewater Inc.,Oil & Gas Equipment & Services,United States,91.61,88.14286,54.0,117.0,7,4558168576,,,2026-08-03,4.93,2026-08-13
+AZZ,AZZ Inc.,Specialty Business Services,United States,151.38,164.0,144.0,200.0,9,4549196288,0.96,2026-07-09,2026-10-07,6.48,2026-08-13
+KTB,"Kontoor Brands, Inc.",Apparel Manufacturing,United States,81.6,94.6,50.0,131.0,10,4510224384,2.12,2026-09-08,2026-08-12,5.4,2026-08-13
+USAR,"USA Rare Earth, Inc.",Other Industrial Metals & Mining,United States,18.41,37.5,30.0,45.0,8,4504395776,,,2026-11-05,-2.62,2026-08-13
+ITRI,"Itron, Inc.",Scientific & Technical Instruments,United States,102.61,129.6,115.0,150.0,10,4492958720,,,2026-10-29,5.94,2026-08-13
+PTRN,Pattern Group Inc. - Series A,Software - Application,United States,22.46,28.125,25.0,31.0,8,4471821824,,,2026-11-04,-1.24,2026-08-13
+CBT,Cabot Corporation,Specialty Chemicals,United States,86.3,91.33333,78.0,100.0,6,4454928384,1.85,2026-08-28,2026-11-02,3.54,2026-08-13
+PRIM,Primoris Services Corporation,Engineering & Construction,United States,81.46,119.78571,85.0,165.0,14,4385181184,0.32,2026-09-30,2026-11-02,2.55,2026-08-13
+PAM,Pampa Energia S.A.,Conglomerates,Argentina,79.41,119.86364,100.0,160.0,11,4267811584,,,2026-11-02,11.94,2026-08-13
+KRC,Kilroy Realty Corporation,Reit - Office,United States,36.24,40.07143,31.0,51.0,14,4256118272,2.16,2026-06-30,2026-10-26,1.42,2026-08-13
+TGS,Transportadora de Gas del Sur S,Oil & Gas Integrated,Argentina,28.1,41.28571,34.0,54.0,7,4230516992,,,2026-11-03,1.96,2026-08-13
+OLED,Universal Display Corporation,Electronic Components,United States,92.01,115.37333,80.36,158.0,9,4229408768,2.0,2026-09-16,2026-07-30,4.05,2026-08-13
+FCN,"FTI Consulting, Inc.",Consulting Services,United States,152.68,175.5,171.0,180.0,2,4215735296,,,2026-10-29,8.24,2026-08-13
+LFTO,"Liftoff Mobile, Inc.",Advertising Agencies,United States,25.26,35.46154,30.0,42.0,13,4205298176,,,2026-08-12,0.13,2026-08-13
+DLO,DLocal Limited,Software - Infrastructure,Uruguay,14.28,18.25,14.5,21.0,10,4202162944,0.19,2026-05-27,2026-08-13,0.65,2026-08-13
+COLD,"Americold Realty Trust, Inc.",Reit - Industrial,United States,14.6,16.32353,13.0,21.0,17,4187964672,0.92,2026-06-30,2026-11-05,-1.6,2026-08-13
+PTEN,"Patterson-UTI Energy, Inc.",Oil & Gas Drilling,United States,11.02,13.35714,8.0,19.0,14,4183386880,0.4,2026-09-01,2026-10-21,-0.24,2026-08-13
+HAE,Haemonetics Corporation,Medical Devices,United States,91.34,96.2,86.0,105.0,10,4155700480,,,2026-11-05,2.07,2026-08-13
+GEO,Geo Group Inc (The) REIT,Security & Protection Services,United States,31.45,37.75,31.0,40.0,4,4139436032,,,2026-11-05,2.1,2026-08-13
+VAC,Marriott Vacations Worldwide Co,Resorts & Casinos,United States,119.33,112.8,52.0,147.0,10,4104393472,3.2,2026-05-27,2026-11-04,-9.94,2026-08-13
+CRK,"Comstock Resources, Inc.",Oil & Gas E&P,United States,13.92,15.33333,9.0,19.0,12,4087197952,,,2026-07-29,1.72,2026-08-13
+EE,"Excelerate Energy, Inc.",Oil & Gas Midstream,United States,35.75,43.76923,37.0,50.0,13,4054125312,0.36,2026-08-19,2026-11-04,1.48,2026-08-13
+DAVE,Dave Inc.,Software - Application,United States,316.19,429.9091,310.0,490.0,11,4033163776,,,2026-11-04,15.84,2026-08-13
+LIF,"Life360, Inc.",Software - Application,United States,49.15,62.20556,47.0,72.0,9,4004760320,,,2026-11-09,1.72,2026-08-13
+LEGN,Legend Biotech Corporation,Biotechnology,United States,20.65,52.1,27.0,80.0,15,4001339136,,,2026-11-11,-0.47,2026-08-13
+LMND,"Lemonade, Inc.",Insurance - Property & Casualty,United States,51.64,60.22222,37.0,92.0,9,3996761088,,,2026-07-29,-1.78,2026-08-13
+WSC,WillScot Holdings Corporation,Rental & Leasing Services,United States,22.05,29.4,26.0,37.0,10,3995260416,0.28,2026-09-02,2026-08-06,-0.38,2026-08-13
+CRGY,Crescent Energy Company,Oil & Gas E&P,United States,12.06,16.33333,11.0,20.0,15,3984668928,0.48,2026-08-17,2026-11-02,0.08,2026-08-13
+HHH,Howard Hughes Holdings Inc.,Real Estate - Development,United States,66.72,89.66667,79.0,100.0,3,3984587520,,,2026-08-05,5.06,2026-08-13
+VKTX,"Viking Therapeutics, Inc.",Biotechnology,United States,34.02,92.39474,35.0,125.0,19,3968532992,,,2026-10-28,-4.67,2026-08-13
+SMR,NuScale Power Corporation,Specialty Industrial Machinery,United States,9.59,12.9,6.0,20.0,15,3935635712,,,2026-11-05,-2.13,2026-08-13
+QS,QuantumScape Corporation,Auto Parts,United States,6.38,6.6625,2.5,10.0,8,3924625664,,,2026-10-21,-0.67,2026-08-13
+TAC,TransAlta Corporation,Utilities - Independent Power Producers,Canada,12.4,13.265291,10.039937,16.490648,2,3922119936,0.2,2026-09-01,2026-07-31,-0.22,2026-08-13
+VEON,VEON Ltd.,Telecom Services,United Arab Emirates,56.93,83.589,70.0,100.0,7,3920267776,,,2026-07-31,1.01,2026-08-13
+QTWO,"Q2 Holdings, Inc.",Software - Application,United States,62.55,74.36364,60.0,82.0,11,3900286208,,,2026-07-29,1.42,2026-08-13
+PII,Polaris Inc.,Recreational Vehicles,United States,68.52,72.33333,46.0,85.0,15,3899029248,2.72,2026-09-01,2026-10-26,-4.6,2026-08-13
+YETI,"YETI Holdings, Inc.",Leisure,United States,50.84,54.0,41.0,80.0,15,3851553024,,,2026-08-13,1.96,2026-08-13
+COCO,"The Vita Coco Company, Inc.",Beverages - Non-Alcoholic,United States,66.45,83.88889,68.0,90.0,9,3845072640,,,2026-10-28,1.87,2026-08-13
+SRAD,Sportradar Group AG,Software - Application,Switzerland,12.99,18.477188,14.023743,38.073997,21,3844411904,,,2026-11-04,0.06,2026-08-13
+TDS,"Telephone and Data Systems, Inc",Telecom Services,United States,33.17,50.5,50.0,51.0,2,3818397440,0.16,2026-06-16,2026-08-07,3.98,2026-08-13
+STNG,Scorpio Tankers Inc.,Oil & Gas Midstream,Monaco,76.15,96.0,78.0,120.0,10,3813694976,1.8,2026-08-17,2026-10-29,16.47,2026-08-13
+MIR,"Mirion Technologies, Inc.",Specialty Industrial Machinery,United States,15.21,24.6,22.0,28.0,10,3787862528,,,2026-10-27,0.09,2026-08-13
+PVH,PVH Corp.,Apparel Manufacturing,United States,81.59,91.83333,70.0,128.0,12,3761959168,0.15,2026-09-02,2026-08-25,3.3,2026-08-13
+ABG,Asbury Automotive Group Inc,Auto & Truck Dealerships,United States,209.41,254.2,190.0,315.0,10,3759310848,,,2026-10-27,27.08,2026-08-13
+BLSH,Bullish,Software - Infrastructure,Cayman Islands,24.63,40.83333,26.0,51.0,9,3735098880,,,2026-08-13,-7.52,2026-08-13
+MARA,"MARA Holdings, Inc.",Capital Markets,United States,9.64,17.94727,5.5,30.0,11,3723925248,,,2026-11-04,-9.39,2026-08-13
+LOPE,"Grand Canyon Education, Inc.",Education & Training Services,United States,142.06,195.0,185.0,200.0,3,3702798848,,,2026-07-30,8.27,2026-08-13
+LEU,Centrus Energy Corp.,Uranium,United States,185.06,257.33334,170.0,340.0,15,3692475904,,,2026-11-04,-317.33,2026-08-13
+BBWI,"Bath & Body Works, Inc.",Specialty Retail,United States,18.13,25.2,19.0,54.0,15,3654315520,0.8,2026-08-21,2026-08-26,3.38,2026-08-13
+NVTS,Navitas Semiconductor Corporati,Semiconductors,United States,13.93,14.075,8.0,21.0,8,3637032448,,,2026-07-27,-1.37,2026-08-13
+MNDY,monday.com Ltd.,Software - Application,Israel,85.95,109.0,90.0,165.0,23,3633460480,,,2026-11-09,2.36,2026-08-13
+BATRA,"Atlanta Braves Holdings, Inc. -",Entertainment,United States,56.56,,,,,3629336320,,,2026-11-04,-1.04,2026-08-13
+UUUU,Energy Fuels Inc,Uranium,United States,14.47,25.625,16.0,32.5,4,3616993536,,,2026-11-02,-0.32,2026-08-13
+LBTYA,Liberty Global Ltd.,Telecom Services,Bermuda,10.42,14.96154,9.9,25.0,13,3554132224,,,2026-10-29,-9.22,2026-08-13
+CVI,CVR Energy Inc.,Oil & Gas Refining & Marketing,United States,35.04,29.6,25.0,35.0,5,3522592256,0.4,2026-08-10,2026-10-28,0.71,2026-08-13
+FRPT,"Freshpet, Inc.",Packaged Foods,United States,72.31,84.25,70.0,104.0,16,3475079168,,,2026-11-02,3.89,2026-08-13
+NHI,"National Health Investors, Inc.",Reit - Healthcare Facilities,United States,70.73,82.875,74.0,91.0,8,3473581056,3.76,2026-09-30,2026-11-05,3.5,2026-08-13
+FOUR,"Shift4 Payments, Inc.",Software - Infrastructure,United States,43.92,53.3,40.0,78.0,20,3467928320,,,2026-11-05,0.64,2026-08-13
+GPK,Graphic Packaging Holding Compa,Packaging & Containers,United States,11.69,12.49091,10.0,18.0,11,3458923520,0.44,2026-09-15,2026-08-04,0.63,2026-08-13
+BHF,"Brighthouse Financial, Inc.",Insurance - Life,United States,59.82,65.0,55.0,70.0,6,3440341760,,,2026-11-05,12.83,2026-08-13
+ASH,Ashland Inc.,Specialty Chemicals,United States,74.72,80.18182,70.0,90.0,11,3421680640,1.68,2026-09-01,2026-07-28,1.56,2026-08-13
+RH,RH,Specialty Retail,United States,180.25,175.0,90.0,270.0,17,3411451136,,,2026-09-10,5.1,2026-08-13
+BATRK,"Atlanta Braves Holdings, Inc. -",Entertainment,United States,53.0,61.2,49.0,73.0,5,3400898560,,,2026-11-04,-1.04,2026-08-13
+CXW,"CoreCivic, Inc.",Security & Protection Services,United States,33.6,41.0,36.0,45.0,5,3322821120,,,2026-11-04,1.25,2026-08-13
+SOUN,"SoundHound AI, Inc.",Software - Application,United States,7.4,12.71429,7.0,17.0,7,3286413056,,,2026-11-05,-0.62,2026-08-13
+LRN,"Stride, Inc.",Education & Training Services,United States,78.59,109.0,93.0,125.0,2,3266188032,,,2026-10-27,7.14,2026-08-13
+CWK,Cushman & Wakefield Ltd.,Real Estate Services,United States,13.81,17.36364,14.0,21.0,11,3241396480,,,2026-10-29,0.29,2026-08-13
+ARLP,"Alliance Resource Partners, L.P",Thermal Coal,United States,25.1,31.16667,29.0,33.5,3,3229335808,2.4,2026-08-07,2026-10-26,2.08,2026-08-13
+AAP,Advance Auto Parts Inc.,Auto Parts,United States,53.52,60.10526,35.0,70.0,19,3228819200,1.0,2026-07-10,2026-08-20,1.13,2026-08-13
+LIFE,Ethos Technologies Inc.,Insurance Brokers,United States,33.59,33.125,23.0,40.0,8,3219213824,,,2026-08-03,-1.67,2026-08-13
+FRSH,Freshworks Inc.,Software - Application,United States,11.64,14.38462,10.0,25.0,13,3219076096,,,2026-11-03,0.61,2026-08-13
+STUB,"StubHub Holdings, Inc.",Internet Content & Information,United States,8.54,13.375,9.0,24.0,12,3206234624,,,2026-08-12,-5.4,2026-08-13
+PLUG,"Plug Power, Inc.",Electrical Equipment & Parts,United States,2.29,3.55312,0.75,7.0,16,3199577088,,,2026-11-09,-1.36,2026-08-13
+WRBY,Warby Parker Inc.,Medical Instruments & Supplies,United States,25.32,30.46154,24.0,35.0,13,3129755904,,,2026-11-05,0.06,2026-08-13
+CLSK,"CleanSpark, Inc.",Capital Markets,United States,12.18,23.80769,21.0,27.0,13,3128032000,,,2026-08-06,-3.78,2026-08-13
+SBLK,Star Bulk Carriers Corp.,Marine Shipping,Greece,27.89,32.38,25.9,36.0,5,3114514944,1.88,2026-08-21,2026-08-05,2.57,2026-08-13
+WING,Wingstop Inc.,Restaurants,United States,112.08,206.59259,143.0,300.0,27,3053344512,1.32,2026-08-14,2026-07-29,4.23,2026-08-13
+GPOR,Gulfport Energy Corporation,Oil & Gas E&P,United States,169.53,227.25,186.0,263.0,12,3046393088,,,2026-11-03,26.02,2026-08-13
+ZIM,ZIM Integrated Shipping Service,Marine Shipping,Israel,25.27,24.95,16.5,35.0,4,3045531904,1.99,2026-03-20,2026-08-19,0.82,2026-08-13
+GRBK,"Green Brick Partners, Inc.",Residential Construction,United States,70.11,62.0,62.0,62.0,1,3015479808,,,2026-10-28,6.5,2026-08-13
+DHT,"DHT Holdings, Inc.",Oil & Gas Midstream,Bermuda,18.72,20.51667,19.0,23.0,6,3014699264,4.88,2026-08-17,2026-10-28,2.94,2026-08-13
+FLNC,"Fluence Energy, Inc.",Utilities - Renewable,United States,13.2,16.83333,9.0,24.0,18,3000916480,,,2026-08-05,-0.6,2026-08-13
+TRMD,TORM plc,Oil & Gas Midstream,United Kingdom,28.97,36.0,35.0,37.0,2,2965575424,2.8,2026-05-28,2026-08-26,3.45,2026-08-13
+TTAM,Titan America SA,Building Materials,Belgium,16.03,18.64286,15.0,22.0,7,2955330304,0.16,2026-10-01,2026-07-28,0.96,2026-08-13
+ACHC,"Acadia Healthcare Company, Inc.",Medical Care Facilities,United States,31.7,33.39286,14.5,41.0,14,2951278592,,,2026-07-28,-12.66,2026-08-13
+FIZZ,National Beverage Corp.,Beverages - Non-Alcoholic,United States,30.95,33.0,33.0,33.0,1,2897294592,,2026-07-13,2026-09-10,1.97,2026-08-13
+COLM,Columbia Sportswear Company,Apparel Manufacturing,United States,56.3,69.83333,47.0,92.0,6,2882176768,1.2,2026-08-20,2026-10-29,3.83,2026-08-13
+WIX,Wix.com Ltd.,Software - Infrastructure,Israel,68.75,75.55,50.0,135.0,20,2877154048,,,2026-08-04,-3.54,2026-08-13
+KD,"Kyndryl Holdings, Inc.",Information Technology Services,United States,13.08,14.2,13.0,16.0,5,2849062656,,,2026-11-03,0.36,2026-08-13
+UPST,"Upstart Holdings, Inc.",Credit Services,United States,29.1,40.6,20.0,61.0,15,2785206784,,,2026-11-03,0.52,2026-08-13
+GRND,Grindr Inc.,Software - Application,United States,15.87,20.8,19.0,22.0,5,2758533376,,,2026-11-05,0.46,2026-08-13
+AEO,"American Eagle Outfitters, Inc.",Apparel Retail,United States,16.24,19.5,16.0,31.0,10,2721390848,0.5,2026-07-10,2026-09-02,1.49,2026-08-13
+LUNR,"Intuitive Machines, Inc.",Aerospace & Defense,United States,16.95,39.22222,11.0,75.0,9,2719666688,,,2026-08-13,-0.9,2026-08-13
+PENN,"PENN Entertainment, Inc.",Resorts & Casinos,United States,19.17,24.28947,17.0,30.0,19,2573849088,,,2026-11-05,-6.24,2026-08-13
+NOG,"Northern Oil and Gas, Inc.",Oil & Gas E&P,United States,24.09,30.88889,25.0,36.0,9,2566768384,1.8,2026-09-29,2026-08-06,-4.83,2026-08-13
+LCID,"Lucid Group, Inc.",Auto Manufacturers,United States,6.54,8.2,5.0,17.0,10,2552279552,,,2026-11-04,-13.39,2026-08-13
+TMC,TMC the metals company Inc.,Other Industrial Metals & Mining,Canada,4.47,11.0,10.0,12.25,6,2493913600,,,2026-08-13,-0.82,2026-08-13
+BTDR,Bitdeer Technologies Group,Software - Application,Singapore,9.02,22.83333,14.0,35.0,12,2451475968,,,2026-11-09,-1.98,2026-08-13
+STNE,StoneCo Ltd.,Software - Infrastructure,Cayman Islands,10.0,15.642485,8.68854,22.363787,17,2432282112,,2026-04-24,2026-08-13,2.74,2026-08-13
+COTY,Coty Inc.,Household & Personal Products,United States,2.76,3.13286,1.5,8.0,14,2430087424,,,2026-08-19,-0.61,2026-08-13
+CLOV,"Clover Health Investments, Corp",Healthcare Plans,United States,4.54,5.16667,5.0,5.5,3,2411449344,,,2026-11-04,-0.05,2026-08-13
+LIME,"Neutron Holdings, Inc.",Rental & Leasing Services,United States,37.66,39.42857,36.0,45.0,7,2411216640,,,2026-11-03,-0.93,2026-08-13
+PTON,"Peloton Interactive, Inc.",Leisure,United States,5.42,8.03333,4.0,20.0,15,2378685184,,,2026-11-05,0.14,2026-08-13
+RUN,Sunrun Inc.,Solar,United States,9.84,16.71053,10.5,30.0,19,2369934336,,,2026-11-05,1.47,2026-08-13
+GSHD,"Goosehead Insurance, Inc.",Insurance Brokers,United States,65.55,68.91667,44.0,100.0,12,2342651392,,,2026-10-21,1.37,2026-08-13
+ALGT,Allegiant Travel Company,Airlines,United States,84.44,136.85715,110.0,165.0,14,2308400128,,,2026-11-04,1.11,2026-08-13
+CC,Chemours Company (The),Specialty Chemicals,United States,15.24,21.66667,18.0,26.0,9,2293604608,0.35,2026-08-14,2026-08-04,-2.08,2026-08-13
+UAA,"Under Armour, Inc.",Apparel Manufacturing,United States,5.26,6.425,4.0,12.5,18,2259409664,,,2026-11-05,-1.13,2026-08-13
+AMC,"AMC Entertainment Holdings, Inc",Entertainment,United States,2.53,2.71667,1.8,4.0,6,2258289664,,,2026-10-20,-1.12,2026-08-13
+LC,LendingClub Corporation,Banks - Regional,United States,19.21,23.25,20.0,29.0,10,2215891200,,,,1.5,2026-08-13
+KSS,Kohl's Corporation,Department Stores,United States,19.27,17.84615,9.0,41.0,13,2185217792,0.5,2026-06-10,2026-08-26,2.48,2026-08-13
+JBLU,JetBlue Airways Corporation,Airlines,United States,5.78,5.75312,3.5,8.0,16,2180864512,,,2026-10-27,-2.37,2026-08-13
+ASAN,"Asana, Inc.",Software - Application,United States,8.99,9.13462,5.75,15.0,13,2133896064,,,2026-09-03,-0.67,2026-08-13
+GENI,Genius Sports Limited,Internet Content & Information,United Kingdom,7.65,10.925,6.0,18.0,20,2123846144,,,2026-11-03,-0.66,2026-08-13
+VIA,"Via Transportation, Inc.",Software - Application,United States,25.05,34.0,24.0,55.0,9,2041715584,,,2026-11-05,-2.96,2026-08-13
+QUBT,Quantum Computing Inc.,Computer Hardware,United States,8.92,18.33333,10.0,30.0,6,2019014016,,,2026-11-09,-0.04,2026-08-13
+VERX,"Vertex, Inc.",Software - Application,United States,12.3,17.15385,12.0,25.0,13,1990348288,,,2026-11-02,0.02,2026-08-13
+PGNY,"Progyny, Inc.",Healthcare Plans,United States,25.42,33.81818,27.0,40.0,11,1950395264,,,2026-11-05,0.92,2026-08-13
+SRPT,"Sarepta Therapeutics, Inc.",Biotechnology,United States,18.38,22.08696,5.0,38.0,23,1941424640,,,2026-11-04,-1.58,2026-08-13
+SAM,"Boston Beer Company, Inc. (The)",Beverages - Brewers,United States,183.78,199.84615,160.0,295.0,13,1913782400,,,2026-10-29,-6.68,2026-08-13
+STDN,"Standard Nuclear, Inc.",Specialty Chemicals,United States,11.48,16.0,11.0,20.0,8,1844532096,,,,-0.09,2026-08-13
+CPRI,Capri Holdings Limited,Luxury Goods,United Kingdom,15.55,22.53125,16.0,45.5,16,1767282688,,,2026-11-03,0.78,2026-08-13
+RXRX,"Recursion Pharmaceuticals, Inc.",Biotechnology,United States,3.29,7.25,4.0,10.0,6,1764331776,,,2026-11-04,-0.98,2026-08-13
+GT,The Goodyear Tire & Rubber Comp,Auto Parts,United States,6.04,7.45714,6.0,10.0,7,1738908416,,,2026-11-03,-8.84,2026-08-13
+GLOB,Globant S.A.,Information Technology Services,Luxembourg,38.74,54.54545,31.0,110.0,22,1672776064,,,2026-08-13,2.44,2026-08-13
+WEN,Wendy's Company (The),Restaurants,United States,8.66,7.78947,5.0,13.0,19,1650933760,0.28,2026-09-01,2026-11-06,0.76,2026-08-13
+HPP,"Hudson Pacific Properties, Inc.",Reit - Office,United States,14.31,16.58333,9.0,26.0,12,1586562944,,,2026-11-05,-8.84,2026-08-13
+RCAT,"Red Cat Holdings, Inc.",Aerospace & Defense,United States,10.32,18.33333,15.0,25.0,6,1576012288,,,2026-08-06,-0.78,2026-08-13
+BBAI,"BigBear.ai, Inc.",Information Technology Services,United States,3.26,4.0,4.0,4.0,2,1563152000,,,2026-07-30,-0.02,2026-08-13
+ENR,"Energizer Holdings, Inc.",Electrical Equipment & Parts,United States,22.77,22.33333,18.0,28.0,6,1559141376,1.2,2026-08-19,2026-08-04,1.19,2026-08-13
+EOSE,"Eos Energy Enterprises, Inc.",Electrical Equipment & Parts,United States,4.24,7.0,4.0,11.0,9,1544071168,,,2026-11-04,-6.29,2026-08-13
+ULCC,"Frontier Group Holdings, Inc.",Airlines,United States,6.7,6.77778,4.0,9.0,9,1542445696,,,2026-07-29,-1.68,2026-08-13
+TV,Grupo Televisa S.A.B.,Telecom Services,Mexico,2.83,3.883361,2.2598042,10.236399,9,1491579776,,,2026-10-29,-4.48,2026-08-13
+WWW,"Wolverine World Wide, Inc.",Footwear & Accessories,United States,18.06,21.7,16.0,29.0,10,1480731136,0.4,2026-10-01,2026-08-13,1.23,2026-08-13
+AESI,Atlas Energy Solutions Inc.,Oil & Gas Equipment & Services,United States,11.74,19.0,10.0,25.0,12,1467540480,1.0,2025-08-14,2026-11-02,-0.93,2026-08-13
+BW,"Babcock & Wilcox Enterprises, I",Specialty Industrial Machinery,United States,9.77,22.66667,20.0,25.0,3,1455388800,,,2026-11-03,-0.71,2026-08-13
+ADNT,Adient plc,Auto Parts,Ireland,18.62,30.0,22.0,64.0,12,1435544832,,,2026-11-04,0.53,2026-08-13
+NBR,Nabors Industries Ltd.,Oil & Gas Drilling,Bermuda,89.7,106.625,80.0,130.0,8,1327563904,,,2026-10-27,15.08,2026-08-13
+NVAX,"Novavax, Inc.",Biotechnology,United States,7.96,14.00222,7.0,25.0,9,1312968064,,,2026-11-05,-1.53,2026-08-13
+BKSY,BlackSky Technology Inc.,Specialty Business Services,United States,31.87,38.42375,33.0,50.0,8,1304274944,,,2026-11-05,-1.85,2026-08-13
+FMC,FMC Corporation,Agricultural Inputs,United States,10.24,13.73643,11.0,21.0,14,1282322816,0.32,2026-09-30,2026-10-28,-21.14,2026-08-13
+LAC,Lithium Americas Corp.,Other Industrial Metals & Mining,Canada,3.26,5.71111,3.3,10.0,9,1183215488,,,2026-08-13,-0.45,2026-08-13
+ASIC,Ategrity Specialty Insurance Co,Insurance - Property & Casualty,United States,24.48,29.1,28.0,30.0,5,1175839360,,,2026-10-21,2.11,2026-08-13
+LAR,Lithium Argentina AG,Other Industrial Metals & Mining,Switzerland,6.81,12.0625,8.5,21.0,8,1115709568,,,2026-11-09,-0.34,2026-08-13
+FINV,FinVolution Group,Credit Services,China,4.54,7.304781,5.8315663,9.131879,6,1071866752,0.31,2026-04-16,2026-08-20,1.24,2026-08-13
+UPWK,Upwork Inc.,Internet Content & Information,United States,8.4,10.8125,8.0,18.0,8,1049188224,,,2026-11-02,0.78,2026-08-13
+ENVX,Enovix Corporation,Electrical Equipment & Parts,United States,4.73,12.95,5.5,25.0,10,1031865792,,,2026-08-12,-0.79,2026-08-13
+PXED,"Phoenix Education Partners, Inc",Education & Training Services,United States,26.94,41.375,34.0,51.0,8,971116352,0.84,2026-07-29,2026-07-14,2.16,2026-08-13
+VLRS,Controladora Vuela Compania de ,Airlines,Mexico,7.88,9.42308,7.4,12.0,13,905816768,,,2026-10-26,-1.6,2026-08-13
+GOOS,Canada Goose Holdings Inc. Subo,Apparel Manufacturing,Canada,8.64,9.49167,7.0,12.0,6,843787712,,,2026-07-30,0.42,2026-08-13
+SOC,Sable Offshore Corp.,Oil & Gas Drilling,United States,4.38,13.0,11.0,15.0,2,840388736,,,2026-11-09,-3.24,2026-08-13
+SABR,Sabre Corporation,Software - Infrastructure,United States,2.06,1.99,1.75,2.3,5,831381376,,,2026-11-04,-0.2,2026-08-13
+RPD,"Rapid7, Inc.",Software - Infrastructure,United States,12.27,10.61476,7.0,15.0,21,827005888,,,2026-11-03,0.28,2026-08-13
+ARRY,"Array Technologies, Inc.",Solar,United States,5.19,9.3625,6.0,13.0,20,799299968,,,2026-11-04,-0.93,2026-08-13
+RVI,Robinhood Ventures Fund I,Asset Management,United States,28.64,,,,,780360256,,,,,2026-08-13
+SSYS,"Stratasys, Ltd.",Computer Hardware,United States,8.84,12.33333,11.5,13.5,3,767435776,,,2026-08-13,-1.35,2026-08-13
+NB,NioCorp Developments Ltd.,Other Industrial Metals & Mining,United States,5.22,11.72,9.5,15.0,5,759964288,,,2026-09-28,-0.58,2026-08-13
+ALLO,"Allogene Therapeutics, Inc.",Biotechnology,United States,2.07,9.0,4.0,14.0,9,714469888,,,2026-08-12,-0.74,2026-08-13
+BALY,Bally's Corporation,Resorts & Casinos,United States,13.7,12.25,8.0,15.0,4,670598464,,,2026-08-17,-14.31,2026-08-13
+SWBI,"Smith & Wesson Brands, Inc.",Aerospace & Defense,United States,14.19,17.25,16.5,18.0,2,636275072,0.52,2026-07-01,2026-09-03,0.41,2026-08-13
+BTGO,"BitGo Holdings, Inc.",Capital Markets,United States,4.99,13.3125,6.75,18.0,12,578637440,,,2026-08-12,-0.43,2026-08-13
+TLRY,"Tilray Brands, Inc.",Drug Manufacturers - Specialty & Generic,Canada,4.68,7.84375,4.25,19.0,8,577777600,,,2026-10-08,-1.07,2026-08-13
+DNUT,"Krispy Kreme, Inc.",Grocery Stores,United States,3.3,4.25,3.0,6.0,6,572550016,,,2026-11-05,-0.55,2026-08-13
+OIS,"Oil States International, Inc.",Oil & Gas Equipment & Services,United States,8.88,11.0,8.0,14.0,4,535664864,,,2026-10-29,-1.85,2026-08-13
+GEMI,"Gemini Space Station, Inc.",Capital Markets,United States,4.17,6.11111,4.0,9.0,9,527224768,,,2026-08-13,-4.73,2026-08-13
+ELMT,The Elmet Group Co.,Aerospace & Defense,United States,16.93,20.5,20.0,21.0,4,507559104,,,2026-08-13,-0.14,2026-08-13
+BMBL,Bumble Inc.,Internet Content & Information,United States,2.61,3.9,3.0,5.0,12,399895744,,,2026-11-04,-3.89,2026-08-13
+PLAY,"Dave & Buster's Entertainment, ",Entertainment,United States,10.37,17.0,12.0,25.0,7,360758784,,,2026-09-14,-1.93,2026-08-13
+ABAT,American Battery Technology Com,Waste Management,United States,2.52,6.5,6.0,7.0,2,343764320,,,2026-09-17,-0.5,2026-08-13
+FVRR,Fiverr International Ltd.,Internet Content & Information,Israel,8.66,10.75,9.0,13.0,6,311333312,,,2026-07-29,0.8,2026-08-13
+GLOO,"Gloo Holdings, Inc.",Software - Application,United States,3.41,12.33333,8.0,17.0,6,298621504,,,2026-09-08,-1.8,2026-08-13
+FUBO,fuboTV Inc.,Broadcasting,United States,9.7,17.0,12.0,23.0,8,292981472,,,2026-11-04,3.84,2026-08-13
+RWAY,Runway Growth Finance Corp.,Asset Management,United States,6.78,7.85,5.5,10.0,5,284149152,1.32,2026-08-17,2026-11-05,0.24,2026-08-13
+REA,"Rare Earths Americas, Inc.",Other Industrial Metals & Mining,United States,13.57,29.25,25.0,34.0,4,270141824,,,,-1.34,2026-08-13
+AIRO,"AIRO Group Holdings, Inc.",Aerospace & Defense,United States,8.49,16.5,13.0,20.0,2,266973504,,,2026-08-13,-0.59,2026-08-13
+KRRO,"Korro Bio, Inc.",Biotechnology,United States,13.35,20.2,10.0,30.0,10,196587376,,,2026-08-06,-9.88,2026-08-13
+NKTX,"Nkarta, Inc.",Biotechnology,United States,2.39,11.0,9.0,14.0,6,171183264,,,2026-11-10,-1.64,2026-08-13
+DPRO,Draganfly Inc.,Computer Hardware,Canada,4.57,10.996844,7.9955535,13.860441,6,168555024,,,2026-08-10,-0.74,2026-08-13
+CHPT,"ChargePoint Holdings, Inc.",Specialty Retail,United States,6.4,6.58333,5.0,8.0,6,156263920,,,2026-09-02,-8.85,2026-08-13
+CHGG,"Chegg, Inc.",Education & Training Services,United States,0.8,2.79167,2.0,4.0,6,88855296,,,2026-08-06,-0.46,2026-08-13
+OM,"Outset Medical, Inc.",Medical Devices,United States,4.5,7.66667,6.0,10.0,3,84587240,,,2026-08-06,-3.55,2026-08-13
+STEM,"Stem, Inc.",Utilities - Renewable,United States,5.45,10.33333,7.5,17.0,6,48815392,,,2026-08-12,-7.73,2026-08-13
+KPRX,"Kiora Pharmaceuticals, Inc.",Biotechnology,United States,2.64,12.0,12.0,12.0,1,11680382,,,2025-08-07,-2.41,2026-08-13
+PSUS,PSUS,Asset Management,United States,39.1,42.0,42.0,42.0,1,,,,,,2026-08-13
